@@ -1,5 +1,5 @@
 ! Title: FAFD
-! Version: 08.28.054
+! Version: 09.06.055
 ! Homepage: github.com/hungphambkc/FAFD
 ! Source: chongluadao.vn/thong-ke, Kaspersky, energized.pro
 ! Author: Hung Pham
@@ -1098,6 +1098,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||an.facebook.com/*/vast.xml?*$third-party
 ||an.yandex.ru/count/$csp=script-src
 ||an.yandex.ru/count/$popup
+||analytics.webpushr.com
 ||anime47.com^*.gif
 ||animefull.tv/wow/img/*.gif
 ||anisfx.com
@@ -1259,6 +1260,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||bongngo.cloud/1/index.xml$xmlhttprequest
 ||bongngozz.com/assets/games/*
 ||bongso88.com
+||bot.webpushr.com
 ||botgamevips.com
 ||bowerywill.com^$third-party
 ||boxchat.me
@@ -1312,6 +1314,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||cdn.uc.atwola.com
 ||cdn.uponelectabuzzor.club
 ||cdn.vteamv.com/durex.mp4
+||cdn.webpushr.com
 ||cdn4ads.com
 ||cdnads.90phut.tv
 ||cdnt.netcoresmartech.com
@@ -1601,6 +1604,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||freddyoctavio.pro/am-push-cps.js
 ||freshpops.net
 ||freychang.fun
+||fri4esianewheywr90itrage.com
 ||fructushumble.com
 ||fsdn.tech
 ||fshare.vn/js/adsplay.
@@ -2453,6 +2457,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||phim1080z.com/sponsor/*$image
 ||phim1080z.com/vast.xml
 ||phim18hd.net
+||phim18hd.tv
 ||phimaz.net/ad/*
 ||phimaz.net/media/js/abp.js
 ||phimaz.net/media/js/popaz.js
@@ -2466,6 +2471,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||phimjav.pro
 ||phimjav.tv
 ||phimjav.xyz
+||phimloz.co
 ||phimloz.to
 ||phimloz.vip
 ||phimmedia.tv/templates/themes/phim/js/adblock-checker.js
@@ -2592,6 +2598,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||pornhub.com
 ||pornolaba.mobi
 ||pornoship.com
+||pornozavr.net
 ||pornpic.org
 ||pornvideos8k.com
 ||postimg.cc/*.gif$domain=8bongda.com
@@ -2746,8 +2753,10 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||sex56789.com
 ||sex678.pro
 ||sex89.net
+||sex8x.com
 ||sex98.net
 ||sexapi.xyz
+||sexau.xyz
 ||sexcuto.com
 ||sexcuto.net
 ||sexdam.tv
@@ -2763,6 +2772,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||sexhiepdam.pro
 ||sexhihi.biz
 ||sexhihi.xyz
+||sexhihi69.pro
 ||sexid.icu
 ||sexiframe.com
 ||sexjapans.net
@@ -2786,6 +2796,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||sexphim-hd.pro
 ||sexphim.vip
 ||sexphimmoi.com
+||sexphimmoi.pro
 ||sexphimvip.net
 ||sexquaylen.net
 ||sexshort.app
@@ -3033,6 +3044,8 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||tolyafbnjt9dedjj10.com
 ||toolpg.com^$third-party
 ||top3nhacai.com
+||top3x.pro
+||top3x.vip
 ||top88.info
 ||topapplive.com
 ||topbet1.com
@@ -3132,6 +3145,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||upfile.vn/view/default/image/index-*.gif|
 ||upgulpinon.com
 ||upload69.net/images/*.gif|
+||uprimp.com
 ||upskittyan.com
 ||ursegreatm.fun
 ||us.y.atwola.com
@@ -3388,6 +3402,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||x-n-x-x.pro
 ||x1798.com
 ||x69.tv
+||x8vn.top
 ||xads.codon.vn
 ||xads.top
 ||xahoithongtin.com.vn/*.swf|
