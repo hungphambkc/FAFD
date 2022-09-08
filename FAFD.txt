@@ -925,6 +925,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||789a.club
 ||789b.asia
 ||789bet.io
+||789d.club
 ||7ca78m3csgbrid7ge.com
 ||8123b.com
 ||820mm.live
@@ -1147,6 +1148,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||awltovhc.com^$third-party
 ||aydieso.90.link^$third-party
 ||b.123c.vn/zad/videoad?*
+||b52.vip
 ||bachthuloto.com
 ||bagas31.info
 ||banibajury.website
@@ -1362,6 +1364,8 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||cliphot69.cc
 ||clipsex3x.com
 ||clipvip.tv^$third-party
+||clmm.win
+||clmmpro.com
 ||clmomo.site
 ||cloudfront.net^$domain=4share.vn|chiasenhac.vn|hdo.tv|hatde.tv|megaurl.in|onhax.me|ouo.io|zippyshare.com
 ||cltx247.com
@@ -1496,6 +1500,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||dynamicoxygen.com
 ||dyncdn.me/static/20/js/expla*.js
 ||dzogame.vn/img/ads
+||e.go-mpulse.net
 ||e2ertt.com
 ||e67repidwnfu7gcha.com
 ||eboundservices.com^$third-party
@@ -1507,6 +1512,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||ee66.com
 ||ee77.com
 ||ee88.com
+||eeeyyy.top
 ||effectivecpmgate.com
 ||effectivemeasure.net
 ||effectiveperformanceformat.com
@@ -1517,6 +1523,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||ek883.com
 ||embed.dugout.com
 ||employeechannelinc.com
+||enesstrade500.com
 ||eqads.com
 ||ericaamariwellness.com
 ||ertosatie.com
@@ -1526,6 +1533,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||eu.y.atwola.com
 ||eubetvn.com
 ||euro04.co.uk
+||everfxchain.com
 ||evidon.com
 ||exclamationresound.com
 ||exdynsrv.com^$third-party
@@ -2257,6 +2265,8 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||mattmorrisseyphoto.com
 ||mauchopt.net
 ||maxonclick.com^$third-party
+||may88.live
+||may88.vip
 ||may88.win
 ||mc.yandex.by
 ||mc.yandex.com
@@ -2276,6 +2286,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||media1.admicro.vn^$domain=gamek.vn|genk.vn|kenh14.vn|soha.vn|vtv.vn
 ||mediafire.com/helper_01.swf
 ||mediafire.com/templates/linkto/*
+||medtronicz.com
 ||medyabk.com
 ||mellowads.com
 ||meo257na3rch.com
@@ -2293,6 +2304,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||mightylottrembling.com
 ||milffuck.fun
 ||miniapp-ad.cdn.bcebos.com
+||mining822.com
 ||mint.frzz.net
 ||mixpanel.com
 ||ml314.com
@@ -2369,6 +2381,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||niwooghu.com
 ||no2veeamggaseber.com
 ||nohu52.net
+||nohu88.live
 ||nology.vn^$third-party
 ||nomorepecans.com
 ||nongcuc.com
@@ -2390,6 +2403,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||ol.jp.at.atwola.com
 ||ol.uk.at.atwola.com
 ||olalive-storage.s3.ap-southeast-1.amazonaws.com/assets/banner-images/*
+||olymoption.com
 ||omtrdc.net
 ||onclasrv.com^$third-party
 ||onclickads.net
@@ -2648,6 +2662,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||qq809.live
 ||qq818.live
 ||qq835.me
+||qqmining.com
 ||qsmfqeubxlgma.top
 ||qua-eu.at.atwola.com
 ||quachdaica.net/*/qdc*
@@ -2672,6 +2687,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||relmac.net
 ||render-server.cdn.bcebos.com
 ||rendykunto.com
+||reporting.go-mpulse.net
 ||resalag.com
 ||responsibleassociation.com
 ||rev2pub.com
@@ -2682,6 +2698,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||richads.com
 ||richaudience.com
 ||rigelink.com^$third-party
+||rik89.club
 ||rikfun.club
 ||rikvip.link
 ||rikvip.me
@@ -2710,6 +2727,9 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||runreferences.com
 ||rutracker.org^$subdocument,object
 ||rutrk.org^$third-party
+||s.go-mpulse.net
+||s2.go-mpulse.net
+||s2-test.go-mpulse.net
 ||s*block.com^$third-party
 ||s3kuma.com
 ||s88677.com
@@ -2930,6 +2950,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||stc.nas.nixcdn.com^$domain=nhaccuatui.com
 ||steadfastsystem.com
 ||steepto.com^$websocket,third-party
+||stofline.com
 ||storm-x.io
 ||stpd.cloud
 ||stream321.xyz
@@ -3015,6 +3036,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||thongtincongty.com/qctruot.js
 ||thongtinnhacai.net
 ||thoughtleadr.com
+||thsdbj.com
 ||thterras.com^$third-party
 ||thuckhuya.net/*.gif
 ||thuckhuya.tv/wp-content/uploads/*.gif
@@ -3264,7 +3286,13 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||verycheap.cheap-ads.net
 ||veryhot.porn
 ||vexacion.com
+||vf001.com
+||vf002.com
+||vf003.com
+||vf004.com
+||vf005.com
 ||vf181818.com
+||vf555.com
 ||vgdn.net/apoop/play_background_*
 ||vi.ml314.com
 ||video.xlviirdr.com
@@ -3318,6 +3346,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||vlxyz.net
 ||vmuid.com
 ||vn-gmtdmp.mookie1.com
+||vn-sc8.xyz
 ||vn-zoom.org/Banner-
 ||vn138.info
 ||vn138bet.com
