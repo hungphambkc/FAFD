@@ -1386,6 +1386,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||creative.xlviirdr.com
 ||creepingbrings.com
 ||criteo.$third-party
+||crpt.livejasmin.com
 ||crwdcntrl.net
 ||cuddlethehyena.com
 ||cuoc8live.com
@@ -1525,6 +1526,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||exosrv.com^$third-party
 ||exponential.com
 ||extreme-dm.com^$third-party
+||eyebrowscrambledlater.com
 ||ezodn.com
 ||ezoic.net
 ||ezojs.com
@@ -1892,6 +1894,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||javhayz.pro
 ||javhd.cool
 ||javhd.dev
+||javhd.icu
 ||javhd.lol
 ||javhd.news
 ||javhd.onl
@@ -1916,6 +1919,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||javleak.com
 ||javmienphi.com
 ||javmost.com
+||javmost.cx
 ||javngon.com
 ||javnhatban.com
 ||javnhe.me
@@ -2363,6 +2367,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||nohu88.live
 ||nology.vn^$third-party
 ||nomorepecans.com
+||nonecss.com
 ||nongcuc.com
 ||novanet.vn^$third-party
 ||novanetservice.com
@@ -2888,12 +2893,14 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||soicau.org
 ||solemik.com
 ||somo.vn^$popup,third-party
+||son-in-lawmorbid.com
 ||songlong8886.com
 ||sonyfan.vn/*.swf
 ||sosigninggrudge.com
 ||sovetnik.market.yandex.ru^$third-party
 ||sovetnik.yandex.net^$third-party
 ||soytehoabinh.gov.vn/2021/*.html
+||sp.tinymce.com
 ||spankbang.com
 ||specificationmadamdetriment.com
 ||spewyelks.com
@@ -3297,6 +3304,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||viimcu.com
 ||vip3x.pro
 ||vipsex.pro
+||visariomedia.com
 ||visiblejoseph.com
 ||vivo.vn/skin/js/ova-jquery.js
 ||vjav.com
