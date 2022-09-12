@@ -808,13 +808,10 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||.*/wp-content/plugins/better-adsmanager/*
 ||.*/wp-content/plugins/chp-ads-block-detector/*
 ||03ed9035a0801f.com
-||10.at.atwola.com
-||11.at.atwola.com
 ||1111mc.com
 ||118.69.168.115/PolyadsFile/*
 ||118kbet.com
 ||11bet.club
-||12.at.atwola.com
 ||123b.bet
 ||123b.com
 ||123b.org
@@ -837,34 +834,25 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||12betvn88.com
 ||12betvn88.com^$popup
 ||12thethao.com
-||13.at.atwola.com
 ||1337x.to/sw.js
 ||138bet.com
 ||138bet.top
 ||138bets.net
-||14.at.atwola.com
 ||168ttwin.com
 ||173fanli.com
-||18.at.atwola.com
 ||188bet.com
 ||188bet.guru
 ||188bet.plus
 ||188bongda.com
 ||188bongda.com^$popup,third-party
 ||188bongda.net
-||19.at.atwola.com
 ||195.82.146.52
 ||1frozenthrone1.com
 ||1phimsex.net
 ||1phimsex.tv
 ||1wlvcb.top
-||20.at.atwola.com
 ||20icipp.com
-||21.at.atwola.com
 ||210.211.108.201:81/jsads/*
-||22.at.atwola.com
-||23.at.atwola.com
-||24.at.atwola.com
 ||24game.vn^$popup
 ||24h.com.vn/upload/*background
 ||24h.com.vn/upload/*banner
@@ -876,8 +864,6 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||24hstatic.com/upload/*background
 ||24hstatic.com/upload/*bg
 ||24live.vip
-||25.at.atwola.com
-||26.at.atwola.com
 ||2banh.vn/*/script_banner/*
 ||2llmonds4ehcr93nb.com
 ||2qj7mq3w4uxe.com
@@ -897,7 +883,6 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||46.246.120.230/pop-imp.js
 ||4dsply.com
 ||4hfchest5kdnfnut.com
-||5.at.atwola.com
 ||5123b.com
 ||5637831.com
 ||567liveapi001.com
@@ -910,7 +895,6 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||5giay.vn/trangchu/support/support*.js
 ||5shbet.com
 ||5toft8or7on8tt.com
-||6.at.atwola.com
 ||64751234.com
 ||6689.site
 ||668kbet.com
@@ -1288,6 +1272,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||bu3le2lp4t45e6i.com
 ||budvawshes.ru
 ||buoito.vip
+||buom.tv
 ||buysellads.com
 ||buzzadnetwork.com^$third-party
 ||c.aaxads.com
@@ -1307,10 +1292,8 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||casalemedia.com
 ||casio67.club
 ||cdn.*/static/js/amvn.js
-||cdn.at.atwola.com
 ||cdn.atwola.com
 ||cdn.bncloudfl.com
-||cdn-sec.tacoda.at.atwola.com
 ||cdn.itskiddoan.club
 ||cdn.ml314.com
 ||cdn.uc.atwola.com
@@ -1333,9 +1316,9 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||chartbeat.com
 ||chengduyouzhile.com
 ||chich.live
-||chich028.live
 ||chich.vip
 ||chich0118.live
+||chich028.live
 ||chinababe.net
 ||chioneflake.com
 ||chipmanksmochus.com
@@ -1432,7 +1415,6 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||dc.mpapis.xyz/vast/*
 ||dcm.xxx
 ||dd713.bj.bcebos.com
-||de.at.atwola.com
 ||debet.info
 ||deehalig.net
 ||defaultdsp.admicro.vn^$third-party
@@ -1608,7 +1590,6 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||fouanalytics.com
 ||fout.jp
 ||fptplay.vn/js/videojs/*ads.js
-||fr.at.atwola.com
 ||freddyoctavio.pro/am-push-cps.js
 ||freshpops.net
 ||freychang.fun
@@ -1726,7 +1707,6 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||grootcho.com
 ||gsspcln.jp
 ||gstatic.com/pub-config/ca-pub*
-||guce.tacoda.at.atwola.com
 ||gxkh.lol
 ||gzlmz.me
 ||hackmeta.pro
@@ -1989,7 +1969,6 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||jmtomcgqnsczl.com
 ||jomtingi.net
 ||jouteetu.net
-||jp.at.atwola.com
 ||js-1withj.stackblitz.io
 ||js-2dfx8svt.stackblitz.io
 ||js-3jeoen.stackblitz.io
@@ -2399,9 +2378,6 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||oddscornflower.com
 ||offerimage.com
 ||ogtcwsqeejrfom.xyz
-||ol.at.atwola.com
-||ol.jp.at.atwola.com
-||ol.uk.at.atwola.com
 ||olalive-storage.s3.ap-southeast-1.amazonaws.com/assets/banner-images/*
 ||olymoption.com
 ||omtrdc.net
@@ -2504,6 +2480,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||phimsec.vip
 ||phimsec.xxx
 ||phimset.pro
+||phimsex99.co
 ||phimsex-ditnhau.pro
 ||phimsex-hd.pro
 ||phimsex-vietnam.pro
@@ -2664,7 +2641,6 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||qq835.me
 ||qqmining.com
 ||qsmfqeubxlgma.top
-||qua-eu.at.atwola.com
 ||quachdaica.net/*/qdc*
 ||quantcast.mgr.consensu.org
 ||quantri.timbus.vn/Media/Uploads/*.jpg
@@ -2934,7 +2910,6 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||ssm.codes
 ||sspapi.admicro.vn^$third-party
 ||st.game.thanhnien.com.vn^$third-party
-||stage.guce.tacoda.at.atwola.com
 ||stagepopkek.com
 ||statchecker.yandex.ru^$third-party
 ||statcounter.com
@@ -3011,8 +2986,6 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||tazogames.com
 ||teenax.com
 ||tenlua.vn/img/*_banner*.gif|
-||ter-ap.at.atwola.com
-||ter-us.at.atwola.com
 ||terratraf.com^$third-party
 ||thanosofcos5.com
 ||thatsouh.com
@@ -3097,8 +3070,8 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||trollbongda.com/templates/troll/images/*.gif
 ||tructiepbongda.xyz/images/qc/*
 ||trumchanle99.fun
+||trungquocsex.com
 ||trungtamtinhoc.edu.vn/inc/colorbox/*
-||trunk.guce.tacoda.at.atwola.com
 ||truongblogger.top
 ||trustedgatetocontent.com
 ||truyen1h.net
@@ -3119,6 +3092,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||tube4world.com
 ||tubeof.porn
 ||tuoinung.com
+||tuoivl.com
 ||tuthienbao.com/*.swf
 ||tuyensinh.*.edu.vn^$popup,third-party
 ||tv.csmtalk.vcdn.vn/talktv_v2/resource/*foobar.*
@@ -3148,7 +3122,6 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||uh.nakanohito.jp
 ||uh0.nakanohito.jp
 ||uhlagm.rakurakuseisan.jp
-||uk.at.atwola.com
 ||ukgfxw.satofull.jp
 ||umedaumeda.ec-net.jp
 ||uncn.jp
