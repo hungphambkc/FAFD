@@ -1,10 +1,10 @@
 ! Title: FAFD
-! Version: 09.06.055
+! Version: 09.21.060
 ! Homepage: github.com/hungphambkc/FAFD
 ! Source: chongluadao.vn/thong-ke, Kaspersky, energized.pro
 ! Author: Hung Pham
 ! Copyright: Shylenien
-! Expires: 7 days
+! Updated: Sun, 21 Sep 22
 ! ========================== General Element Hiding ===========================
 ##._popIn_infinite_ad
 ##._popIn_infinite_video
@@ -466,8 +466,6 @@ smailpro.com###__vliadb83
 smailpro.com###__vliadb83-bg
 smailpro.com###bsa-zone_1643057563258-5_123456
 smailpro.com###bsa-zone_1643057609522-3_123456
-smser.net##.adsbygoogle
-smser.net##.mx-auto.bg-indigo-50
 subscene.com##.banner
 tailieu.vn##.fleft.doc300 > div > .adsbygoogle
 tailieuhust.com##.sgpb-popup-dialog-main-div-wrapper
@@ -804,9 +802,6 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ! ====================== Third-party adverts and trackers =====================
 *-ad.24hstatic.com
 *.accountant^$third-party
-||.*/wp-content/plugins/ad-inserter/*
-||.*/wp-content/plugins/better-adsmanager/*
-||.*/wp-content/plugins/chp-ads-block-detector/*
 ||03ed9035a0801f.com
 ||1111mc.com
 ||118.69.168.115/PolyadsFile/*
@@ -910,6 +905,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||789b.asia
 ||789bet.io
 ||789d.club
+||79xmz3lmss.com
 ||7ca78m3csgbrid7ge.com
 ||8123b.com
 ||820mm.live
@@ -1104,6 +1100,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||api.twitter.com/1.1/onboarding/referrer.json|$xmlhttprequest
 ||app.link^$third-party
 ||apple8.com.vn/?*$popup,third-party
+||aps.xplosion.de
 ||aptimorph.com
 ||ar.atwola.com
 ||arrassley.info^$third-party
@@ -1246,6 +1243,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||bongngo.cloud/1/index.xml$xmlhttprequest
 ||bongngozz.com/assets/games/*
 ||bongso88.com
+||boot.pbstck.com
 ||bot.webpushr.com
 ||botgamevips.com
 ||bowerywill.com^$third-party
@@ -1300,12 +1298,14 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||cdn.uponelectabuzzor.club
 ||cdn.vteamv.com/durex.mp4
 ||cdn.webpushr.com
+||cdn.xplosion.de
 ||cdn4ads.com
 ||cdnads.90phut.tv
 ||cdnt.netcoresmartech.com
 ||cedexis-radar.net
 ||cedexis.com
 ||celeritascdn.com^$third-party
+||cer43asett2iu5m.com
 ||cerotop.com^$third-party
 ||ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me^$third-party
 ||chaindedicated.com
@@ -1315,6 +1315,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||chanrau.pro
 ||chartbeat.com
 ||chengduyouzhile.com
+||cheno3yp5odt7iume.com
 ||chich.live
 ||chich.vip
 ||chich0118.live
@@ -1458,6 +1459,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||dk816.com
 ||dk867.com
 ||dk8809.com
+||dk8815.com
 ||dk902.com
 ||dktrade.com
 ||do.aeoliancorojo.com
@@ -1632,6 +1634,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||gaigoi18.pro
 ||gaigutv.net
 ||gaimup.pro
+||gaisex.top
 ||gaivietdo.com
 ||gaixinhsg.xyz
 ||galaxy3555.com
@@ -1705,6 +1708,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||graph.instagram.com
 ||greenupload.com/images/*.gif$domain=thiendia.com
 ||gregfeingoldmusic.com
+||grirault.net
 ||gritaware.com
 ||grootcho.com
 ||gsspcln.jp
@@ -1765,6 +1769,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||heo69.org
 ||heo69.pro
 ||heo69.sex
+||heo69.top
 ||heo69.tube
 ||heo69.xyz
 ||heodem.com
@@ -1868,6 +1873,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||japanpisstv.com
 ||jarvispopsu.com
 ||jav-porn-tube.com
+||jav.casa
 ||jav.guru
 ||jav.xxx
 ||jav1s.net
@@ -1875,6 +1881,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||jav21.vip
 ||jav2k.net
 ||jav69.io
+||jav69.tube
 ||jav98.net
 ||jav99.biz
 ||javbabe.net
@@ -1882,16 +1889,19 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||javcl.com
 ||javcotrang.com
 ||javdem.me
+||javdep.net
 ||javf1.com
 ||javfilm.tv
 ||javfilm.us
 ||javgay.tv
 ||javgg.net
 ||javgiga.com
+||javhay.online
 ||javhay.org
 ||javhay.sex
 ||javhayz.net
 ||javhayz.pro
+||javhd.com
 ||javhd.cool
 ||javhd.dev
 ||javhd.icu
@@ -1928,6 +1938,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||javonline.tv
 ||javphe.cc
 ||javphe.pro
+||javphim.cam
 ||javphim.cc
 ||javphim.live
 ||javphim.org
@@ -1943,6 +1954,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||javsex.vip
 ||javsextoy.com
 ||javsts.com
+||javsub.mobi
 ||javsub.vip
 ||javteentube.com
 ||javthailan.com
@@ -1957,6 +1969,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||javtrailers.com
 ||javtreem.com
 ||javtvnow.xyz
+||javviet.net
 ||javvietsub.cc
 ||javvn.net
 ||javvn.pro
@@ -2190,10 +2203,12 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||lightkeeperspublishing.com
 ||like.vn^$popup,third-party
 ||lilureem.com
+||limurol.com
 ||link88betvn.com
 ||linkhay.com/actions/linkView/linkClick.php?*$popup,third-party
 ||linkneverdie.com
 ||linknhacai88.com
+||littlecutecats.com
 ||littlecutedogs.com
 ||litvcoin.com
 ||live8800.com
@@ -2202,6 +2217,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||livecasino.io
 ||livetranss.com
 ||livezombymil.com
+||lns-ev.xplosion.de
 ||lo8ve6ygour3pea4cee.com
 ||loading-delivery1.com
 ||lobhbppyfrronof.com
@@ -2247,6 +2263,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||maryannecg.com
 ||mattmorrisseyphoto.com
 ||mauchopt.net
+||maw5r7y9s9helley.com
 ||maxonclick.com^$third-party
 ||may88.live
 ||may88.vip
@@ -2456,6 +2473,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||phimaz.net/ad/*
 ||phimaz.net/media/js/abp.js
 ||phimaz.net/media/js/popaz.js
+||phimcave.com
 ||phimchieurap.vn^$third-party
 ||phimhay.info^$third-party
 ||phimhd.sex
@@ -2510,24 +2528,29 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||phimsexcom.com
 ||phimsexcom.net
 ||phimsexcom.pro
+||phimsexdongtinh.net
 ||phimsexgaixinh.pro
 ||phimsexhan.com
 ||phimsexhay.monster
 ||phimsexhay.xxx
 ||phimsexhay3x.com
+||phimsexhay669.com
 ||phimsexhay69.com
 ||phimsexhaymoi.net
 ||phimsexhayvl.com
 ||phimsexhd.org
 ||phimsexhdx.net
 ||phimsexjav.club
+||phimsexjav.net
 ||phimsexkhongche.club
 ||phimsexkhongche.xyz
 ||phimsexkoche.vip
+||phimsexkoche.xyz
 ||phimsexloanluan.biz
 ||phimsexmy.biz
 ||phimsexmy.vip
 ||phimsexnhat.org
+||phimsexnhatban.cc
 ||phimsexnhatban.me
 ||phimsexol.pro
 ||phimsexonline.me
@@ -2552,6 +2575,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||phimsexxx.me
 ||phimsexz.biz
 ||phimsexz.vip
+||phimtxx.com
 ||phimxviet.pro
 ||phimxxx.tube
 ||phimxxxvn.net
@@ -2708,6 +2732,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||runreferences.com
 ||rutracker.org^$subdocument,object
 ||rutrk.org^$third-party
+||s-onetag.com
 ||s.go-mpulse.net
 ||s2.go-mpulse.net
 ||s2-test.go-mpulse.net
@@ -2752,6 +2777,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||sex3x.tv
 ||sex4k.tv
 ||sex56789.com
+||sex6688.link
 ||sex678.pro
 ||sex89.net
 ||sex8x.com
@@ -2774,6 +2800,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||sexhihi.biz
 ||sexhihi.xyz
 ||sexhihi69.pro
+||sexhihii.net
 ||sexid.icu
 ||sexiframe.com
 ||sexjapans.net
@@ -2877,9 +2904,11 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||smarbattery.com
 ||smartchoice89.com
 ||smileoffennec.com
+||smser.net
 ||snap.licdn.com
 ||snappedimpressive.com
 ||snugglethesheep.com
+||sobakenchmaphk.com
 ||sociomantic.com
 ||socolive.cc
 ||sodo02.com
@@ -2914,6 +2943,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||srv.vivaclix.com
 ||ssaimg.com
 ||ssi61.com
+||ssl.xplosion.de
 ||ssm.codes
 ||sspapi.admicro.vn^$third-party
 ||st.game.thanhnien.com.vn^$third-party
@@ -2951,6 +2981,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||subjavhd.com
 ||successfulpatience.com
 ||sun.games
+||sun.to
 ||sunnycategoryopening.com
 ||sunsekrious.com
 ||sunvin.vin
@@ -2960,6 +2991,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||swag.live
 ||switchads.com
 ||sxnlmndjyvbccdk.com
+||sya9yncn3q.com
 ||syngrestic.com
 ||systemupdatesy.life
 ||ta3nfsordd.com
@@ -3092,6 +3124,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||truyensex.tv
 ||truyentranhtuan.com/wp-content/banners/*
 ||truyentv.net
+||truyenx.net
 ||tsyndicate.com
 ||ttgmjfgldgv9ed10.com
 ||tttd.vn$popup,third-party
@@ -3148,6 +3181,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||upgulpinon.com
 ||upload69.net/images/*.gif|
 ||uprimp.com
+||ups.xplosion.de
 ||upskittyan.com
 ||ursegreatm.fun
 ||us.y.atwola.com
@@ -3155,8 +3189,10 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||userreport.com^$third-party
 ||uslblock.com
 ||usounoul.com
+||uss.xplosion.de
 ||ustxsntseyhwsx.com
 ||v567p.xyz
+||v6rxv5coo5.com
 ||v8l.info
 ||v99bet.vip
 ||v9banners.com^$third-party
@@ -3284,6 +3320,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||viet3x.tv
 ||viet69.app
 ||viet69.dev
+||viet69.social
 ||vietad.vn
 ||vietcomcard.com
 ||vietcomdank.com
@@ -3315,10 +3352,12 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||vlphimsex.org
 ||vlphimsex.tv
 ||vlxtop.net
+||vlxx.com
 ||vlxx.es
 ||vlxx.in
 ||vlxx.sex
 ||vlxx.wtf
+||vlxx24h.com
 ||vlxxsex.cc
 ||vlxxsex.com
 ||vlxxsex.me
@@ -3423,13 +3462,16 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||xem-xxx.com
 ||xem3x.me
 ||xem3x.pro
+||xemanhnong.asia
 ||xembongda24h.com/images/banners/*
 ||xembongda24h.com/templates/xbd/js/qc-vbd.js
 ||xembongdahd.net/themes/abongda/images/banner*.gif|
+||xemdit.net
 ||xemgai.live
 ||xemhay.pro
 ||xemjav.org
 ||xemjav.pro
+||xemphimsec.net
 ||xemphimso.com/img/*.gif
 ||xemphimso.com/img/*.swf
 ||xemphimso.com/img/*$third-party,image,object
@@ -3452,6 +3494,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||xevathethao.vn^$third-party
 ||xgoucaulj.com
 ||xhamster.com
+||xhub.tv
 ||xinh.tv
 ||xinh1.com
 ||xinh2.com
@@ -3475,6 +3518,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||xnxx.su
 ||xnxx.tv
 ||xnxx4k.net
+||xnxx98.net
 ||xnxxes.live
 ||xnxxhay.top
 ||xnxxpro.net
@@ -3482,6 +3526,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||xnxxvip.cc
 ||xnxxvn.me
 ||xnxxvn.org
+||xnxxvn.top
 ||xnxxvn.xxx
 ||xnxxz.net
 ||xomyeu.net
@@ -3493,6 +3538,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||xvideo-jp.com
 ||xvideo69.plus
 ||xvideos-cdn.com
+||xvideos-proxy.com
 ||xvideos-vn.com
 ||xvideos.com
 ||xvideos2.com
@@ -3510,6 +3556,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||xviet.tv
 ||xviet.xxx
 ||xvietsub.com
+||xwlketvkzf.com
 ||xxbase.org
 ||xxjav.cc
 ||xxngon.net
@@ -5162,6 +5209,8 @@ mail.google.com##.Bu.y3
 music.youtube.com##ytmusic-mealbar-promo-renderer
 studio.youtube.com,youtube-nocookie.com,youtube.com##.ytp-pause-overlay
 studio.youtube.com#@$?#.opened { remove: true; }
+youtube.com,youtube-nocookie.com#@#+js(json-prune, [].playerResponse.adPlacements [].playerResponse.playerAds playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
+youtube-nocookie.com,youtube.com#%#//scriptlet('json-prune', '0.playerResponse.adPlacements 0.playerResponse.playerAds playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds')
 youtube.com##.ad-container
 youtube-nocookie.com,youtube.com##.annotation.iv-branding
 youtube-nocookie.com,youtube.com##.annotation.iv-promo
@@ -5222,6 +5271,7 @@ youtube.com###video-masthead
 youtube.com###watch7-branded-banner
 youtube.com###watch7-sidebar-ads
 youtube.com##ytd-display-ad-renderer:upward(ytd-rich-item-renderer)
+youtube.com##ytd-item-section-renderer.ytd-section-list-renderer:has( > div#contents > ytd-promoted-sparkles-text-search-renderer )
 youtube.com##ytd-popup-container > iron-dropdown .ytd-popup-container[position-type="OPEN_POPUP_POSITION_BOTTOMLEFT"]
 youtube.com##ytd-popup-container[class="style-scope ytd-app"] > iron-dropdown[force-close-on-outside-click="true"]
 youtube.com##ytd-rich-section-renderer:has( > #content > ytd-statement-banner-renderer)
@@ -5551,6 +5601,7 @@ youtube.com#$##ticker.ytd-masthead { display: none!important; }
 ||youtube.com/get_video_*el=adunit*
 ||youtube.com/get_video_info?*=adunit&$important
 ||youtube.com/get_video_info?$~third-party,badfilter
+||youtube.com/pagead/
 ||youtube.com/yts/jsbin/www-pagead-id-
 ! =========================== Yahoo Trackers & ADS ============================
 answers.yahoo.com##[id$="textads"]
