@@ -4,7 +4,7 @@
 ! Source: chongluadao.vn/thong-ke, Kaspersky, energized.pro
 ! Author: Hung Pham
 ! Copyright: Shylenien
-! Updated: Sun, 21 Sep 22
+! Updated: 23 Sep 22
 ! ========================== General Element Hiding ===========================
 ##._popIn_infinite_ad
 ##._popIn_infinite_video
@@ -229,6 +229,7 @@ biluu.co##.ads-fix-bottom-left
 biluu.tv##.ads-header
 biphim.co##.banner-sticky-footer-wrapper
 blackboxrepack.com##.down
+blogtruyen.vn##.al-c.BT-Ads
 blogtruyen.vn##.BT-Ads > center > a
 blogtruyen.vn##.manga-detail > center > a
 blogtruyen.vn##.qc-css
@@ -893,6 +894,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||64751234.com
 ||6689.site
 ||668kbet.com
+||66touo.com
 ||6788bet.com
 ||6789live.com
 ||6833127.com
@@ -1363,6 +1365,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||cohet.tv/ajs/*
 ||coin98.net^$subdocument,third-party
 ||coinn2019.com
+||coins-trade.cash
 ||coinurl.com^$third-party
 ||coiphimsex.pro
 ||coisex.vip
@@ -1417,6 +1420,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||dc.mpapis.xyz/vast/*
 ||dcm.xxx
 ||dd713.bj.bcebos.com
+||ddexant.co
 ||debet.info
 ||deehalig.net
 ||defaultdsp.admicro.vn^$third-party
@@ -1653,6 +1657,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||garenavn-giftcode-lqmb1.com
 ||gastingitea.com
 ||gaurecorah.com
+||gecare.life
 ||genericsteps.com
 ||genieessp.com^$third-party
 ||genieesspv.jp^$third-party
@@ -1805,9 +1810,9 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||htvncdn.net
 ||hugfromoctopus.com
 ||huhyrcco.com
+||hust.media
 ||huto.club
 ||hypomnimata.com
-||i.blogtruyen.com/file/$image
 ||i.imgur.com/*.gif$domain=90p.live|phut90.online|phut91.online|binhluanvidamme.online|bongdatv.net|bongngozz.com|macintosh.vn|phimgi.tv|phimmedia.tv|phimnhe.net|topbongda.com
 ||i.k8info.com/images/promo/$third-party
 ||i.vebo.news/images/*.gif$image
@@ -1885,6 +1890,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||jav98.net
 ||jav99.biz
 ||javbabe.net
+||javbiz.net
 ||javchill.com
 ||javcl.com
 ||javcotrang.com
@@ -2101,7 +2107,9 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||kimochi.info
 ||kinkledunendly.com^$third-party
 ||kliksaya.com
+||km1154.com
 ||km1888b.com
+||km6635.com
 ||kneeansweras.com
 ||kof33.com
 ||kontera.com
@@ -2178,6 +2186,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||kw3y5otoeuniv7e9rsi.com
 ||kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
 ||labbangs.com
+||lame7bsqu8barters.com
 ||lammasbananas.com
 ||lamtinh.pro
 ||lapsebreak.com
@@ -2578,6 +2587,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||phimtxx.com
 ||phimxviet.pro
 ||phimxxx.tube
+||phimxxx.xxx
 ||phimxxxvn.net
 ||phimxxxx.net
 ||phimyy.com
@@ -2670,6 +2680,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||qq835.me
 ||qqmining.com
 ||qsmfqeubxlgma.top
+||qu-task.top
 ||quachdaica.net/*/qdc*
 ||quantcast.mgr.consensu.org
 ||quantri.timbus.vn/Media/Uploads/*.jpg
@@ -2700,6 +2711,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||revsci.net
 ||rf.shroffmere.com
 ||rhinoceroscoketooth.com
+||rhty11r.com
 ||richads.com
 ||richaudience.com
 ||rigelink.com^$third-party
@@ -2987,6 +2999,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||sunvin.vin
 ||supjav.com
 ||supremejav.com
+||suvip.fun
 ||suzihaza.com
 ||swag.live
 ||switchads.com
@@ -3402,6 +3415,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||vuighe.net/mmo/*
 ||vungtrom.tv
 ||vv84.bj.bcebos.com
+||vvbpm.com
 ||vwin.com
 ||vws.vegacdn.vn/QCBinhluan/*
 ||vwthethao.club
@@ -3446,6 +3460,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||www-go88.vin
 ||wwwpromoter.com
 ||wxtp.cdn.bcebos.com
+||wyul8d.com
 ||wzjs.cdn.bcebos.com
 ||wzjs2.cdn.bcebos.com
 ||x-n-x-x.pro
@@ -3630,6 +3645,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||zoroinu.io
 ||zquotfuofx.com
 ||zunsoach.com
+||zy3d3.vip
 ||zyf03k.xyz
 ! =========================== Cloudfront ============================
 ||d100dqxvgtcm3l.cloudfront.net
