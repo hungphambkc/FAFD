@@ -1,10 +1,10 @@
 ! Title: FAFD
-! Version: 09.21.060
+! Version: 09.21.061
 ! Homepage: github.com/hungphambkc/FAFD
 ! Source: chongluadao.vn/thong-ke, Kaspersky, energized.pro
 ! Author: Hung Pham
 ! Copyright: Shylenien
-! Updated: 23 Sep 22
+! Updated: 23 Oct 22
 ! ========================== General Element Hiding ===========================
 ##._popIn_infinite_ad
 ##._popIn_infinite_video
@@ -1486,6 +1486,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||dummieseardrum.com
 ||duoctu-hd.edu.vn/2021_*/
 ||duplicatepowerquay.com
+||dxmjyxksvc.com
 ||dynamicoxygen.com
 ||dyncdn.me/static/20/js/expla*.js
 ||dzogame.vn/img/ads
@@ -2786,6 +2787,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||sex1s.net
 ||sex24h.link
 ||sex333.net
+||sex369.net
 ||sex3x.tv
 ||sex4k.tv
 ||sex56789.com
