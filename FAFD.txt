@@ -1,10 +1,10 @@
 ! Title: FAFD
-! Version: 09.21.061
+! Version: 11.13.062
 ! Homepage: github.com/hungphambkc/FAFD
 ! Source: chongluadao.vn/thong-ke, Kaspersky, energized.pro
 ! Author: Hung Pham
 ! Copyright: Shylenien
-! Updated: 23 Oct 22
+! Updated: 15 Nov 22
 ! ========================== General Element Hiding ===========================
 ##._popIn_infinite_ad
 ##._popIn_infinite_video
@@ -804,6 +804,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 *-ad.24hstatic.com
 *.accountant^$third-party
 ||03ed9035a0801f.com
+||0i0i0i0.com
 ||1111mc.com
 ||118.69.168.115/PolyadsFile/*
 ||118kbet.com
@@ -859,6 +860,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||24hstatic.com/upload/*-mailisa*
 ||24hstatic.com/upload/*background
 ||24hstatic.com/upload/*bg
+||24live.tv
 ||24live.vip
 ||2banh.vn/*/script_banner/*
 ||2llmonds4ehcr93nb.com
@@ -1107,12 +1109,14 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||ar.atwola.com
 ||arrassley.info^$third-party
 ||arswabluchan.com
+||artogd.com
 ||as.y.atwola.com
 ||asacdn.com
 ||ascolicalcio.net
 ||asgclickkl.com^$third-party
 ||asian-sex.pro
 ||asianbetting.net
+||aso1.net
 ||assasiasex.com
 ||assets.voz.vn/ga/*
 ||asto-exo.com^$third-party
@@ -1278,6 +1282,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||c.aaxads.com
 ||c.tmyzer.com
 ||c88bet2.co
+||ca4psell23a4bur.com
 ||cabbagehomme.casa
 ||cachchoi.net
 ||cachefly.net/js/ad-exchange.js
@@ -1421,6 +1426,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||dcm.xxx
 ||dd713.bj.bcebos.com
 ||ddexant.co
+||ddspb.com
 ||debet.info
 ||deehalig.net
 ||defaultdsp.admicro.vn^$third-party
@@ -1440,6 +1446,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||dfnb-ads.com^$third-party
 ||dhrhzii89gpwo.cloudfront.net
 ||di13.biz
+||diamondplazaz.com
 ||diampokusy.com
 ||diendanlequydon.com^$third-party
 ||dinamomatbaa.com
@@ -1912,12 +1919,14 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||javhd.cool
 ||javhd.dev
 ||javhd.icu
+||javhd.im
 ||javhd.lol
 ||javhd.news
 ||javhd.onl
 ||javhd.social
 ||javhd.tech
 ||javhd.today
+||javhd.video
 ||javhdd.net
 ||javhdhay.vip
 ||javhdi.com
@@ -2316,6 +2325,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||miniapp-ad.cdn.bcebos.com
 ||mining822.com
 ||mint.frzz.net
+||mirae247.org
 ||mixpanel.com
 ||ml314.com
 ||mml888.me
@@ -2329,6 +2339,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||momo-live45.com
 ||momovn.me
 ||monetiza.co^$third-party
+||monkeysloveyou.com
 ||moon29.live
 ||moonata.net
 ||mossens.com
@@ -2491,6 +2502,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||phimheosex.com
 ||phimjav.biz
 ||phimjav.club
+||phimjav.net
 ||phimjav.pro
 ||phimjav.tv
 ||phimjav.xyz
@@ -2559,6 +2571,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||phimsexloanluan.biz
 ||phimsexmy.biz
 ||phimsexmy.vip
+||phimsexnguoilon.top
 ||phimsexnhat.org
 ||phimsexnhatban.cc
 ||phimsexnhatban.me
@@ -2725,6 +2738,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||rikvipclub.us
 ||rimhpxsxow.xyz
 ||rimpirbtmxg.com
+||riotousgrit.com
 ||risextube.com
 ||riverbanksand.com
 ||rmblive.cdn.bcebos.com
@@ -3000,6 +3014,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||sunsekrious.com
 ||sunvin.vin
 ||supjav.com
+||superheroparticularitaly.com
 ||supremejav.com
 ||suvip.fun
 ||suzihaza.com
@@ -3386,6 +3401,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||vn138.info
 ||vn138bet.com
 ||vn138bet.net
+||vn369bet.com
 ||vn58.vip
 ||vn58121.com
 ||vn58zamo.app
@@ -3519,6 +3535,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||xinh4.com
 ||xinh5.com
 ||xinh66.com
+||xlivrdr.com
 ||xmdforex.com
 ||xmlrtb.com
 ||xnxx-cdn.com
