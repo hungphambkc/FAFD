@@ -457,8 +457,6 @@ razorphim.com##.module_home_ads
 realty.yandex.ru##.OffersSerp__list-item_type_ad
 realty.yandex.ru##.OffersSerpPromoItem
 realty.yandex.ru##div[id$="-ad__rtb"]
-royalityfree.com##.container-xl > .col-12
-royalityfree.com##.row-cards.row > .mt-3.col-12
 rutor.info##.b_tz_on_top
 smailpro.com##.__vliadb83-content
 smailpro.com##.text-center.my-2.py-2.bg-gray-200.shadow-inner.w-full
@@ -809,6 +807,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||118.69.168.115/PolyadsFile/*
 ||118kbet.com
 ||11bet.club
+||11bet.online
 ||123b.bet
 ||123b.com
 ||123b.org
@@ -918,6 +917,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||8808vn.com
 ||881vietbet.com
 ||8888bong.com
+||88betmax.net
 ||88betonline.net
 ||88betpro.net
 ||88betvn.com
@@ -1266,6 +1266,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||bravoporn.com
 ||bravotube.net
 ||bred4tula.com
+||bringsconserve.com
 ||brokerhalve.com
 ||browser-http-intake.logs.datadoghq.com
 ||browser-http-intake.logs.datadoghq.eu
@@ -1343,6 +1344,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||civicscience.com
 ||cl69721.com
 ||clarity.ms
+||clearancejoinjavelin.com
 ||cleardexchange.com
 ||click.vieon.vn
 ||click.xdeal.vn/adssite/*
@@ -1510,7 +1512,9 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||ee77.com
 ||ee88.com
 ||eeeyyy.top
+||eergithi.com
 ||effectivecpmgate.com
+||effectivedisplayformats.com
 ||effectivemeasure.net
 ||effectiveperformanceformat.com
 ||effirst.com
@@ -1607,6 +1611,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||fout.jp
 ||fptplay.vn/js/videojs/*ads.js
 ||freddyoctavio.pro/am-push-cps.js
+||freeprosoftz.com
 ||freshpops.net
 ||freychang.fun
 ||fri4esianewheywr90itrage.com
@@ -1745,6 +1750,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||haysex.pro
 ||hdcredit88.com
 ||hetapus.com
+||hdlicense.com
 ||hdo.tv/file/*.jpg
 ||hdo.tv/template/frontend/*float*
 ||hdo.tv/template/frontend/images/Topplayer.png
@@ -1997,6 +2003,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||jbovietnam.com
 ||jerredsite.pro^$third-party
 ||jewgn8une.com
+||jighucme.com
 ||jizzbunker.com
 ||jizzoid.com
 ||jmtomcgqnsczl.com
@@ -2339,6 +2346,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||momo-live45.com
 ||momovn.me
 ||monetiza.co^$third-party
+||moneyhay.net
 ||monkeysloveyou.com
 ||moon29.live
 ||moonata.net
@@ -3022,6 +3030,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||switchads.com
 ||sxnlmndjyvbccdk.com
 ||sya9yncn3q.com
+||synchronizerobot.com
 ||syngrestic.com
 ||systemupdatesy.life
 ||ta3nfsordd.com
@@ -3374,6 +3383,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||visariomedia.com
 ||visiblejoseph.com
 ||vivo.vn/skin/js/ova-jquery.js
+||viyo.app
 ||vjav.com
 ||vkl.xxx
 ||vkool.net/js/*/vast.js
@@ -3664,6 +3674,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||zoroinu.io
 ||zquotfuofx.com
 ||zunsoach.com
+||zuphaims.com
 ||zy3d3.vip
 ||zyf03k.xyz
 ! =========================== Cloudfront ============================
