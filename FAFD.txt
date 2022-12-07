@@ -1,10 +1,10 @@
 ! Title: FAFD
-! Version: 11.13.062
+! Version: 12.15.063
 ! Homepage: github.com/hungphambkc/FAFD
 ! Source: chongluadao.vn/thong-ke, Kaspersky, energized.pro
 ! Author: Hung Pham
 ! Copyright: Shylenien
-! Updated: 15 Nov 22
+! Updated: 07 Dec 22
 ! ========================== General Element Hiding ===========================
 ##._popIn_infinite_ad
 ##._popIn_infinite_video
@@ -1166,6 +1166,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||beeg1.net
 ||begun.ru
 ||beholdascared.com
+||bemobtrcks.com
 ||benevolencegardener.com
 ||benevolencepair.com
 ||bepiletussar.casa
@@ -1288,6 +1289,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||cachchoi.net
 ||cachefly.net/js/ad-exchange.js
 ||cado188.com
+||cagothie.net
 ||cam4.com
 ||cambongda.live
 ||caodangytetg.edu.vn/Android/*
@@ -1738,6 +1740,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||hai360.vn/skin/web/*custombox*
 ||hairypornxxx.com
 ||hamtruyen.com/Scripts/blueyonew.js
+||hannahdrovebible.com
 ||hanoicomputer.vn/media/banner/*.jpg
 ||haribdathesea.com
 ||hatde.tv/assets/popup.js
@@ -1924,9 +1927,11 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||javhd.com
 ||javhd.cool
 ||javhd.dev
+||javhd.email
 ||javhd.icu
 ||javhd.im
 ||javhd.lol
+||javhd.mobi
 ||javhd.news
 ||javhd.onl
 ||javhd.social
@@ -2623,6 +2628,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||pinterest.com^$third-party
 ||pioneeringad.com^$third-party
 ||pixfuture.net
+||pixwares.com
 ||pl15178227.pvclouds.com
 ||plarium.com^$popup
 ||platform.twitter.com/widgets
@@ -2665,6 +2671,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||prgznhukaoggg.com
 ||pringed.space
 ||projectwonderful.com
+||promocrack.com
 ||promomobilsuzukijakarta.com
 ||propeller-tracking.com
 ||propellerads.com
@@ -2728,6 +2735,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||reporting.go-mpulse.net
 ||resalag.com
 ||responsibleassociation.com
+||retardpreparationsalways.com
 ||rev2pub.com
 ||reviveservers.com
 ||revsci.net
@@ -3095,6 +3103,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||ti553.com^$third-party
 ||tiasang.com.vn/app/*
 ||tidaltv.com
+||tii.ai
 ||tikihk.com
 ||tinchapvcb-vn.com
 ||tinhuygialai.org.vn/2021*
@@ -3391,6 +3400,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||vkool.net/swf/pre-roll.xml?*
 ||vlphimsex.org
 ||vlphimsex.tv
+||vlsexhay.net
 ||vlxtop.net
 ||vlxx.com
 ||vlxx.es
@@ -3453,6 +3463,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||w99.vn
 ||waframedia*.com^$third-party
 ||wapbold.com
+||warevn.net
 ||watching.vn/assets/images/banner/*.jpg
 ||wdrheruxnuvok.com
 ||webdien.com/d/ad/*
