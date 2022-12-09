@@ -316,8 +316,6 @@ downfile.site,app.trangchu.news##html > iframe
 downfile.site###aniBox
 downfile.site###orquidea-slideup
 downfile.site###orquidea-slideup-ad-slot
-download.tienichmaytinh.net##.container > .adsbygoogle
-download.tienichmaytinh.net##.shadow.card > .adsbygoogle
 eva.vn##[id^="ADS_"]
 fidlarmusic.com###div-ub-fidlarmusic
 fidlarmusic.com,kiemlua.com,publicananker.com##.KTBue
@@ -341,11 +339,6 @@ gamehub.vn##.portal_ads_scroll
 gamek.vn##.adm-rightsection.contentright
 gamek.vn##.topbanner
 gametv.vn##.box-ad
-getlink.tienichmaytinh.net##.banner-336x280.banner
-getlink.tienichmaytinh.net##.banner-468x60.banner
-getlink.tienichmaytinh.net##.banner-728x90.banner
-getlink.tienichmaytinh.net##.banner-inner
-getlink.tienichmaytinh.net##div.banner-captcha.banner
 ghacks.net##.block
 ghacks.net##.ghacks-ad
 hacom.vn###backgroundPopup
@@ -781,7 +774,7 @@ phim.vkoolzz.net##+js(fuckadblock.js-3.2.0)
 razorphim.com##+js(nano-setTimeout-booster.js, scds, 35000)
 sexphimhd.net,gvnvh18.com,g18vn.com##+js(set, D4zz, noopFunc)
 tapmoi.net##+js(acs, navigator, SmartPopunder)
-tienichmaytinh.net,giavang.net##+js(no-fetch-if, method:HEAD)
+giavang.net##+js(no-fetch-if, method:HEAD)
 tinsoikeo.io##+js(acs, $, window.open)
 tinsoikeo.io##+js(aopr, sessionStorage)
 truyen2u.net##+js(acs, parseInt, break;case $.)
@@ -1841,6 +1834,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||i99909.com
 ||i9bet.com
 ||i9bet18.com
+||i9bet28.com
 ||iam9p3eri3as5lc6hllege.com
 ||iclickcdn.com
 ||iconcnd.net
@@ -1941,6 +1935,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||javhdd.net
 ||javhdhay.vip
 ||javhdi.com
+||javhdkhongche.com
 ||javhdo.net
 ||javhdporn.net
 ||javhdv.net
@@ -1979,8 +1974,10 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||javpro.vip
 ||javsex.club
 ||javsex.vip
+||javsex1.net
 ||javsextoy.com
 ||javsts.com
+||javsub.biz
 ||javsub.mobi
 ||javsub.vip
 ||javteentube.com
@@ -2613,6 +2610,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||phimsexz.vip
 ||phimtxx.com
 ||phimxviet.pro
+||phimxxx.io
 ||phimxxx.tube
 ||phimxxx.xxx
 ||phimxxxvn.net
@@ -2838,6 +2836,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||sexfull.me
 ||sexfullhd.net
 ||sexfullhd.pro
+||sexgai.net
 ||sexgai.sex
 ||sexhay69.mobi
 ||sexhiepdam.pro
@@ -3405,6 +3404,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||vlxx.com
 ||vlxx.es
 ||vlxx.in
+||vlxx.info
 ||vlxx.sex
 ||vlxx.wtf
 ||vlxx24h.com
