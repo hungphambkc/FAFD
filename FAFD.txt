@@ -398,6 +398,7 @@ nhaccuatui.com##.nqc-zone
 nld.com.vn##.bordertopmenuv4
 notebookitalia.it##.block1a.unit
 onhax.me##.lelabp
+ophimhd.net##.computer.lightbox-player-pc
 outlook.live.com##.root-38>div:last-child>div>div>div:last-child
 pastebin.com##[class^="banner_"]
 pcworld.com.vn##.pc-adv-local-2
@@ -756,6 +757,7 @@ downloadsachmienphi.com,khophimhd.net,tvhay.top##+js(acs, JSON.parse, break;case
 fullcrackpc.com##+js(addEventListener-defuser, load, popunder)
 gametv.vn##+js(acs, $, homeModal)
 gocmod.com##+js(nostif, show)
+gvnvh18.com,g18vn.com##+js(set, D4zz, noopFunc)
 hdvip.tv##+js(abort-current-inline-script.js, openInNewTab)
 hh3dhay.com,hh3dhay.xyz##+js(acs, document.createElement, ;break;case)
 linkneverdie.net##+js(acs, $, arrAd)
@@ -764,15 +766,13 @@ luotphim1.com##+js(json-prune, 0.time_mobile 0.time 0.link_video 0.link_video_mo
 lxhentai.com##+js(acs, document.cookie)
 megaurl.in##+js(window.open-defuser.js)
 motchill.net##+js(aopw, MPAds)
-phim1080z.com##+js(abort-on-property-write.js, bannerPreload)
-phimgif.net,ophimhd.net,phimraphot.net##+js(acs, jQuery, popurl)
+ophimhd.net,phimraphot.net##+js(acs, jQuery, popurl)
 phimhay3s.com##+js(json-prune, ads)
 phimhays.com##+js(acs, jQuery, window.open)
 phimlau.online##+js(acs, i6H, Math)
 phimmoiii123.com##+js(aopr, matchMedia)
 phim.vkoolzz.net##+js(fuckadblock.js-3.2.0)
 razorphim.com##+js(nano-setTimeout-booster.js, scds, 35000)
-sexphimhd.net,gvnvh18.com,g18vn.com##+js(set, D4zz, noopFunc)
 tapmoi.net##+js(acs, navigator, SmartPopunder)
 giavang.net##+js(no-fetch-if, method:HEAD)
 tinsoikeo.io##+js(acs, $, window.open)
@@ -818,10 +818,8 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||12betno1.com
 ||12betpro.com
 ||12betviet.com
-||12betviet.com^$popup
 ||12betvn.com
 ||12betvn88.com
-||12betvn88.com^$popup
 ||12thethao.com
 ||1337x.to/sw.js
 ||138bet.com
@@ -833,9 +831,9 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||188bet.guru
 ||188bet.plus
 ||188bongda.com
-||188bongda.com^$popup,third-party
 ||188bongda.net
 ||195.82.146.52
+||1975vn.com
 ||1frozenthrone1.com
 ||1phimsex.net
 ||1phimsex.tv
@@ -1068,6 +1066,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||alas4kanmfa6a4mubte.com
 ||alexa.com^$third-party
 ||allcracksoft.org
+||allstat-pp.ru
 ||allx.xxx
 ||amazon-adsystem.com
 ||amcdn.vn
@@ -1353,6 +1352,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||clipsex3x.com
 ||clipvip.tv^$third-party
 ||clmm.win
+||clmm38.site
 ||clmmpro.com
 ||clmomo.site
 ||cloudfront.net^$domain=4share.vn|chiasenhac.vn|hdo.tv|hatde.tv|megaurl.in|onhax.me|ouo.io|zippyshare.com
@@ -1485,6 +1485,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||dsp-idea.cdn.bcebos.com
 ||dt00.net^$third-party
 ||dtadnetwork.com
+||dtkgam.mobi
 ||duckswillsmoochyou.com
 ||dulichdatviet.info^$third-party
 ||dummieseardrum.com
@@ -2306,6 +2307,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||mc.yandex.st
 ||mc.yandex.ua
 ||mc7clurd09pla4nrtat7ion.com
+||mcconomy.online
 ||mds.yandex.net/get-bstor/
 ||meatilywoman.cam
 ||med-fe.cdn.bcebos.com
@@ -2375,6 +2377,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||n176adserv.com^$third-party
 ||naidum.com^$third-party
 ||naimei8.xyz
+||namechk.in
 ||nan46ysangt28eec.com
 ||nandlookfo.fun
 ||nathanaeldan.pro
@@ -2723,6 +2726,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||realer.info
 ||realsrv.com
 ||red88.us
+||red88.vip
 ||red88vn.uk
 ||reedthatm.biz
 ||refugedcuber.com
@@ -2730,6 +2734,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||relmac.net
 ||render-server.cdn.bcebos.com
 ||rendykunto.com
+||reoi265r.com
 ||reporting.go-mpulse.net
 ||resalag.com
 ||responsibleassociation.com
@@ -3233,6 +3238,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||ursegreatm.fun
 ||us.y.atwola.com
 ||us.y.ycpi.atwola.com
+||usdtspin.top
 ||userreport.com^$third-party
 ||uslblock.com
 ||usounoul.com
@@ -3667,6 +3673,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||youradexchange.com
 ||yqmxfz.com
 ||ys2000.cdn.bcebos.com
+||ytoiire2r.com
 ||yulunanews.name
 ||zantbowsing.cam^$third-party
 ||zap.buzz
