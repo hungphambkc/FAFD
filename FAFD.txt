@@ -1,10 +1,10 @@
 ! Title: FAFD
-! Version: 12.15.063
+! Version: 23.01.064
 ! Homepage: github.com/hungphambkc/FAFD
 ! Source: chongluadao.vn/thong-ke, Kaspersky, energized.pro
 ! Author: Hung Pham
 ! Copyright: Shylenien
-! Updated: 07 Dec 22
+! Updated: 25 Dec 22
 ! ========================== General Element Hiding ===========================
 ##._popIn_infinite_ad
 ##._popIn_infinite_video
@@ -840,6 +840,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||1wlvcb.top
 ||20icipp.com
 ||210.211.108.201:81/jsads/*
+||247com.bar
 ||24game.vn^$popup
 ||24h.com.vn/upload/*background
 ||24h.com.vn/upload/*banner
@@ -928,10 +929,12 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||a-fds.youborafds01.com
 ||a2tw6yoodsag.com
 ||aad73c550c.se/?*$popup
+||abc8-vay.com
 ||abcsrv1.com^$third-party
 ||abu14.cc
 ||abu999.com
 ||accesstrade.vn^$third-party
+||achbnmk.com
 ||ad-score.com
 ||ad-stir.com^$third-party
 ||ad.*.com
@@ -994,6 +997,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||adnexus.vn
 ||adnxs.com
 ||adocean.pl
+||adomty.com
 ||adonly.com
 ||adoptum.net
 ||adp.vnecdn.net
@@ -1068,6 +1072,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||allcracksoft.org
 ||allstat-pp.ru
 ||allx.xxx
+||am2okb.com
 ||amazon-adsystem.com
 ||amcdn.vn
 ||amplitude.com
@@ -1084,6 +1089,9 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||anymind360.com
 ||anyporn.com
 ||aod-image-material.cdn.bcebos.com
+||aopiym6l.com
+||aovnbk.com
+||aovpmk.com
 ||ap.lijit.com
 ||aphim.org/asset_blade/js/jquery.popup.js
 ||aphim.tv/api/js/vast.js
@@ -1123,6 +1131,8 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||automoc.net^$third-party
 ||awaps.yandex.
 ||awatchfuleyehomeservices.com
+||awc0vbk.com
+||awcbi90m.com
 ||awigglespouter.cam
 ||awltovhc.com^$third-party
 ||aydieso.90.link^$third-party
@@ -1223,6 +1233,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||bluekai.com
 ||blueseed.tv^$third-party,domain=chiasenhac.vn|fimfast.com|vuighe.net
 ||blueserving.com
+||bmoney2017.com
 ||bngwlt.com
 ||bnserving.com^$third-party
 ||bonesuk.com
@@ -1351,10 +1362,13 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||cliphot69.cc
 ||clipsex3x.com
 ||clipvip.tv^$third-party
+||clmm.sbs
 ||clmm.win
+||clmm1.pro
 ||clmm38.site
 ||clmmpro.com
 ||clmomo.site
+||cloud4z.com
 ||cloudfront.net^$domain=4share.vn|chiasenhac.vn|hdo.tv|hatde.tv|megaurl.in|onhax.me|ouo.io|zippyshare.com
 ||cltx247.com
 ||cmd368.net^$popup,third-party
@@ -1400,6 +1414,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||cuongsex.com
 ||cuppinaruke.com
 ||curacaohaloing.website
+||cvbn8m.com
 ||cvpyosexmmahdrp.com
 ||cxense.com
 ||cydia.vn^$third-party
@@ -1419,6 +1434,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||dangkykubet.vip
 ||danhsachnhacai.com
 ||danviet.vn/upload/*.gif
+||dathangdon.com
 ||dc.mpapis.xyz/vast/*
 ||dcm.xxx
 ||dd713.bj.bcebos.com
@@ -1478,10 +1494,19 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||doithuongonline.club
 ||donate-*.info
 ||dongphim.net/cvast.xml?*
+||donhangkiemtra.com
+||donxuatkho.com
 ||doublepimp.com
 ||downmienphi.com/*/banner-*
 ||dozubatan.com
 ||dpstatic.com
+||dragoncapitalfinace.com
+||dragoncapitalloan.com
+||dragoncapitalmoney.com
+||dragoncapitalonline.com
+||dragoncapitals.com
+||dragoncapitalvay.com
+||dragoncapitalvn.com
 ||dsp-idea.cdn.bcebos.com
 ||dt00.net^$third-party
 ||dtadnetwork.com
@@ -1498,6 +1523,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||e.go-mpulse.net
 ||e2ertt.com
 ||e67repidwnfu7gcha.com
+||eavujbk.com
 ||eboundservices.com^$third-party
 ||ebz.io
 ||ecgmdxoucsnrmq.com
@@ -1539,6 +1565,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||exoclick.com^$popup,script,image
 ||exosrv.com^$third-party
 ||exponential.com
+||expressmoney.cc
 ||extreme-dm.com^$third-party
 ||eyebrowscrambledlater.com
 ||ezodn.com
@@ -1587,6 +1614,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||ff.imacdn.com/img/*-header.jpg
 ||ff.imacdn.com/img/*.jpg
 ||ff.imacdn.com/img/vwin-*.jpg
+||fgabb.net
 ||fi8899.com
 ||fimsex.org
 ||fimsex.vip
@@ -1667,6 +1695,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||gastingitea.com
 ||gaurecorah.com
 ||gecare.life
+||gefun37352.top
 ||genericsteps.com
 ||genieessp.com^$third-party
 ||genieesspv.jp^$third-party
@@ -1676,15 +1705,18 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||get.streams-search.com
 ||getsitecontrol.com
 ||gg678.com
+||ghjut8.com
 ||giacaphe.com/wp-content/themes/gcp/js/fb/giacaphe-like.js
 ||giaidaulmht.vn
 ||giaiphapexcel.com/qcao/*
 ||giaitri09.com
 ||giaitririk.live
 ||giaitriviet.net.vn/gtvpopup.js
+||giaiviet259.com
 ||giftcode-lqmb2.com
 ||giftcodelqmb-vn.com
 ||gigaonclick.com^$third-party
+||giovangvn999.com
 ||gizmoxxx.com
 ||gj.mmstat.com
 ||gl5.vip
@@ -1792,7 +1824,10 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||heovl.com
 ||heratheacle.com
 ||hetbuon.com
+||hethong2022vn.com
 ||heyphim.com/img/*.gif|
+||hgivio9.com
+||hi1333.com
 ||hi88.com
 ||hi88vip9.com
 ||hi-wife.com
@@ -1806,18 +1841,21 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||histats.com
 ||histock.info^$third-party
 ||hkdbitexchange.com
+||hkoddk0.com
 ||hocitngay.com
 ||hoicongchungvienbinhduong.com.vn/Android/*
 ||hoicongchungvienbinhduong.com.vn/down/*
 ||hoowooze.net^$third-party
 ||hornyasian.work
 ||horsered.com
+||hosothuong22.com
 ||hotlive.pro
 ||hotmovs.com
 ||hotporntube.co
 ||hphim.tv/*.gif
 ||hphim.tv/*.xml
 ||hs.cookiesstandee.com
+||hspmn1196.com
 ||htvncdn.net
 ||hugfromoctopus.com
 ||huhyrcco.com
@@ -1874,9 +1912,19 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||ironthro5man.com
 ||irrigateechofrustration.com
 ||itineraryupper.com
+||itjjh96.com
 ||itweepinbelltor.com
 ||iwin10.vip
+||iwin133.com
+||iwin233.com
 ||iwin28.vip
+||iwin334.com
+||iwin338.com
+||iwin433.com
+||iwin633.com
+||iwin733.com
+||iwin833.com
+||iwin933.com
 ||iwinclub.uk
 ||iwipjuogprkj.xyz
 ||iyfnz.com
@@ -1885,6 +1933,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||ja2n2u30a6rgyd.com
 ||jaavnacsdw.com
 ||jabge.com
+||jaccsy.com
 ||jads.co
 ||janetruelove.com
 ||japanpisstv.com
@@ -1933,6 +1982,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||javhd.tech
 ||javhd.today
 ||javhd.video
+||javhd.ws
 ||javhdd.net
 ||javhdhay.vip
 ||javhdi.com
@@ -2117,6 +2167,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||keonhacaibet.com
 ||ketoanthienung.vn/games/*
 ||ketoanthucte.vn/games/*
+||kfcabb.com
 ||kgdvs9ov3l2aasw4nuts.com
 ||khosex.me
 ||kichdam.vip
@@ -2150,6 +2201,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||ku6110.net
 ||ku6123.net
 ||ku6131.net
+||ku68.fun
 ||ku711.com
 ||ku77.casino
 ||ku777bet.com
@@ -2200,10 +2252,39 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||kucdn2.net
 ||kucdn4.net
 ||kuclub.info
+||kuclub1.com
+||kuclub10.com
+||kuclub2.com
+||kuclub3.com
+||kuclub4.com
+||kuclub5.com
+||kuclub6.com
+||kuclub7.com
+||kuclub9.com
 ||kucoinsaz.com
 ||kudv.net
+||kufun1.com
+||kufun10.com
+||kufun2.com
+||kufun3.com
+||kufun4.com
+||kufun5.com
+||kufun6.com
+||kufun9.com
 ||kuvip3576.com
 ||kw3y5otoeuniv7e9rsi.com
+||kwin066.com
+||kwin166.com
+||kwin266.com
+||kwin366.com
+||kwin466.com
+||kwin566.com
+||kwin68.club
+||kwin68.com
+||kwin68.net
+||kwin766.com
+||kwin866.com
+||kwin966.com
 ||kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
 ||labbangs.com
 ||lame7bsqu8barters.com
@@ -2290,6 +2371,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||markofathenaluk.com
 ||marktfind.com
 ||maryannecg.com
+||mastervpbgold.online
 ||mattmorrisseyphoto.com
 ||mauchopt.net
 ||maw5r7y9s9helley.com
@@ -2297,6 +2379,14 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||may88.live
 ||may88.vip
 ||may88.win
+||mb247.bar
+||mb247.bond
+||mb247.cyou
+||mb247.rest
+||mb247.top
+||mb247.xyz
+||mbbank247.top
+||mbbank247.xyz
 ||mc.yandex.by
 ||mc.yandex.com
 ||mc.yandex.com.tr
@@ -2351,6 +2441,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||momovn.me
 ||monetiza.co^$third-party
 ||moneyhay.net
+||moneyloan-vn.com
 ||monkeysloveyou.com
 ||moon29.live
 ||moonata.net
@@ -2364,6 +2455,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||mu-ss2.net
 ||mu9.com
 ||mu9.win
+||mualevang22.com
 ||mx88.me
 ||mxpnl.com
 ||my188bet.com
@@ -2375,6 +2467,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||mywork.com.vn^$third-party
 ||n.xemtvhd.com^$subdocument
 ||n176adserv.com^$third-party
+||nabolm0vn.com
 ||naidum.com^$third-party
 ||naimei8.xyz
 ||namechk.in
@@ -2410,6 +2503,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||nhaccuatui.com/widget/*$third-party
 ||nhacpro.net/files/js/facebook.js?*
 ||nhakai.com
+||nhan.design
 ||nhanthuong88.com^$popup,third-party
 ||nhat.uk
 ||niwooghu.com
@@ -2715,6 +2809,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||quantcast.mgr.consensu.org
 ||quantri.timbus.vn/Media/Uploads/*.jpg
 ||quantserve.com
+||quaviet259.com
 ||quensillo.com^$domain=mediafire.com
 ||quiznhe.com/*/gooima.js
 ||quokkacheeks.com
@@ -2785,6 +2880,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||s*block.com^$third-party
 ||s3kuma.com
 ||s88677.com
+||sacmbk.com
 ||safehousefsi.com
 ||safestgatetocontent.com
 ||sb4you1.com
@@ -3028,6 +3124,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||subjav.tv
 ||subjavhd.com
 ||successfulpatience.com
+||sukienqua2022.com
 ||sun.games
 ||sun.to
 ||sunnycategoryopening.com
@@ -3074,10 +3171,13 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||tanx.com^$third-party
 ||taobao.com^$subdocument,domain=soduso.com
 ||tazogames.com
+||tbentertainment2016.com
+||tcb-card.com
 ||teenax.com
 ||tenlua.vn/img/*_banner*.gif|
 ||terratraf.com^$third-party
 ||thanosofcos5.com
+||thaocapital.net
 ||thatsouh.com
 ||thaudray.com
 ||thecheapest-travel.com^$third-party
@@ -3097,6 +3197,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||thongke.24h.com.vn
 ||thongtincongty.com/fancybox/*
 ||thongtincongty.com/qctruot.js
+||thongtindonhang.com
 ||thongtinnhacai.net
 ||thoughtleadr.com
 ||thsdbj.com
@@ -3108,6 +3209,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||tiasang.com.vn/app/*
 ||tidaltv.com
 ||tii.ai
+||tiki2022.vn
 ||tikihk.com
 ||tinchapvcb-vn.com
 ||tinhuygialai.org.vn/2021*
@@ -3143,6 +3245,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||toptipstricks.net/index.php$xmlhttprequest
 ||toromclick.com
 ||torvind.com^$third-party
+||tpchabb.com
 ||track.vivaclix.com
 ||track-srv.vietnamnet.vn
 ||tradeadexchange.com^$third-party
@@ -3161,6 +3264,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||trollbongda.com/templates/troll/images/*.gif
 ||tructiepbongda.xyz/images/qc/*
 ||trumchanle99.fun
+||trummomo.pro
 ||trungquocsex.com
 ||trungtamtinhoc.edu.vn/inc/colorbox/*
 ||truongblogger.top
@@ -3177,6 +3281,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||truyentranhtuan.com/wp-content/banners/*
 ||truyentv.net
 ||truyenx.net
+||tryku88985.com
 ||tsyndicate.com
 ||ttgmjfgldgv9ed10.com
 ||tttd.vn$popup,third-party
@@ -3226,6 +3331,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||universe-biz.microad.co.jp
 ||universe.microad.co.jp
 ||universe.send.microad.jp
+||unixcreditunion.com
 ||unphionetor.com
 ||unseenreport.com
 ||upanh.ssc.vn^$domain=cvt.vn
@@ -3244,6 +3350,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||usounoul.com
 ||uss.xplosion.de
 ||ustxsntseyhwsx.com
+||uzngoapreakfgh.top
 ||v567p.xyz
 ||v6rxv5coo5.com
 ||v8l.info
@@ -3251,8 +3358,12 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||v9banners.com^$third-party
 ||v9betvn.com
 ||vads.net.vn
+||vanmay1.net
 ||vaobo88.com
 ||variousformatscontent.com
+||vay-abc8.com
+||vay-shb8.com
+||vay-vib8.com
 ||vaythechapsodo-vcb.com
 ||vaytieudung-vietinbank.com
 ||vaytinchap-nganhangvcb247.com
@@ -3364,6 +3475,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||vf555.com
 ||vgdn.net/apoop/play_background_*
 ||vi.ml314.com
+||vib8-vay.com
 ||video.xlviirdr.com
 ||video8s.com^$subdocument,third-party
 ||videomega.tv/vjs/*vast*
@@ -3389,6 +3501,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||vietinbankvis.cc
 ||vietnamnetad.vn
 ||vietsex.org
+||vietvcbdigibank.com
 ||vietviv.com
 ||viglink.com
 ||viimcu.com
@@ -3408,12 +3521,14 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||vlsexhay.net
 ||vlxtop.net
 ||vlxx.com
+||vlxx.day
 ||vlxx.es
 ||vlxx.in
 ||vlxx.info
 ||vlxx.sex
 ||vlxx.wtf
 ||vlxx24h.com
+||vlxxs.net
 ||vlxxsex.cc
 ||vlxxsex.com
 ||vlxxsex.me
@@ -3423,6 +3538,8 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||vmuid.com
 ||vn-gmtdmp.mookie1.com
 ||vn-sc8.xyz
+||vn-tk.shop
+||vn-tk.store
 ||vn-zoom.org/Banner-
 ||vn138.info
 ||vn138bet.com
@@ -3437,6 +3554,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||vnae567.com
 ||vnaf567.com
 ||vnah567.com
+||vncrmrosy.com
 ||vnd.wang
 ||vnkuvideo.com
 ||vnmenlust.com
@@ -3444,12 +3562,14 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||vnreview.vn/*/js/ads*.js
 ||vnreview.vn/play-clip/*
 ||vnshop00.com
+||vnthanhnien.com
 ||vnwebgame.com^$popup
 ||vnxx.org
 ||vnxxx.net
 ||vnxxx.pro
 ||voonogoa.net
 ||voyeurhit.com
+||vp-hanmuc.com
 ||vt-8888.com
 ||vuachanle.com
 ||vuakeo.tv
@@ -3460,6 +3580,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||vungtrom.tv
 ||vv84.bj.bcebos.com
 ||vvbpm.com
+||vviietcombank.com
 ||vwin.com
 ||vws.vegacdn.vn/QCBinhluan/*
 ||vwthethao.club
@@ -3468,6 +3589,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||w88f1.com
 ||w99.vn
 ||waframedia*.com^$third-party
+||walmartshoping.com
 ||wapbold.com
 ||warevn.net
 ||watching.vn/assets/images/banner/*.jpg
@@ -3482,6 +3604,9 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||webtrends.com
 ||webvisor.org
 ||wenku-cms.bj.bcebos.com
+||westernunionva.com
+||westernunionvd.com
+||westernunionvl.xyz
 ||wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
 ||whatosgoingon.biz
 ||whazugho.com
@@ -3501,6 +3626,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||wp.com/dc.mpapis.xyz/ia/*$image
 ||wp.com/image.bongngocdn.com/http/*$image
 ||wteicogfeyhjk.com
+||wtongbk.com
 ||wutienitme247.info
 ||www-go88.vin
 ||wwwpromoter.com
@@ -3517,6 +3643,9 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||xahoithongtin.com.vn/*.swf|
 ||xahoithongtin.com.vn/images/*.gif|
 ||xahoithongtin.com.vn/upload/*
+||xanh6.com
+||xanh7.com
+||xanh8.com
 ||xbxxporn.com
 ||xem-jav.net
 ||xem-xxx.com
@@ -3674,6 +3803,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||yqmxfz.com
 ||ys2000.cdn.bcebos.com
 ||ytoiire2r.com
+||yugrt5.com
 ||yulunanews.name
 ||zantbowsing.cam^$third-party
 ||zap.buzz
