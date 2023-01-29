@@ -1340,7 +1340,6 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||bk8vui.com
 ||blockadblock.com
 ||blognhacai.com
-||blogspot.com^$subdocument,third-party
 ||blogtruyen.vn/file/*
 ||blogtruyen.vn/scripts/banner-preload.js
 ||blogtruyen.vn/scripts/iframe-rand-mobile.js?*
