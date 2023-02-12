@@ -340,11 +340,7 @@ banthangtv.org##.wrapper_header_center
 baodatviet.vn###ballon
 baodatviet.vn###left_col center
 bdslamdong.vn##.widget-ad-300
-bilutvs.net,biluu.tv##.ab1
-bilutvs.net,biluu.tv##.abp-header
-biluu.co##.ads-fix-bottom-left
-biluu.tv##.ads-header
-biphim.co##.banner-sticky-footer-wrapper
+biphim1.com##.banner-sticky-footer-wrapper
 blackboxrepack.com##.down
 blogtruyen.vn##.al-c.BT-Ads
 blogtruyen.vn##.BT-Ads > center > a
@@ -5920,6 +5916,7 @@ youtube.com#$##ticker.ytd-masthead { display: none!important; }
 ||logging.googleapis.com
 ||m.doubleclick.net
 ||m.youtube.com/*/ad.js$script
+||mail-ads.google.com
 ||mediavisor.doubleclick.net
 ||mobilecrashreporting.googleapis.com
 ||mobiledataplansharing.googleapis.com
