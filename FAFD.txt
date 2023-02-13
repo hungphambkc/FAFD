@@ -1,10 +1,10 @@
 ! Title: FAFD
-! Version: 23.01.065
+! Version: 23.02.066
 ! Homepage: github.com/hungphambkc/FAFD
 ! Source: chongluadao.vn/thong-ke, Kaspersky, energized.pro
 ! Author: Hung Pham
 ! Copyright: Shylenien
-! Updated: 15 Jan 23
+! Updated: 12 Feb 23
 ! ========================== General Element Hiding ===========================
 ##._popIn_infinite_ad
 ##._popIn_infinite_video
@@ -31,6 +31,7 @@
 ##.float-ck
 ##.float-ck-righttop
 ##.google-afc-image
+##.gpt-promotion-link
 ##.insentence-adsense
 ##.interstitial-ad
 ##.ise-ad.csw-content-box
@@ -339,11 +340,7 @@ banthangtv.org##.wrapper_header_center
 baodatviet.vn###ballon
 baodatviet.vn###left_col center
 bdslamdong.vn##.widget-ad-300
-bilutvs.net,biluu.tv##.ab1
-bilutvs.net,biluu.tv##.abp-header
-biluu.co##.ads-fix-bottom-left
-biluu.tv##.ads-header
-biphim.co##.banner-sticky-footer-wrapper
+biphim1.com##.banner-sticky-footer-wrapper
 blackboxrepack.com##.down
 blogtruyen.vn##.al-c.BT-Ads
 blogtruyen.vn##.BT-Ads > center > a
@@ -1151,6 +1148,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||adsrvr.org
 ||adsvn.ga
 ||adsyst.biz
+||adtago.s3.amazonaws.com
 ||adtechus.com
 ||adtelligent.com
 ||adthrive.com
@@ -1164,6 +1162,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||advcash.com
 ||adver*.com
 ||advg.agency
+||advice-ads.s3.amazonaws.com
 ||advserver.cgv.vn
 ||adx.*vn^$third-party
 ||adx.wapmcn.com^$third-party
@@ -1176,6 +1175,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||aegnfbgdtukajr.xyz
 ||aevn1.net
 ||aff.opus-static.com
+||affiliationjs.s3.amazonaws.com
 ||affitop.com
 ||agacelebir.com
 ||agenduret.com
@@ -1191,13 +1191,17 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||allx.xxx
 ||am2okb.com
 ||amazon-adsystem.com
+||amazonaax.com
+||amazonclix.com
 ||amcdn.vn
 ||amplitude.com
 ||amung.us
-||an.facebook.com/*/vast.xml?*$third-party
+||an.facebook.com
 ||an.yandex.ru/count/$csp=script-src
 ||an.yandex.ru/count/$popup
+||analytics.facebook.com
 ||analytics.webpushr.com
+||analyticsengine.s3.amazonaws.com
 ||anime47.com^*.gif
 ||animefull.tv/wow/img/*.gif
 ||anisfx.com
@@ -1213,6 +1217,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||aphim.org/asset_blade/js/jquery.popup.js
 ||aphim.tv/api/js/vast.js
 ||aphycolourses.info
+||api-hotjar.com
 ||api.nas.nct.vn/crossdomain.xml
 ||api.news.zing.vn/api/mobile/ban-tin-highlight.json?*
 ||api.pose.com.vn^$xmlhttprequest,third-party
@@ -2583,6 +2588,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||mywork.com.vn^$third-party
 ||n.xemtvhd.com^$subdocument
 ||n176adserv.com^$third-party
+||n33d0nem0re.com
 ||nabolm0vn.com
 ||naidum.com^$third-party
 ||naimei8.xyz
@@ -3744,6 +3750,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||wteicogfeyhjk.com
 ||wtongbk.com
 ||wutienitme247.info
+||wwsercher.biz
 ||www-go88.vin
 ||wwwpromoter.com
 ||wxtp.cdn.bcebos.com
@@ -5017,8 +5024,10 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||admonitor.thepaper.cn
 ||adnew.qq.com
 ||adrdir.qq.com
+||ads-sg.tiktok.com
 ||ads.privacy.qq.com
 ||ads.sohu.com
+||ads.tiktok.com
 ||adscdn.baidu.com
 ||adsense.html5.qq.com
 ||adsfile.qq.com
@@ -5040,7 +5049,9 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||agstat.html5.qq.com
 ||aimuukc.cn
 ||als.baidu.com
+||analytics-sg.tiktok.com
 ||analytics.map.qq.com
+||analytics.tiktok.com
 ||android.bugly.qq.com
 ||android.rqd.qq.com
 ||androidapp.baidu.com
@@ -5124,6 +5135,10 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||cpu.baidu.com
 ||cstm.baidu.com
 ||ctr.hd.sohu.com
+||data.mistat.india.xiaomi.com
+||data.mistat.intl.xiaomi.com
+||data.mistat.rus.xiaomi.com
+||data.mistat.xiaomi.com
 ||dlswbr.baidu.com
 ||download.wan.sohu.com
 ||eclick.baidu.com
@@ -5169,11 +5184,21 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||lhwxkcitfwgqiyt.cn
 ||lhxwnzht.cn
 ||lm.tv.sohu.com
+||logbak.hicloud.com
+||logservice.hicloud.com
+||logservice1.hicloud.com
 ||m.ads.sohu.com
 ||m.aty.sohu.com
 ||map.baidu.com/newmap_test/static/common/images/transparent.gif
 ||mb.hd.sohu.com.cn
 ||mercury.push.tv.sohu.com
+||metrics.data.hicloud.com
+||metrics1.data.hicloud.com
+||metrics2.data.hicloud.com
+||metrics3.data.hicloud.com
+||metrics4.data.hicloud.com
+||metrics5.data.hicloud.com
+||metrics-dra.dt.hicloud.com
 ||miao.baidu.com
 ||mipcache.bdstatic.com
 ||mipengine.baidu.com
@@ -5254,6 +5279,10 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||trace.qq.com
 ||track.sohu.com
 ||tracker.tv.sohu.com
+||tracking.india.miui.com
+||tracking.intl.miui.com
+||tracking.miui.com
+||tracking.rus.miui.com
 ||txt.go.sohu.com
 ||udenl8.cn
 ||v.aty.sohu.com
@@ -5885,7 +5914,10 @@ youtube.com#$##ticker.ytd-masthead { display: none!important; }
 ||googleusercontent.com^$image,domain=diendanvetinh.forumvi.com|bongdalive.tv|bongdaso.tv|bongdainfo.tv|demkhuya.tv|thuckhuya.net
 ||googlevideo.com/videoplayback?*&ctier=L&$xmlhttprequest,domain=www.youtube.com|m.youtube.com|music.youtube.com
 ||logging.googleapis.com
+||m.doubleclick.net
 ||m.youtube.com/*/ad.js$script
+||mail-ads.google.com
+||mediavisor.doubleclick.net
 ||mobilecrashreporting.googleapis.com
 ||mobiledataplansharing.googleapis.com
 ||opjstlfyrwoptimizationguide-pa.googleapis.com
