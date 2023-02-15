@@ -1183,6 +1183,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||airfucks.com 
 ||airlinebot.io
 ||aj1047.online
+||ajkcmuazxf.com
 ||akanetwork.com
 ||alas4kanmfa6a4mubte.com
 ||alexa.com^$third-party
@@ -1423,6 +1424,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||cardiwersg.com
 ||casalemedia.com
 ||casio67.club
+||ccjzuavqrh.com
 ||cdn.*/static/js/amvn.js
 ||cdn.atwola.com
 ||cdn.bncloudfl.com
@@ -1529,6 +1531,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||criteo.$third-party
 ||crpt.livejasmin.com
 ||crwdcntrl.net
+||ctubhxbaew.com
 ||cuddlethehyena.com
 ||cuoc8live.com
 ||cuoctai11bet.vip
@@ -1863,6 +1866,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||go88vn.cc
 ||go88vn.fun
 ||go88vn.top
+||godpvqnszo.com
 ||goeastvalley.com
 ||gogo88.me
 ||gokumarket.com
@@ -2028,6 +2032,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||interstitial-08.com
 ||interyield.*.com^$third-party
 ||invitemedia.com
+||iogjhbnoypg.com
 ||ir.eu.y.atwola.com
 ||ir.us.y.atwola.com
 ||ironthro5man.com
@@ -2529,6 +2534,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||mediafire.com/templates/linkto/*
 ||medtronicz.com
 ||medyabk.com
+||mekiep.pro
 ||mellowads.com
 ||meo257na3rch.com
 ||metric.gstatic.com
@@ -2642,6 +2648,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||ns-strategy.cdn.bcebos.com
 ||ntsiwodere.top
 ||nud8.com
+||nygwcwsvnu.com
 ||oaphoace.net
 ||oataltaul.com
 ||oclaserver.com^$third-party
@@ -2859,6 +2866,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||plugrush.com
 ||pmp-ad.cdn.bcebos.com
 ||pn-cover.cdn.bcebos.com
+||pnuhondppw.com
 ||po.st/static/*$third-party
 ||podosupsurge.com
 ||polyad.net
@@ -2995,6 +3003,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||runreferences.com
 ||rutracker.org^$subdocument,object
 ||rutrk.org^$third-party
+||rxeosevsso.com
 ||s-onetag.com
 ||s.go-mpulse.net
 ||s2.go-mpulse.net
@@ -3638,6 +3647,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||vkool.net/js/*/vast.js
 ||vkool.net/js/povff.js
 ||vkool.net/swf/pre-roll.xml?*
+||vlcontent.com
 ||vlphimsex.org
 ||vlphimsex.tv
 ||vlsexhay.net
@@ -3747,6 +3757,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||wp.com/dc.motphim.net/ia/*$image
 ||wp.com/dc.mpapis.xyz/ia/*$image
 ||wp.com/image.bongngocdn.com/http/*$image
+||wpowiqkgykf.com
 ||wteicogfeyhjk.com
 ||wtongbk.com
 ||wutienitme247.info
@@ -3851,6 +3862,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||xvideo-jp.com
 ||xvideo69.plus
 ||xvideos-cdn.com
+||xvideos-cdn.net
 ||xvideos-proxy.com
 ||xvideos-vn.com
 ||xvideos.com
