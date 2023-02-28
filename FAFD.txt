@@ -907,6 +907,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ! ====================== Third-party adverts and trackers =====================
 *-ad.24hstatic.com
 *.accountant^$third-party
+||007zpo.com
 ||03ed9035a0801f.com
 ||0i0i0i0.com
 ||108589.com
@@ -936,9 +937,11 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||12betvn88.com
 ||12thethao.com
 ||1337x.to/sw.js
+||13386.store
 ||138bet.com
 ||138bet.top
 ||138bets.net
+||158zpo.com
 ||168ttwin.com
 ||173fanli.com
 ||188bet.com
@@ -970,6 +973,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||2banh.vn/*/script_banner/*
 ||2llmonds4ehcr93nb.com
 ||2qj7mq3w4uxe.com
+||31luxu.com
 ||333xbet.com
 ||33across.com
 ||33beta.com
@@ -984,14 +988,17 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||3dcontentcentral.com/images/*x*.jpg|
 ||3xhdfull.com
 ||3xphim.vip
+||41475.store
 ||46.246.120.230/pop-imp.js
 ||4dsply.com
 ||4hfchest5kdnfnut.com
+||4zpo.com
 ||5123b.com
 ||5637831.com
 ||567liveapi001.com
 ||567lives.com
 ||585vn.com
+||5928325.cc
 ||5giay.vn/*colorbox*
 ||5giay.vn/addthis_widget.js*
 ||5giay.vn/igo/trangchu/trm/*
@@ -999,7 +1006,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||5giay.vn/trangchu/support/support*.js
 ||5shbet.com
 ||5toft8or7on8tt.com
-||5928325.cc
+||5zpo.com
 ||64751234.com
 ||6532182.vip
 ||6532982.vip
@@ -1027,6 +1034,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||820mm.live
 ||8361276.cc
 ||864feb57ruary.com
+||86luxu.com
 ||8761001.com
 ||876g568.cc
 ||8808vn.com
@@ -1046,8 +1054,10 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||8xbet11.com
 ||90trader.com
 ||9217326.cc
+||96518.store
 ||975d.me
 ||9862751.vip
+||987jh7.com
 ||99881288.com
 ||9cc85d.se
 ||9club88.com
@@ -1240,6 +1250,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||api.twitter.com/1.1/onboarding/referrer.json|$xmlhttprequest
 ||app.link^$third-party
 ||apple8.com.vn/?*$popup,third-party
+||apptrangchu.site
 ||aps.xplosion.de
 ||aptimorph.com
 ||ar.atwola.com
