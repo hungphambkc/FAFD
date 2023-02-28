@@ -1,10 +1,10 @@
 ! Title: FAFD
-! Version: 23.02.066
+! Version: 23.02.067
 ! Homepage: github.com/hungphambkc/FAFD
-! Source: chongluadao.vn/thong-ke, Kaspersky, energized.pro
+! Source: chongluadao.vn/thong-ke, Kaspersky
 ! Author: Hung Pham
 ! Copyright: Shylenien
-! Updated: 12 Feb 23
+! Updated: 28 Feb 23
 ! ========================== General Element Hiding ===========================
 ##._popIn_infinite_ad
 ##._popIn_infinite_video
@@ -909,6 +909,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 *.accountant^$third-party
 ||03ed9035a0801f.com
 ||0i0i0i0.com
+||108589.com
 ||1111mc.com
 ||118.69.168.115/PolyadsFile/*
 ||118kbet.com
@@ -973,6 +974,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||33across.com
 ||33beta.com
 ||33k1.com
+||3529752.vip
 ||360game.vn^$popup
 ||360hot.vn^$third-party
 ||360kpop.com/*.swf
@@ -997,14 +999,19 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||5giay.vn/trangchu/support/support*.js
 ||5shbet.com
 ||5toft8or7on8tt.com
+||5928325.cc
 ||64751234.com
+||6532182.vip
+||6532982.vip
 ||6689.site
 ||668kbet.com
 ||66touo.com
 ||6788bet.com
 ||6789live.com
 ||6833127.com
+||688539.com
 ||68club.app
+||7365286.vip
 ||7732599.com
 ||775385.com
 ||78966.app
@@ -1013,12 +1020,15 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||789b.asia
 ||789bet.io
 ||789d.club
+||7921536.cc
 ||79xmz3lmss.com
 ||7ca78m3csgbrid7ge.com
 ||8123b.com
 ||820mm.live
+||8361276.cc
 ||864feb57ruary.com
 ||8761001.com
+||876g568.cc
 ||8808vn.com
 ||881vietbet.com
 ||8888bong.com
@@ -1035,7 +1045,9 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||8xbet07.com
 ||8xbet11.com
 ||90trader.com
+||9217326.cc
 ||975d.me
+||9862751.vip
 ||99881288.com
 ||9cc85d.se
 ||9club88.com
@@ -1082,6 +1094,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||adf.ly/am-push-cps.js
 ||adflex.asia^$third-party
 ||adfly.vn
+||adform.net
 ||adfox.vn
 ||adi.admicro.vn^$third-party
 ||adi.vcmedia.vn
@@ -1425,9 +1438,11 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||casalemedia.com
 ||casio67.club
 ||ccjzuavqrh.com
+||ccwwsv.top
 ||cdn.*/static/js/amvn.js
 ||cdn.atwola.com
 ||cdn.bncloudfl.com
+||cdn.fartmoda.com
 ||cdn.itskiddoan.club
 ||cdn.ml314.com
 ||cdn.uc.atwola.com
@@ -1443,6 +1458,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||celeritascdn.com^$third-party
 ||cer43asett2iu5m.com
 ||cerotop.com^$third-party
+||cgmnight.com
 ||ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me^$third-party
 ||chaindedicated.com
 ||chanle9999.me
@@ -1487,13 +1503,25 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||clipvip.tv^$third-party
 ||clmm.sbs
 ||clmm.win
+||clmm03.fun
 ||clmm1.pro
 ||clmm38.site
+||clmm686.fun
+||clmm777.win
+||clmm78.live
+||clmm88.live
 ||clmmpro.com
+||clmomo.biz
 ||clmomo.site
 ||cloud4z.com
 ||cloudfront.net^$domain=4share.vn|chiasenhac.vn|hdo.tv|hatde.tv|megaurl.in|onhax.me|ouo.io|zippyshare.com
+||cltx24.xyz
 ||cltx247.com
+||cltx68.click
+||cltx789.click
+||cltxmm12.site
+||cltxmmo68.online
+||cltxmomo.fun
 ||cmd368.net^$popup,third-party
 ||cms-image.cdn.bcebos.com
 ||cnzz.com
@@ -1531,6 +1559,12 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||criteo.$third-party
 ||crpt.livejasmin.com
 ||crwdcntrl.net
+||cryptossp.com
+||csw802.xyz
+||csw803.xyz
+||csw806.xyz
+||csw808.xyz
+||csw809.xyz
 ||ctubhxbaew.com
 ||cuddlethehyena.com
 ||cuoc8live.com
@@ -1616,6 +1650,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||doithongtin2022.xyz
 ||doithuong247.club
 ||doithuongonline.club
+||dominantroute.com
 ||donate-*.info
 ||dongphim.net/cvast.xml?*
 ||donhangkiemtra.com
@@ -1659,6 +1694,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||ee88.com
 ||eeeyyy.top
 ||eergithi.com
+||ef2aecba6f.com
 ||effectivecpmgate.com
 ||effectivedisplayformats.com
 ||effectivemeasure.net
@@ -1695,6 +1731,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||ezodn.com
 ||ezoic.net
 ||ezojs.com
+||f4235693e4.com
 ||fabet.us
 ||fabetsport.com
 ||facebook-login.tbit.vn
@@ -1752,6 +1789,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||flv.stream.atwola.com
 ||fmpub.net
 ||fn1s.info^$third-party
+||fnbauniukvi.com
 ||focus-racing.com
 ||foloatoo.com^$third-party
 ||formarshtompchan.com
@@ -2656,8 +2694,10 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||octopuspop.com
 ||oddscornflower.com
 ||offerimage.com
+||oghqvffmnt.com
 ||ogtcwsqeejrfom.xyz
 ||olalive-storage.s3.ap-southeast-1.amazonaws.com/assets/banner-images/*
+||olnhruazzwu.com
 ||olymoption.com
 ||omtrdc.net
 ||onclasrv.com^$third-party
@@ -2942,6 +2982,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||quaviet259.com
 ||quensillo.com^$domain=mediafire.com
 ||quiznhe.com/*/gooima.js
+||qujcfkf.cn
 ||quokkacheeks.com
 ||rarbg.to/xarldhvgowkynu.js
 ||rarbg.to^$script,~third-party
@@ -3014,6 +3055,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||sacmbk.com
 ||safehousefsi.com
 ||safestgatetocontent.com
+||saksfiifth.com
 ||sb4you1.com
 ||sbbanner.com
 ||sbetviet.com
@@ -3952,6 +3994,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||zen-test.yandex.ru
 ||zen-yabro-morda.mediascope.mc.yandex.ru
 ||zen.yandex.*/widget-loader|$third-party
+||zfx.com
 ||zhej78i1an8w6ceu.com
 ||zjk24.com^$third-party
 ||zoroinu.io
