@@ -29,7 +29,10 @@
 ##.adtester-container
 ##.amazonjs_item
 ##.ez-sticky.adtester-container
+##.ez-video-center
 ##.ezoic-ad-adaptive.adtester-container
+##.ezoic-mid_content.ezoic-autoinsert-video
+##.ezoic-under_first_paragraph.ezoic-autoinsert-video
 ##.float-ads-left
 ##.float-ads-right
 ##.float-ck
@@ -1171,6 +1174,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||agacelebir.com
 ||agenduret.com
 ||agle21xe2anfddirite.com
+||aiqidwcfrm.com
 ||airfucks.com 
 ||airlinebot.io
 ||aj1047.online
@@ -2112,6 +2116,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||javfilm.us
 ||javgay.tv
 ||javgg.net
+||javgg.xyz
 ||javgiga.com
 ||javhay.online
 ||javhay.org
@@ -2128,6 +2133,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||javhd.mobi
 ||javhd.news
 ||javhd.onl
+||javhd.red
 ||javhd.social
 ||javhd.tech
 ||javhd.today
@@ -2149,6 +2155,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||javhot.site
 ||javhot.tv
 ||javhot.xyz
+||javhotvietsub.com
 ||javleak.com
 ||javmienphi.com
 ||javmost.com
@@ -2188,6 +2195,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||javtop.me
 ||javtop1.cc
 ||javtop1.net
+||javtop1.news
 ||javtop1.tv
 ||javtop1.xyz
 ||javtopxx.com
@@ -2503,6 +2511,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||luulibaluli.com
 ||luzulabeguile.com
 ||lwgadm.com
+||lwonclbench.com
 ||m.servedby-buysellads.com
 ||m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me
 ||m88.com
@@ -2608,6 +2617,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||mu9.com
 ||mu9.win
 ||mualevang22.com
+||mupxx.net
 ||mx88.me
 ||mxpnl.com
 ||my188bet.com
@@ -2630,6 +2640,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||nbet.win
 ||ne.eu.y.atwola.com
 ||ne.us.y.atwola.com
+||nefdcnmvbt.com
 ||nemo.vin
 ||nessainy.net
 ||nestledmph.com
@@ -2705,6 +2716,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||openstat.net^$third-party
 ||openx.net
 ||openx.org
+||oppvcuovgda.com
 ||optimizely.com
 ||optout.crsspxl.com
 ||optyruntchan.com
@@ -2789,6 +2801,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||phimsec.xxx
 ||phimset.pro
 ||phimsex99.co
+||phimsex99.net
 ||phimsex-ditnhau.pro
 ||phimsex-hd.pro
 ||phimsex-vietnam.pro
@@ -2825,6 +2838,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||phimsexhayvl.com
 ||phimsexhd.org
 ||phimsexhdx.net
+||phimsexhihi.com
 ||phimsexjav.club
 ||phimsexjav.net
 ||phimsexkhongche.club
@@ -3100,6 +3114,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||sexfullhd.pro
 ||sexgai.net
 ||sexgai.sex
+||sexgai.tube
 ||sexhay69.mobi
 ||sexhiepdam.pro
 ||sexhihi.biz
@@ -3128,12 +3143,14 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||sexnung.pro
 ||sexphim-hd.pro
 ||sexphim.vip
+||sexphimhd.pro
 ||sexphimmoi.com
 ||sexphimmoi.pro
 ||sexphimvip.net
 ||sexquaylen.net
 ||sexshort.app
 ||sexshort.com
+||sexsot.net
 ||sexthudam.net
 ||sextinh.net
 ||sextop.net
@@ -3687,6 +3704,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||vlphimsex.tv
 ||vlsexhay.net
 ||vlxtop.net
+||vlxx.cc
 ||vlxx.com
 ||vlxx.day
 ||vlxx.es
@@ -3975,6 +3993,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||ytoiire2r.com
 ||yugrt5.com
 ||yulunanews.name
+||yyselrqpyu.com
 ||zantbowsing.cam^$third-party
 ||zap.buzz
 ||zbetvn.com
