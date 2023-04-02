@@ -1,10 +1,10 @@
 ! Title: FAFD
-! Version: 23.03.069
+! Version: 23.03.070
 ! Homepage: github.com/hungphambkc/FAFD
 ! Source: chongluadao.vn/thong-ke, Kaspersky
 ! Author: Hung Pham
 ! Copyright: Shylenien
-! Updated: 23 Mar 23
+! Updated: 02 Apr 23
 ! ========================== General Element Hiding ===========================
 ##._popIn_infinite_ad
 ##._popIn_infinite_video
@@ -1186,6 +1186,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||allcracksoft.org
 ||allstat-pp.ru
 ||allx.xxx
+||altynamoan.com
 ||am2okb.com
 ||amazon-adsystem.com
 ||amazonaax.com
@@ -1442,6 +1443,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||cdn4ads.com
 ||cdnads.90phut.tv
 ||cdnt.netcoresmartech.com
+||cdntechone.com
 ||cedexis-radar.net
 ||cedexis.com
 ||celeritascdn.com^$third-party
@@ -1582,6 +1584,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||dangkykubet.vip
 ||danhsachnhacai.com
 ||danviet.vn/upload/*.gif
+||datatechonert.com
 ||dathangdon.com
 ||davisonbarker.pro/am-push-cps.js
 ||dc.mpapis.xyz/vast/*
@@ -1668,6 +1671,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||dxmjyxksvc.com
 ||dynamicoxygen.com
 ||dyncdn.me/static/20/js/expla*.js
+||dyptanaza.com
 ||dzogame.vn/img/ads
 ||e.go-mpulse.net
 ||e2ertt.com
@@ -1787,10 +1791,12 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||focus-racing.com
 ||foloatoo.com^$third-party
 ||formarshtompchan.com
+||formationmisjudgebegun.com
 ||fouanalytics.com
 ||fout.jp
 ||fpgedsewst.com
 ||fptplay.vn/js/videojs/*ads.js
+||frail-lock.pro
 ||freddyoctavio.pro/am-push-cps.js
 ||freeprosoftz.com
 ||freshpops.net
@@ -1987,6 +1993,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||hethong2022vn.com
 ||heyphim.com/img/*.gif|
 ||hgivio9.com
+||hhbypdoecp.com
 ||hi1333.com
 ||hi88.com
 ||hi88vip9.com
@@ -2047,11 +2054,13 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||img.ketqua.net/images/*.gif|
 ||img.xemphim73.com/img/*.gif|
 ||imgcdnbet.com
+||immoxdzdke.com
 ||in.ml314.com
 ||in-page-push.com
 ||income88.com
 ||infogame.vn/*swf
 ||infolinks.com
+||ingmar.club
 ||inherentsupposed.com
 ||inklinkor.com
 ||innity.$third-party
@@ -2165,6 +2174,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||javhotvietsub.com
 ||javleak.com
 ||javmienphi.com
+||javmoinhat.com
 ||javmost.com
 ||javmost.cx
 ||javngon.com
@@ -2456,6 +2466,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||lammasbananas.com
 ||lamtinh.pro
 ||lapsebreak.com
+||laugoust.com
 ||lavanetwork.net
 ||lavas.exchange
 ||lazada.$third-party
@@ -2483,6 +2494,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||linkhay.com/actions/linkView/linkClick.php?*$popup,third-party
 ||linkneverdie.com
 ||linknhacai88.com
+||lite-1x11005705.top
 ||littlecutecats.com
 ||littlecutedogs.com
 ||litvcoin.com
@@ -2945,6 +2957,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||predictivadvertising.com^$third-party
 ||prgznhukaoggg.com
 ||pringed.space
+||profitabledisplaynetwork.com
 ||projectwonderful.com
 ||promocrack.com
 ||promomobilsuzukijakarta.com
@@ -2956,6 +2969,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||prprocess.com
 ||prscripts.com^$third-party
 ||prwidgets.com^$third-party
+||psasoshosurvey.space
 ||pseepsie.com
 ||pso2vn.com/js/SmoothScroll.js
 ||ptp22.com
@@ -3080,6 +3094,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||script.crsspxl.com
 ||search-operate.cdn.bcebos.com
 ||search.4shared.com^$popup
+||secondsplash.com
 ||secure-cdn.atwola.com
 ||seeptoag.net
 ||selectsilkscreenings.com
@@ -3138,6 +3153,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||sexkhongche.tv
 ||sexkoche.me
 ||sexlamtinh.com
+||sexlon.me
 ||sexlon.net
 ||sexlon.pro
 ||sexmoi88.com
@@ -3170,6 +3186,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||sextop18.net
 ||sextuyen.pro
 ||sexualpitfall.com
+||sexviet.live
 ||sexviet.sex
 ||sexviet.tube
 ||sexviet.video
@@ -3521,6 +3538,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||uncn.jp
 ||understoodreceivermisunderstand.com
 ||undersun.jp
+||unelgyemom.com
 ||unibet.com^$third-party
 ||unibots.in
 ||unifood-inc.jp
@@ -3547,6 +3565,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||usounoul.com
 ||uss.xplosion.de
 ||ustxsntseyhwsx.com
+||utubepwhml.com
 ||uzngoapreakfgh.top
 ||v567p.xyz
 ||v6rxv5coo5.com
@@ -3727,6 +3746,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||vlxx.sex
 ||vlxx.wtf
 ||vlxx24h.com
+||vlxxhay.club
 ||vlxxs.net
 ||vlxxsex.cc
 ||vlxxsex.com
@@ -3820,6 +3840,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||wind1234.com
 ||winnhacai.com
 ||winwinvn.com
+||withinresentful.com
 ||wonderhsjnsd.com
 ||wovensur.com
 ||wp.com/dc.motphim.net/ia/*$image
@@ -3870,6 +3891,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||xemrap.com/assets/js/abDetector.min.js
 ||xemset.net
 ||xemsex.online
+||xemsex.vip
 ||xemsex99.com
 ||xemsexhd.com
 ||xemsexmy.com
