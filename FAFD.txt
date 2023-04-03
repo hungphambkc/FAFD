@@ -1936,6 +1936,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||hannahdrovebible.com
 ||hanoicomputer.vn/media/banner/*.jpg
 ||haribdathesea.com
+||hartattenuate.com
 ||hatde.tv/assets/popup.js
 ||hatde.tv/sw.js
 ||hay88.biz
@@ -2112,6 +2113,8 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||jav-porn-tube.com
 ||jav.casa
 ||jav.guru
+||jav.land
+||jav.si
 ||jav.xxx
 ||jav1s.net
 ||jav2022.top
@@ -2210,6 +2213,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||javsub.vip
 ||javteentube.com
 ||javthailan.com
+||javtiful.com
 ||javtoday.net
 ||javtop.cc
 ||javtop.me
@@ -2611,6 +2615,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||mining822.com
 ||mint.frzz.net
 ||mirae247.org
+||missav.com
 ||mixpanel.com
 ||ml314.com
 ||mml888.me
@@ -2763,6 +2768,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||pamphletconspiracy.com
 ||paragonads.vn
 ||parkcircularpearl.com
+||partwithner.com
 ||passtechusa.com
 ||pc*ads.com^$third-party
 ||pcmclk.com
@@ -3854,6 +3860,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||wteicogfeyhjk.com
 ||wtongbk.com
 ||wutienitme247.info
+||wuzbhjpvsf.com
 ||wwsercher.biz
 ||www-go88.vin
 ||wwwpromoter.com
