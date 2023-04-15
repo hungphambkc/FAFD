@@ -1,10 +1,10 @@
 ! Title: FAFD
-! Version: 23.03.070
+! Version: 02.04.071
 ! Homepage: github.com/hungphambkc/FAFD
 ! Source: chongluadao.vn/thong-ke, Kaspersky
 ! Author: Hung Pham
 ! Copyright: Shylenien
-! Updated: 02 Apr 23
+! Updated: 15 Apr 23
 ! ========================== General Element Hiding ===========================
 ##._popIn_infinite_ad
 ##._popIn_infinite_video
@@ -38,7 +38,6 @@
 ##.float-ck
 ##.float-ck-righttop
 ##.google-afc-image
-##.gpt-promotion-link
 ##.insentence-adsense
 ##.interstitial-ad
 ##.ise-ad.csw-content-box
@@ -877,6 +876,17 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ! ====================== Third-party adverts and trackers =====================
 *-ad.24hstatic.com
 *.accountant^$third-party
+||.*/beardeddragon/gilamonster.js
+||.*/beardeddragon/iguana.js
+||.*/beardeddragon/wyvern.js
+||.*/detroitchicago/cmbv2.js
+||.*/detroitchicago/cmbdv2.js
+||.*/detroitchicago/greenoaks.gif
+||.*/ezvideo/ezvideocss.css
+||.*/ezvideo/ezvideojscss.css
+||.*/ezvideo/ezvideojspluginscss.css
+||.*/porpoiseant/banger.js
+||.*/porpoiseant/nmash.js
 ||007zpo.com
 ||03ed9035a0801f.com
 ||0i0i0i0.com
@@ -1659,6 +1669,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||dragoncapitals.com
 ||dragoncapitalvay.com
 ||dragoncapitalvn.com
+||ds5.biz
 ||dsp-idea.cdn.bcebos.com
 ||dt00.net^$third-party
 ||dtadnetwork.com
@@ -1679,6 +1690,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||eavujbk.com
 ||eboundservices.com^$third-party
 ||ebz.io
+||ecci.com.vn
 ||ecgmdxoucsnrmq.com
 ||echolargemovement.com
 ||eclick.$third-party
@@ -2070,6 +2082,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||inpage-push.com
 ||inpagepush.com
 ||inrhyhorntor.com
+||inspirecarriermagnetic.com
 ||insta-cash.net
 ||installmentloan7vrt.org
 ||instrumenttactics.com
@@ -2230,6 +2243,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||javviet.net
 ||javvietsub.cc
 ||javvn.net
+||javvn.org
 ||javvn.pro
 ||javx.to
 ||javxxx.me
@@ -3228,6 +3242,8 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||shijuezhongguo.cdn.bcebos.com
 ||shink.in/img/downloadad.png
 ||shink.in/js/p*.js
+||shippingswimsuitflog.com
+||shope.ee^$popup
 ||shopee.am
 ||shopeep.vip
 ||shopeevent.com
@@ -3284,6 +3300,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||soicau.org
 ||solemik.com
 ||solemncringle.com
+||solidindexes.com
 ||somo.vn^$popup,third-party
 ||son-in-lawmorbid.com
 ||songlong8886.com
@@ -3397,6 +3414,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||tcb-card.com
 ||teenax.com
 ||teleostrodmen.com
+||temporarilylocate.com
 ||tenlua.vn/img/*_banner*.gif|
 ||terratraf.com^$third-party
 ||thanosofcos5.com
@@ -3750,6 +3768,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||vlxtop.net
 ||vlxx.cc
 ||vlxx.com
+||vlxx.contact
 ||vlxx.day
 ||vlxx.es
 ||vlxx.in
