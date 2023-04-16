@@ -172,6 +172,7 @@ _googleAnalytics_
 /bannerqc/*
 /banners?
 /banners/*$~image,~xmlhttprequest
+/beardeddragon/*
 /brightcoveGoogleAnalytics.
 /buaxua_floating.js
 /cdn-cgi/pe/bag2?r[]=*an.yandex.ru
@@ -180,7 +181,9 @@ _googleAnalytics_
 /click.$popup,domain=~mail.google.com
 /Collateral.aspx?*
 /data/Siropu/images/*
+/detroitchicago/*
 /ezo/*$script,~third-party,domain=~yandex.by|~yandex.com|~yandex.kz|~yandex.ru|~yandex.ua
+/ezvideo/*
 /facebook-popup-box/*
 /floatads.js?*
 /gamead/*
@@ -283,6 +286,7 @@ _googleAnalytics_
 /popup_$script,image,stylesheet
 /popup1.js
 /popup2.js
+/porpoiseant/*
 /portal/ntp/banner?$domain=yandex.by|yandex.kz|yandex.ru|yandex.ua|yandex.uz
 /prn.google.analytics.
 /promotions/*
@@ -876,17 +880,6 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ! ====================== Third-party adverts and trackers =====================
 *-ad.24hstatic.com
 *.accountant^$third-party
-||.*/beardeddragon/gilamonster.js
-||.*/beardeddragon/iguana.js
-||.*/beardeddragon/wyvern.js
-||.*/detroitchicago/cmbv2.js
-||.*/detroitchicago/cmbdv2.js
-||.*/detroitchicago/greenoaks.gif
-||.*/ezvideo/ezvideocss.css
-||.*/ezvideo/ezvideojscss.css
-||.*/ezvideo/ezvideojspluginscss.css
-||.*/porpoiseant/banger.js
-||.*/porpoiseant/nmash.js
 ||007zpo.com
 ||03ed9035a0801f.com
 ||0i0i0i0.com
@@ -1577,6 +1570,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||cvbn8m.com
 ||cvpyosexmmahdrp.com
 ||cxense.com
+||cyberspc.com
 ||cydia.vn^$third-party
 ||d5coalition.com^$third-party
 ||da-ads.com
@@ -1702,6 +1696,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||eergithi.com
 ||ef2aecba6f.com
 ||effectivecpmgate.com
+||effectivecreativeformat.com
 ||effectivedisplayformats.com
 ||effectivemeasure.net
 ||effectiveperformanceformat.com
@@ -1922,6 +1917,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||godpvqnszo.com
 ||goeastvalley.com
 ||gogo88.me
+||goharpc.com
 ||gokumarket.com
 ||goosimes.com
 ||gozelenergyservices.com
@@ -2030,6 +2026,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||hoowooze.net^$third-party
 ||hornyasian.work
 ||horsered.com
+||hosenewspapersdepths.com
 ||hosothuong22.com
 ||hotlive.pro
 ||hotmovs.com
@@ -2352,6 +2349,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||k8info.com^$third-party
 ||k8viet.net
 ||kangaroohiccups.com
+||karanpc.com
 ||katmandu-inc.com
 ||kc6.com
 ||kenh3x.net
@@ -2366,6 +2364,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||ketoanthucte.vn/games/*
 ||kfcabb.com
 ||kgdvs9ov3l2aasw4nuts.com
+||khophanmem24h.com
 ||khosex.me
 ||kichdam.vip
 ||kichduc.biz
@@ -2793,6 +2792,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||perren.xyz^$third-party
 ||phagosyfa.com
 ||phallicuncut.com
+||phanmemfree.net
 ||phanmemnet.com
 ||phatloc88.club
 ||phdaimon.io
@@ -3296,6 +3296,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||sodogame.com
 ||sodoplay.com
 ||sofinpushpile.com
+||softasm.com
 ||sohot.vn^$third-party
 ||soicau.org
 ||solemik.com
@@ -3397,6 +3398,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||taiiwinclub.vip
 ||tailwindcss.com
 ||taimanclub.com
+||taiphanmempc.net
 ||taiphimsex.top
 ||tairikvip.net
 ||tairikvip.org
@@ -3868,6 +3870,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||win9906.com
 ||win9907.com
 ||wind1234.com
+||windowsactivators.org
 ||winnhacai.com
 ||winwinvn.com
 ||withinresentful.com
