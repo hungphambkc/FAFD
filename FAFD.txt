@@ -154,7 +154,7 @@
 @@://yandex.*/search/?$generichide
 @@://yandex.ru/|$generichide
 @@||gamek.vn^$generichide
-@@||www.googletagmanager.com^$domain=vcbf.com
+@@||googletagmanager.com^$domain=vcbf.com
 @@||gtimg.com/qqcdn/*/beacon.min.js$script,domain=qq.com
 @@||hulu.com^$generichide
 @@||nationalgeographic.com^$generichide
