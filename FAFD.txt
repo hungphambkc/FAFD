@@ -26,8 +26,14 @@
 ##.adsense_mainbox01
 ##.adsense-image-detail
 ##.adsense-topics-detail
+##.adsense.clearfix.adbox
+##.adsv
 ##.adtester-container
+##.advert-sticks
+##.advertisement
 ##.amazonjs_item
+##.center_ad
+##.col--highlight-ads
 ##.ez-sticky.adtester-container
 ##.ez-video-center
 ##.ezoic-ad-adaptive.adtester-container
@@ -41,17 +47,25 @@
 ##.insentence-adsense
 ##.interstitial-ad
 ##.ise-ad.csw-content-box
+##.my_responsive_ads
 ##.plugin-rakuten
+##.portal_ads_scroll
+##.qc-css
 ##.quangcao
+##.r.mr .adsbygoogle
+##.show-ads-banner
 ##.sponsor-h2-center
 ##.sponsor-top
 ##.st-h-ad
 ##.st-infeed-adunit
 ##.st-magazine-infeed
+##.top_ads
+##.video-ads
 ##.yahoo_ad
 ##.yandex-rtb
 ##.yandex-rtb-block
 ##.ytp-ad-progress-list
+##ins.adsbygoogle
 ##[class^="ad_"]:not(body)
 ##[class^="ads_area_"]
 ##[class^="advertise"]
@@ -67,14 +81,20 @@
 ##[id^="div-gpt-ad"]
 ##[id^="divAd"]
 ###ad_float_right
+###ad_right_watch
+###ads_location
+###adsgooglesuggestion
 ###bar_float
 ###bn_bottom_fixed_left
 ###bn_bottom_fixed_right
 ###ezoic-pub-ad-placeholder
 ###left_float
 ###left_float_ads_content
+###left_sticky_ads
 ###leftAdsBanner
 ###pr_ad
+###qc_clgt
+###qc_clgt_vuong
 ###qcBallonright
 ###right_float
 ###right_float_ads_content
@@ -328,10 +348,6 @@ anh-dv.com##.felyoipd-hide-on-phone.felyoipd-type-code.felyoipd-container
 anh-dv.com##.widget_felyoipd.widget.primary-sidebar-widget.w-nt.h-ni
 anh-dv.com###felyoipd-5892-1051729790
 anh-dv.com###felyoipd-5889-598129009
-anime47.com###qc_clgt
-anime47.com###qc_clgt_vuong
-anime47.com##.advertisement
-anime47.com,phimno1.xyz###ads_location
 arduinokit.vn##.ugaam-center-align.ugaam-sticky-footer-ad-wrapper.ugaam-sticky-footer-ad.ugaam-sticky-ad.ugaam-ad-wrapper-outer
 arduinokit.vn##div.ugaam-center-align.ugaam-singular-ad-wrapper.ugaam-ad-wrapper-outer
 atpsoftware.vn##.onesignal-slidedown-dialog
@@ -356,18 +372,15 @@ blackboxrepack.com##.down
 blogtruyen.vn##.al-c.BT-Ads
 blogtruyen.vn##.BT-Ads > center > a
 blogtruyen.vn##.manga-detail > center > a
-blogtruyen.vn##.qc-css
 blogtruyen.vn##.qc-inner
 blogtruyen.vn###mbtfloat
 blogtruyen.vn###qcInnerContentList
 bongda.com.vn##[id^="text-html-widget"]
-bongdalive.tv,bongdaso.tv,bongdainfo.tv,demkhuya.tv##.show-ads-banner
 bongdaplus.vn##.adrgt
 bongdaplus.vn##.banner
 bongdaso.com##.art_header_text
 bongdaso.com##[class*="_banner"]
 bongdatructuyen.us##[id^="banner"]
-bongdatructuyen.us###left_sticky_ads
 cadviet.com###float_panel
 cafebiz.vn##.adm-rightsection.contentright2.contentright
 cafebiz.vn##.bgadmtoptotal
@@ -384,7 +397,6 @@ clbgamesvn.com###contentMain center
 client.googiehost.com##.order-summary
 client.googiehost.com##.main-content.pull-md-right.col-md-9 > div.row
 coccoc.com,phimgii.tv,phimhdvns.net,vietnamplus.vn,kienthuc.net.vn,saostar.vn,laptrinhx.com,huphimtv.com,bongda24h.vn,vieclam123.net,animevietsub.tv,cungthi.online,appvn.com,xoso.me,xsmn.me,ghienphimz.org,linkerpt.com,tinnhac.com,antt.vn##.ads
-coccoc.com##.adsv
 coccoc.com##.middlebar
 coccoc.com##.right-wrapper
 coccoc.com##[data-show-urls^="http://catalog.qc.coccoc.com"]
@@ -400,7 +412,6 @@ coiphim.org##.logo-partner
 cvt.vn##.headbanner
 dangcaphd.com##.block-banner
 dantri.com.vn,phuongtrinhhoahoc.com##.top-banner
-dantri.com.vn##.col--highlight-ads
 dantri.com.vn##.container.body > .flex-jcc.mt-30.ads
 dantri.com.vn##.footer-banner__wrapper
 dantri.com.vn###bannerMasthead 
@@ -437,10 +448,8 @@ fshare.vn##.popup-fsub-box
 fshare.vn###myElementz
 fshare.vn###page-content-asv
 fsharetv.com###home_header
-gamehub.vn##.portal_ads_scroll
 gamek.vn##.adm-rightsection.contentright
 gamek.vn##.topbanner
-gametv.vn##.box-ad
 ghacks.net##.block
 ghacks.net##.ghacks-ad
 hacom.vn###backgroundPopup
@@ -459,10 +468,6 @@ kenh14.vn##.khw-adk14-wrapper
 keonhacai.net##.AdsDesktop-header
 ketcau.com##TD[width="140"][valign="top"]
 ketqua.net##.float-qc-left
-khampha.vn##[id^="ADS_"]
-kiemlua.com##ins.adsbygoogle:nth-of-type(1)
-kiemlua.com##ins.adsbygoogle:nth-of-type(2)
-kiemlua.com##ins.adsbygoogle:nth-of-type(3)
 kienthuc.net.vn##.simplebanner
 kienthuc.vn##.ja-colswrap.clearfix.ja-r2
 kissmanga.com###mgiframe2 + DIV
@@ -478,13 +483,11 @@ mediafire.com##.download_banner_container
 mmo4me.com##.sidebar #widget-11
 mmo4me.com##.sidebar #widget-12
 mmo4me.com##.underPost
-movie.vkoolzz.net###ad_right_watch
 movie.vkoolzz.net##[href="javascript:hide_float()"]
 movies.hdviet.com##[class^="box-adv"]
 movies.hdviet.com##[id^="popup"]
 music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.ua,music.yandex.uz##.bar__driver-container
 music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.ua,music.yandex.uz##[class^="audio-advert"]
-mybongda.com##.top_ads
 nationalgeographic.com##.ad-holder
 nhaccuatui.com##.nqc-zone
 nld.com.vn##.bordertopmenuv4
@@ -511,7 +514,6 @@ play.tclup.com##.body > .modal
 publicananker.com###div-ub-publicananker
 publicananker.com##div.pgAdWrapper:nth-of-type(5)
 publicananker.com##div.pgAdWrapper:nth-of-type(7)
-quantrimang.com##.adsense.clearfix.adbox
 quantrimang.com##.box-section.adbox
 quantrimang.com##.modal
 quantrimang.com##.modal-body
@@ -521,7 +523,6 @@ quantrimang.com###adindexcenterbox
 quantrimang.com###adrighttop.adsense.adbox
 quantrimang.com###adrighttoplinks
 quantrimang.com###adsbgleft
-quantrimang.com###adsgooglesuggestion
 quantrimang.com###adsinfeed
 quantrimang.com###adsposttop.adsense
 quantrimang.com###adunderarticle
@@ -559,9 +560,7 @@ taimienphi.vn###cph1_garight1
 taimienphi.vn###cph1_gatop
 taimienphi.vn###cph1_gatop0
 taimienphi.vn###shownews
-taimienphi.vn##ins.adsbygoogle:nth-of-type(1)
 taimienphi.vn##p:nth-of-type(27)
-taimienphi.vn##.r.mr .adsbygoogle
 taisachhay.com###footer ~ div
 talk.secafe.vn##.hs-header-ad
 talk.secafe.vn##.hs-hide-992
@@ -574,7 +573,6 @@ techrum.vn##.sharePage
 techrum.vn##.vip_ad_div
 thamhue.com###ad_global_below_navbar
 thamhue.com###sidebar
-thiendia.com##.my_responsive_ads
 thiendia.com##.samThreadPostMessageInside
 thongtincongnghe.com##.scroller-sidebar
 timbus.vn##[src="http://quantri.timbus.vn/Media/Uploads/*.jpg"]
@@ -719,7 +717,6 @@ yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##div[data-block="banner-view"]
 yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##img[src*="yandex.net/get-direct"]
 yandex.com##div[id^="yandex_ad"]
 yandex.ru#?#div[class$="_visible"]:-abp-has([class$="icon"] ~ [class]:-abp-contains(Рекламы нет))
-yandex.ru##.advert-sticks
 yandex.ru##.custom-block > .ext-embed
 yandex.ru##.org__sidebar > .org__links + div[style^="margin-top"]
 yandex.ru##.org.i-bem.org_js_inited > div[style^="border-bottom"]
@@ -746,7 +743,6 @@ zingnews.vn###body-banner2
 zingnews.vn###btnHighlight
 zingnews.vn###product_ads
 zingnews.vn###site-header
-zippyshare.com##.center_ad
 zippyshare.com###qrCode ~ a[href$="1131386.html"]
 ! ================================= Whitelists ================================
 @@//promo.$popup,domain=bactistatin.com|gamexp.ru|iguides.ru|ingate.ru|yandex.ru
@@ -1087,6 +1083,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||adjuggler.net
 ||adk2.co^$third-party
 ||adk2*.com
+||adkernel.com
 ||adlike.net^$popup
 ||adlite.net
 ||adm.shinobi.jp
@@ -2267,6 +2264,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||js-agent.newrelic.com
 ||js-api.otherlevels.com
 ||js-azirnd.stackblitz.io
+||js-sec.indexww.com
 ||js.133u.com
 ||js.1688988.com
 ||js.263y.com
@@ -5696,7 +5694,6 @@ youtube-nocookie.com,youtube.com##.video-annotations
 youtube-nocookie.com,youtube.com##.ytp-cards-teaser
 youtube-nocookie.com,youtube.com##.ytp-paid-content-overlay
 youtube-nocookie.com,youtube.com###yt-lang-alert-container
-youtube-nocookie.com##.ytp-ad-progress-list
 youtube.com#?#ytd-rich-grid-renderer ytd-rich-item-renderer div > ytd-display-ad-renderer:upward(2)
 youtube.com#@##consent-bump
 youtube.com##.iv-click-target
@@ -5706,13 +5703,11 @@ youtube.com##.mealbar-promo-renderer
 youtube.com##.share-panel
 youtube.com##.share-panel-services-container > div#share-services-container
 youtube.com##.sparkles-light-cta.ytd-item-section-renderer.style-scope
-youtube.com##.video-ads
 youtube.com##.video-playing.ytd-video-masthead-ad-v3-renderer.style-scope
 youtube.com##.yt-consent
 youtube.com##.yt-consent-banner
 youtube.com##.ytd-search-pyv-renderer
 youtube.com##.ytd-single-option-survey-option-renderer
-youtube.com##.ytp-ad-progress-list
 youtube.com##.ytp-cards-button
 youtube.com##.ytp-ce-covering-image
 youtube.com##.ytp-ce-covering-overlay
