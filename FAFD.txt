@@ -1,10 +1,10 @@
 ! Title: FAFD
-! Version: 02.04.071
+! Version: 02.04.072
 ! Homepage: github.com/hungphambkc/FAFD
 ! Source: chongluadao.vn/thong-ke, Kaspersky
 ! Author: Hung Pham
 ! Copyright: Shylenien
-! Updated: 15 Apr 23
+! Updated: 25 Apr 23
 ! ========================== General Element Hiding ===========================
 ##._popIn_infinite_ad
 ##._popIn_infinite_video
@@ -12,6 +12,8 @@
 ##._popIn_recommend_article_ad_reserved
 ##.above-player
 ##.ad
+##.ad-sticky-content
+##.adblock-notification
 ##.adbox
 ##.adCentertile
 ##.adEmployment
@@ -20,6 +22,7 @@
 ##.admicro
 ##.adrect
 ##.ads_468
+##.ads_player
 ##.ads-by-google-0
 ##.adsbygoogle
 ##.adsense_box01
@@ -54,6 +57,7 @@
 ##.portal_ads_scroll
 ##.qc-css
 ##.quangcao
+##.quangcao_post
 ##.r.mr .adsbygoogle
 ##.show-ads-banner
 ##.sponsor-h2-center
@@ -81,8 +85,17 @@
 ##[id^="banner_Float"]
 ##[id^="div-gpt-ad"]
 ##[id^="divAd"]
+##[id^="popup"]
 ##div.in-article.adsense.adbox
 ##ins.adsbygoogle
+##a[href^="http://ad2.trafficgate.net/"]
+##div[class*="adv-manager"]
+##div[class^="google-2ad"]
+##div[class^="yandex_rtb"]
+##div[class^="ytd-consent"]
+##div[id$="-ad__rtb"]
+##div[id^="yandex_ad"]
+##div[id^="yandex_rtb"]
 ###ad_float_right
 ###ad_right_watch
 ###adventist_content
@@ -104,14 +117,6 @@
 ###right_float_ads_content
 ###rightAdsBanner
 ###yandex_ad
-##a[href^="http://ad2.trafficgate.net/"]
-##div[class*="adv-manager"]
-##div[class^="google-2ad"]
-##div[class^="yandex_rtb"]
-##div[class^="ytd-consent"]
-##div[id$="-ad__rtb"]
-##div[id^="yandex_ad"]
-##div[id^="yandex_rtb"]
 ! ========================= Element Hiding Exception ==========================
 @@://yandex.*/safe/win/$generichide
 @@://yandex.*/search/?$generichide
@@ -396,7 +401,6 @@ chiasenhac.vn###csnplayerads
 chiasenhac.vn###poster_new
 chiasenhac.vn##a[href*="clicktrackingv2.userreport.com"]
 chiasenhac.vn##body>a:first-child>div
-choimobile.vn##.quangcao_post
 chovinh.com##.samBannerUnit
 chovinh.com##.samCodeUnit
 chovinh.com###messageList > .message:first-child > .messageInfo + div
@@ -464,7 +468,6 @@ hacom.vn###corner-banner
 hdvietnam.com###youtube.secondaryContent
 icongnghe.com##.td_block_template_1.tdi_1.td-g-rec-id-header.td-g-rec
 icongnghe.com##.td_block_template_1.tdi_26.td-g-rec-id-footer_top.td-g-rec
-iconmonstr.com##.adblock-notification
 iconmonstr.com##.container-content-ad
 iconmonstr.com###fcca
 iplocation.net###ezmobfooter .ezmob-footer-desktop.ezo_ad.ezoic-floating-bottom.ezmob-footer
@@ -478,8 +481,6 @@ ketqua.net##.float-qc-left
 kienthuc.net.vn##.simplebanner
 kienthuc.vn##.ja-colswrap.clearfix.ja-r2
 kissmanga.com###mgiframe2 + DIV
-kzone.tv##.ad-sticky-content
-kzone.tv##.ads_player
 kzone.tv##.jwplayer>.afs_ads~div[style*="height:30px"]
 lgviet.com##.widget.WidgetFramework_WidgetRenderer_Html
 macintosh.vn###dg-container
@@ -492,7 +493,6 @@ mmo4me.com##.sidebar #widget-12
 mmo4me.com##.underPost
 movie.vkoolzz.net##[href="javascript:hide_float()"]
 movies.hdviet.com##[class^="box-adv"]
-movies.hdviet.com##[id^="popup"]
 music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.ua,music.yandex.uz##.bar__driver-container
 music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.ua,music.yandex.uz##[class^="audio-advert"]
 nationalgeographic.com##.ad-holder
@@ -4226,6 +4226,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||d1lne9z2al5lr6.cloudfront.net
 ||d1lu68kpg9miy0.cloudfront.net
 ||d1lzoljld5a2bc.cloudfront.net
+||d1m1511i74zbdu.cloudfront.net
 ||d1m16180oxrzi8.cloudfront.net
 ||d1mdflz12t12gs.cloudfront.net
 ||d1mdhw23tj9j17.cloudfront.net
