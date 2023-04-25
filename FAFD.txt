@@ -31,6 +31,7 @@
 ##.adtester-container
 ##.advert-sticks
 ##.advertisement
+##.adWidget
 ##.amazonjs_item
 ##.center_ad
 ##.col--highlight-ads
@@ -44,6 +45,7 @@
 ##.float-ck
 ##.float-ck-righttop
 ##.google-afc-image
+##.hs-header-ad
 ##.insentence-adsense
 ##.interstitial-ad
 ##.ise-ad.csw-content-box
@@ -65,7 +67,6 @@
 ##.yandex-rtb
 ##.yandex-rtb-block
 ##.ytp-ad-progress-list
-##ins.adsbygoogle
 ##[class^="ad_"]:not(body)
 ##[class^="ads_area_"]
 ##[class^="advertise"]
@@ -80,8 +81,11 @@
 ##[id^="banner_Float"]
 ##[id^="div-gpt-ad"]
 ##[id^="divAd"]
+##div.in-article.adsense.adbox
+##ins.adsbygoogle
 ###ad_float_right
 ###ad_right_watch
+###adventist_content
 ###ads_location
 ###adsgooglesuggestion
 ###bar_float
@@ -101,8 +105,11 @@
 ###rightAdsBanner
 ###yandex_ad
 ##a[href^="http://ad2.trafficgate.net/"]
+##div[class*="adv-manager"]
 ##div[class^="google-2ad"]
 ##div[class^="yandex_rtb"]
+##div[class^="ytd-consent"]
+##div[id$="-ad__rtb"]
 ##div[id^="yandex_ad"]
 ##div[id^="yandex_rtb"]
 ! ========================= Element Hiding Exception ==========================
@@ -529,7 +536,6 @@ quantrimang.com###adunderarticle
 quantrimang.com###articleads
 quantrimang.com###articleads2
 quantrimang.com###articleads3
-quantrimang.com##div.in-article.adsense.adbox
 quantrimang.com##div#adindexcenter.adsense.adbox
 quantrimang.com###ouibounce-modal
 quora.com##.cta_case_rules
@@ -544,7 +550,6 @@ rasp.yandex.by,rasp.yandex.kz,rasp.yandex.ru,rasp.yandex.ua,rasp.yandex.uz##.Thr
 razorphim.com##.module_home_ads
 realty.yandex.ru##.OffersSerp__list-item_type_ad
 realty.yandex.ru##.OffersSerpPromoItem
-realty.yandex.ru##div[id$="-ad__rtb"]
 rutor.info##.b_tz_on_top
 subscene.com##.banner
 tailieu.vn##.fleft.doc300 > div > .adsbygoogle
@@ -562,7 +567,6 @@ taimienphi.vn###cph1_gatop0
 taimienphi.vn###shownews
 taimienphi.vn##p:nth-of-type(27)
 taisachhay.com###footer ~ div
-talk.secafe.vn##.hs-header-ad
 talk.secafe.vn##.hs-hide-992
 talk.secafe.vn###headerProxy
 tangthuvien.vn###sidebar
@@ -577,7 +581,6 @@ thiendia.com##.samThreadPostMessageInside
 thongtincongnghe.com##.scroller-sidebar
 timbus.vn##[src="http://quantri.timbus.vn/Media/Uploads/*.jpg"]
 timbus.vn###lft-adv-ctn
-tinhte.vn##.adWidget
 tinhte.vn##.desktopOnly.pro-container.jsx-2015658151
 tinhte.vn##.false.in-article-promo.jsx-1268062893
 tinhte.vn##.in-article-promo-title.jsx-1268062893
@@ -638,7 +641,6 @@ tuthienbao.com##TD[align="right"]
 tuyengiao.vn##.clearfix.adregion
 tuyengiao.vn##.visible-md.header-banners
 tv.yandex.by,tv.yandex.kz,tv.yandex.ru,tv.yandex.ua,tv.yandex.uz##.branding
-tv.yandex.by,tv.yandex.kz,tv.yandex.ru,tv.yandex.ua,tv.yandex.uz##div[class*="adv-manager"]
 tv.yandex.by,tv.yandex.kz,tv.yandex.ru,tv.yandex.ua,tv.yandex.uz##script[nonce] + script[nonce] + div[class]
 twrp.me##body > .wrapper
 userstyles.org###social
@@ -654,7 +656,6 @@ vnexpress.net##.banner-top-home.banner-ads.section-ads-top.section
 vnexpress.net##[class^="banner_"]
 vnreview.vn##._1lhj7qShQwdxq12nNl9ixF.vnr_header_right
 vnreview.vn##._1Z6uV_rO-y4mW25LVK7hkO.ads_vnr
-vnreview.vn###adventist_content
 vnreview.vn##div.UXSuVInSHghZA9g53btNr:nth-of-type(4)
 vnreview.vn##div.UXSuVInSHghZA9g53btNr:nth-of-type(5)
 vnreview.vn##div.UXSuVInSHghZA9g53btNr:nth-of-type(6)
@@ -5725,7 +5726,6 @@ youtube.com###__ffYoutube4
 youtube.com###alert-banner > .ytd-browse > .yt-alert-with-actions-renderer
 youtube.com###consent-bump
 youtube.com###content > .style-scope > .ytd-compact-promoted-item-renderer
-youtube.com##div[class^="ytd-consent"]
 youtube.com###feed-pyv-container
 youtube.com###masthead-ad
 youtube.com###notification-footer
