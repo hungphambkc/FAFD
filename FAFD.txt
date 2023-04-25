@@ -154,7 +154,6 @@
 @@://yandex.*/search/?$generichide
 @@://yandex.ru/|$generichide
 @@||gamek.vn^$generichide
-@@||googletagmanager.com^$domain=vcbf.com
 @@||gtimg.com/qqcdn/*/beacon.min.js$script,domain=qq.com
 @@||hulu.com^$generichide
 @@||nationalgeographic.com^$generichide
@@ -782,6 +781,7 @@ zippyshare.com###qrCode ~ a[href$="1131386.html"]
 @@||facebook.com/dialog/oauth?*
 @@||gamehub.vn/*/jquery.smartbanner.js
 @@||getresponse.com^$popup,third-party
+@@||googletagmanager.com^$domain=vcbf.com
 @@||hackintoshzone.com/ipscdn/ads/*
 @@||hdo.tv/*/video?*
 @@||hphim.tv/styles/*.gif
