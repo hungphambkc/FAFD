@@ -40,6 +40,7 @@
 ##.advert-sticks
 ##.advertisement
 ##.adWidget
+##.al-c.BT-Ads
 ##.amazonjs_item
 ##.catfishs-ck.gnarty-offads
 ##.center_ad
@@ -153,6 +154,7 @@
 @@://yandex.*/search/?$generichide
 @@://yandex.ru/|$generichide
 @@||gamek.vn^$generichide
+@@||www.googletagmanager.com^$domain=vcbf.com
 @@||gtimg.com/qqcdn/*/beacon.min.js$script,domain=qq.com
 @@||hulu.com^$generichide
 @@||nationalgeographic.com^$generichide
@@ -413,7 +415,6 @@ baodatviet.vn###left_col center
 bdslamdong.vn##.widget-ad-300
 biphim1.com##.banner-sticky-footer-wrapper
 blackboxrepack.com##.down
-blogtruyen.vn##.al-c.BT-Ads
 blogtruyen.vn##.BT-Ads > center > a
 blogtruyen.vn##.manga-detail > center > a
 blogtruyen.vn###mbtfloat
