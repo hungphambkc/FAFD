@@ -26,6 +26,7 @@
 ##.ads_468
 ##.ads_player
 ##.ads-by-google-0
+##.ads-responsive
 ##.adsbygoogle
 ##.AdsDesktop-header
 ##.adsense_box01
@@ -42,7 +43,9 @@
 ##.adWidget
 ##.al-c.BT-Ads
 ##.amazonjs_item
+##.catfish-bottom-mobile
 ##.catfishs-ck.gnarty-offads
+##.catfish.banner-balloon.ff-banner
 ##.center_ad
 ##.col--highlight-ads
 ##.container-content-ad
@@ -57,6 +60,7 @@
 ##.float-ck-righttop
 ##.float-qc-left
 ##.google-afc-image
+##.header-ads-full
 ##.hs-header-ad
 ##.insentence-adsense
 ##.interstitial-ad
@@ -74,6 +78,7 @@
 ##.r.mr .adsbygoogle
 ##.rzone_ads
 ##.share-ad-zone.top-banner
+##.shoppe_ads_fly
 ##.show-ads-banner
 ##.sponsor-h2-center
 ##.sponsor-top
@@ -121,6 +126,7 @@
 ###adrighttop.adsense.adbox
 ###adrighttoplinks
 ###ads_location
+###ads_mobile
 ###adsbgleft
 ###adsgooglesuggestion
 ###adsinfeed
@@ -129,12 +135,15 @@
 ###adunderarticle
 ###adventist_content
 ###articleads
+###balloon-ads
 ###bar_float
 ###bn_bottom_fixed_left
 ###bn_bottom_fixed_right
+###bottom-banner-ads
 ###catfishs_content
 ###ezoic-pub-ad-placeholder
 ###headerpcads
+###inread-ads-wrapper
 ###left_float
 ###left_float_ads_content
 ###left_sticky_ads
@@ -598,21 +607,15 @@ topbongda.com##.tkb
 topbongda.com##[class*="fadeIn"]
 truyendoc.info##[data-original^="http://imgg-cdn.steepto.com"]
 truyenfull.vn,razorphimzz.com##[id^="ads-"]
-truyenfull.vn##.ads-responsive
 truyenfull.vn##.desktop-taitro
-truyenfull.vn##.header-ads-full
-truyenfull.vn##.shoppe_ads_fly
 truyenfull.vn###chapter-c > div[id^="taitro-"]
 truyenqk.work###ballon_right
-truyenqqtop.com##.catfish-bottom-mobile
 truyenqqtop.com##.pc-banner-full
 truyenqqtop.com##.popup_wrapper_visible.popup_wrapper
 truyenqqvip.com#?#div:-abp-has(> div > a[href*="bitly.com"])
 truyenqqvip.com##.left-banner
 truyenqqvip.com##.mobile-banner
 truyenqqvip.com##.pc-banner
-truyenqqvip.com###ads_mobile
-truyenqqvip.com###bottom-banner-ads
 truyenqqvip.com###left-banner
 truyenqqvip.com##div[id^="image_popup_"]
 truyensieuhay.com##.footer-info
@@ -621,10 +624,7 @@ truyensieuhay.com##.video_wrapper
 truyensieuhay.com###floatleft
 truyensieuhay.com###floatright
 truyensieuhay.com###topbanner
-truyentranh.net###balloon-ads
-truyentranh.net###inread-ads-wrapper
 truyentranh24z.com##.banner-preload.ff-banner
-truyentranh24z.com##.catfish.banner-balloon.ff-banner
 truyentranh24z.com###sponsor-balloon
 truyentranh24z.com###sponsor-preload
 truyentranh86.com##.embed-responsive
@@ -653,7 +653,6 @@ vietnamnet.vn##.mt-10.vmcadszone
 vietnamnet.vn##.desktop.mt-20.vmcadszone
 viettorrent.vn##.container-fluid CENTER
 vnexpress.net##.banner-top-home.banner-ads.section-ads-top.section
-vnexpress.net##[class^="banner_"]
 vnreview.vn##._1lhj7qShQwdxq12nNl9ixF.vnr_header_right
 vnreview.vn##._1Z6uV_rO-y4mW25LVK7hkO.ads_vnr
 vnreview.vn##div.UXSuVInSHghZA9g53btNr:nth-of-type(4)
@@ -2957,6 +2956,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||pnuhondppw.com
 ||po.st/static/*$third-party
 ||podosupsurge.com
+||poledon.com
 ||polyad.net
 ||pookawnratbite.com
 ||popads.net
