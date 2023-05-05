@@ -1,10 +1,10 @@
 ! Title: FAFD
-! Version: 02.04.072
+! Version: 02.05.073
 ! Homepage: github.com/hungphambkc/FAFD
 ! Source: chongluadao.vn/thong-ke, Kaspersky
 ! Author: Hung Pham
 ! Copyright: Shylenien
-! Updated: 25 Apr 23
+! Updated: 04 May 23
 ! ========================== General Element Hiding ===========================
 ##._popIn_infinite_ad
 ##._popIn_infinite_video
@@ -60,6 +60,7 @@
 ##.float-ck-righttop
 ##.float-qc-left
 ##.google-afc-image
+##.hd-desktop
 ##.header-ads-full
 ##.hs-header-ad
 ##.insentence-adsense
@@ -2207,6 +2208,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||javphim.site
 ||javphim.to
 ||javphim.vip
+||javphimx.net
 ||javplay.stream
 ||javplayer.me
 ||javpornpics.com
@@ -2767,6 +2769,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||oranegfodnd.com
 ||orquideassp.com
 ||orvilleandrea.pro/am-push-cps.js
+||otjoxpacgak.com
 ||otlmdnazmac.com
 ||otnolatrnup.com
 ||ouo.io/images/download-ad.
@@ -3777,6 +3780,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||vlxx.in
 ||vlxx.info
 ||vlxx.sex
+||vlxx.space
 ||vlxx.wtf
 ||vlxx24h.com
 ||vlxxhay.club
