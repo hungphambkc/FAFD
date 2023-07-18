@@ -764,8 +764,10 @@ zippyshare.com###qrCode ~ a[href$="1131386.html"]
 @@||alicdn.com/retcode/log/*
 @@||an.yandex.ru/crossdomain.xml
 @@||an.yandex.ru/vcset/139995?*&client_type=flash
-@@||anime47.com/ads/player/v/8.8.2/jwplayer.core.controls.html5.js
-@@||anime47.com/ads/player/v/8.8.2/jwplayer.js
+@@||anime47.com/ads/player/v/*/jwplayer.core.controls.html5.js
+@@||anime47.com/ads/player/v/*/jwplayer.js
+@@||anime47.com/ads/v/*/jwplayer.js
+@@||anime47.com/ads/v/*/jwplayer.core.controls.html5.js
 @@||api.adtimaserver.vn/crossdomain.xml
 @@||awaps.yandex.$domain=kinopoisk.ru|market.yandex.by|market.yandex.kz|market.yandex.ru|market.yandex.ua|market.yandex.uz
 @@||bdpcdn.net/ads/live-score/*
@@ -2687,6 +2689,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||nefdcnmvbt.com
 ||nemo.vin
 ||nessainy.net
+||nessainy.net^$popup,domain=player-cdn.com
 ||nestledmph.com
 ||netshelter.net
 ||neutralgroundservices.com
