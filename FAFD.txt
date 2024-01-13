@@ -1,10 +1,10 @@
 ! Title: FAFD
-! Version: 02.05.073
+! Version: 2024.01.13.074
 ! Homepage: github.com/hungphambkc/FAFD
 ! Source: chongluadao.vn/thong-ke, Kaspersky
 ! Author: Hung Pham
 ! Copyright: Shylenien
-! Updated: 04 May 23
+! Updated: 13 Jan 24
 ! ========================== General Element Hiding ===========================
 ##._popIn_infinite_ad
 ##._popIn_infinite_video
