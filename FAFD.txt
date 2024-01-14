@@ -785,6 +785,7 @@ zen.yandex.by,zen.yandex.kz,zen.yandex.ru,zen.yandex.ua,zen.yandex.uz###yabro-st
 ||adtima.vn^$third-party
 ||adtimaserver.vn^$script,image,subdocument,object-subrequest,xmlhttprequest,popup
 ||adtop.vn
+||adtrackers.net
 ||adtrue.com^$third-party
 ||adultadworld.com
 ||adv.meodep.com^$third-party
@@ -829,12 +830,14 @@ zen.yandex.by,zen.yandex.kz,zen.yandex.ru,zen.yandex.ua,zen.yandex.uz###yabro-st
 ||amazonclix.com
 ||amcdn.vn
 ||amebanbiglot.uno
+||amjqignurz.com
 ||amplitude.com
 ||amung.us
 ||an.facebook.com
 ||an.yandex.ru/count/$csp=script-src
 ||an.yandex.ru/count/$popup
 ||analytics.facebook.com
+||analytics.mobile.yandex.net
 ||analytics.webpushr.com
 ||analyticsengine.s3.amazonaws.com
 ||anime47.com^*.gif
@@ -853,6 +856,7 @@ zen.yandex.by,zen.yandex.kz,zen.yandex.ru,zen.yandex.ua,zen.yandex.uz###yabro-st
 ||aphim.org/asset_blade/js/jquery.popup.js
 ||aphim.tv/api/js/vast.js
 ||aphycolourses.info
+||appmetrica.yandex.com
 ||api-hotjar.com
 ||api.nas.nct.vn/crossdomain.xml
 ||api.news.zing.vn/api/mobile/ban-tin-highlight.json?*
@@ -1112,7 +1116,9 @@ zen.yandex.by,zen.yandex.kz,zen.yandex.ru,zen.yandex.ua,zen.yandex.uz###yabro-st
 ||chopose.icu
 ||chovinh.com/data/*.gif|
 ||chuthapdohatinh.org.vn/upload/tailieu/*.htm
+||cifopjcavn.com
 ||civicscience.com
+||cjxomyilmv.com
 ||cl69721.com
 ||clarity.ms
 ||clearancejoinjavelin.com
@@ -1186,9 +1192,11 @@ zen.yandex.by,zen.yandex.kz,zen.yandex.ru,zen.yandex.ua,zen.yandex.uz###yabro-st
 ||creative.xlviirdr.com
 ||creepingbrings.com
 ||criteo.$third-party
+||crowdskate.site
 ||crpt.livejasmin.com
 ||crwdcntrl.net
 ||cryptossp.com
+||cs.luckyorange.net
 ||csw802.xyz
 ||csw803.xyz
 ||csw806.xyz
@@ -1206,6 +1214,7 @@ zen.yandex.by,zen.yandex.kz,zen.yandex.ru,zen.yandex.ua,zen.yandex.uz###yabro-st
 ||cxense.com
 ||cyberspc.com
 ||cydia.vn^$third-party
+||d.reddit.com
 ||d5coalition.com^$third-party
 ||da-ads.com
 ||dabet.me
@@ -1327,6 +1336,7 @@ zen.yandex.by,zen.yandex.kz,zen.yandex.ru,zen.yandex.ua,zen.yandex.uz###yabro-st
 ||ee77.com
 ||ee88.com
 ||eeeyyy.top
+||eehuzaih.com
 ||eergithi.com
 ||ef2aecba6f.com
 ||effectivecpmgate.com
@@ -1365,6 +1375,7 @@ zen.yandex.by,zen.yandex.kz,zen.yandex.ru,zen.yandex.ua,zen.yandex.uz###yabro-st
 ||expressmoney.cc
 ||extreme-dm.com^$third-party
 ||eyebrowscrambledlater.com
+||ezcgojaamg.com
 ||ezodn.com
 ||ezoic.com
 ||ezoic.net
@@ -1441,6 +1452,7 @@ zen.yandex.by,zen.yandex.kz,zen.yandex.ru,zen.yandex.ua,zen.yandex.uz###yabro-st
 ||frail-lock.pro
 ||freddyoctavio.pro/am-push-cps.js
 ||freeprosoftz.com
+||freshmarketer.com
 ||freshpops.net
 ||freychang.fun
 ||fri4esianewheywr90itrage.com
@@ -1553,7 +1565,9 @@ zen.yandex.by,zen.yandex.kz,zen.yandex.ru,zen.yandex.ua,zen.yandex.uz###yabro-st
 ||gogo88.me
 ||goharpc.com
 ||gokumarket.com
+||goldpeg.com
 ||goosimes.com
+||gousouse.com
 ||gozelenergyservices.com
 ||gplinks.in
 ||gq.eu.y.atwola.com
@@ -1567,6 +1581,7 @@ zen.yandex.by,zen.yandex.kz,zen.yandex.ru,zen.yandex.ua,zen.yandex.uz###yabro-st
 ||grootcho.com
 ||gsspcln.jp
 ||gstatic.com/pub-config/ca-pub*
+||gulsachpyrexia.uno
 ||gxkh.lol
 ||gzlmz.me
 ||hackmeta.pro
@@ -1645,6 +1660,7 @@ zen.yandex.by,zen.yandex.kz,zen.yandex.ru,zen.yandex.ua,zen.yandex.uz###yabro-st
 ||hi-wife.com
 ||hieutbkhn.com
 ||highmaidfhr.com
+||highrevenuegate.com
 ||hihe.vn^$third-party
 ||hihisex.biz
 ||hihisex.tv
@@ -1662,6 +1678,7 @@ zen.yandex.by,zen.yandex.kz,zen.yandex.ru,zen.yandex.ua,zen.yandex.uz###yabro-st
 ||horsered.com
 ||hosenewspapersdepths.com
 ||hosothuong22.com
+||hotjar.com
 ||hotlive.pro
 ||hotmovs.com
 ||hotporntube.co
@@ -1674,6 +1691,7 @@ zen.yandex.by,zen.yandex.kz,zen.yandex.ru,zen.yandex.ua,zen.yandex.uz###yabro-st
 ||huhyrcco.com
 ||hust.media
 ||huto.club
+||hvrwixdcfv.com
 ||hypomnimata.com
 ||i.imgur.com/*.gif$domain=90p.live|phut90.online|phut91.online|binhluanvidamme.online|bongdatv.net|bongngozz.com|macintosh.vn|phimgi.tv|phimmedia.tv|phimnhe.net|topbongda.com
 ||i.k8info.com/images/promo/$third-party
@@ -2000,6 +2018,7 @@ zen.yandex.by,zen.yandex.kz,zen.yandex.ru,zen.yandex.ua,zen.yandex.uz###yabro-st
 ||ketoanthucte.vn/games/*
 ||kfcabb.com
 ||kgdvs9ov3l2aasw4nuts.com
+||kgfjrb711.com
 ||khophanmem24h.com
 ||khosex.me
 ||kichdam.vip
@@ -2183,6 +2202,7 @@ zen.yandex.by,zen.yandex.kz,zen.yandex.ru,zen.yandex.ua,zen.yandex.uz###yabro-st
 ||lp.longtailvideo.com/5/ova/ova-jw.swf
 ||lps.sbro.me^$script,third-party
 ||lucky88.tv
+||luckyorange.com
 ||luckytravelshop.info
 ||luminate.com
 ||luulibaluli.com
@@ -2200,6 +2220,7 @@ zen.yandex.by,zen.yandex.kz,zen.yandex.ru,zen.yandex.ua,zen.yandex.uz###yabro-st
 ||madriyelowd.com
 ||mafrarc3e9h.com
 ||mage98rquewz.com
+||makafdsugxco.com
 ||man.vn
 ||manclub.game
 ||manclub.vn
@@ -2249,6 +2270,9 @@ zen.yandex.by,zen.yandex.kz,zen.yandex.ru,zen.yandex.ua,zen.yandex.uz###yabro-st
 ||mellowads.com
 ||meo257na3rch.com
 ||metric.gstatic.com
+||metrics.apple.com
+||metrics.icloud.com
+||metrics.mzstatic.com
 ||metsaubs.net
 ||mftracking.com
 ||mgid.com
@@ -2285,6 +2309,7 @@ zen.yandex.by,zen.yandex.kz,zen.yandex.ru,zen.yandex.ua,zen.yandex.uz###yabro-st
 ||moon29.live
 ||moonata.net
 ||mossens.com
+||mouseflow.com
 ||mp.4dex.io
 ||mplayvideos.biz
 ||mppegwckbtp.com
@@ -2401,6 +2426,7 @@ zen.yandex.by,zen.yandex.kz,zen.yandex.ru,zen.yandex.ua,zen.yandex.uz###yabro-st
 ||optimizely.com
 ||optout.crsspxl.com
 ||optyruntchan.com
+||osfkfaacqx.com
 ||oranegfodnd.com
 ||orquideassp.com
 ||orvilleandrea.pro/am-push-cps.js
@@ -2576,6 +2602,7 @@ zen.yandex.by,zen.yandex.kz,zen.yandex.ru,zen.yandex.ua,zen.yandex.uz###yabro-st
 ||pinnacle.com
 ||pinterest.com^$third-party
 ||pioneeringad.com^$third-party
+||pixel.facebook.com
 ||pixfuture.net
 ||pixwares.com
 ||pl15178227.pvclouds.com
@@ -2692,6 +2719,7 @@ zen.yandex.by,zen.yandex.kz,zen.yandex.ru,zen.yandex.ua,zen.yandex.uz###yabro-st
 ||rendykunto.com
 ||reoi265r.com
 ||reporting.go-mpulse.net
+||rereddit.com
 ||resalag.com
 ||responsibleassociation.com
 ||retardpreparationsalways.com
@@ -2746,6 +2774,8 @@ zen.yandex.by,zen.yandex.kz,zen.yandex.ru,zen.yandex.ua,zen.yandex.uz###yabro-st
 ||safehousefsi.com
 ||safestgatetocontent.com
 ||saksfiifth.com
+||samsungadhub.com
+||samsungads.com
 ||sb4you1.com
 ||sbbanner.com
 ||sbetviet.com
@@ -2760,6 +2790,7 @@ zen.yandex.by,zen.yandex.kz,zen.yandex.ru,zen.yandex.ua,zen.yandex.uz###yabro-st
 ||search.4shared.com^$popup
 ||secondsplash.com
 ||secure-cdn.atwola.com
+||securemetrics.apple.com
 ||seeptoag.net
 ||selectsilkscreenings.com
 ||sen992.com
@@ -2771,6 +2802,7 @@ zen.yandex.by,zen.yandex.kz,zen.yandex.ru,zen.yandex.ua,zen.yandex.uz###yabro-st
 ||serving-sys.com
 ||serving.bluexy.net/vod/*.mp4
 ||sethay.com
+||settings.luckyorange.net
 ||sex-com.pro
 ||sex-hd.pro
 ||sex-lon.com
@@ -2873,6 +2905,7 @@ zen.yandex.by,zen.yandex.kz,zen.yandex.ru,zen.yandex.ua,zen.yandex.uz###yabro-st
 ||sexzz.cc
 ||sexzz.me
 ||sf-syn.com
+||sfiannzilgi.com
 ||sflywfcanq.com
 ||sg.as.y.atwola.com
 ||sharelive.net
@@ -3008,6 +3041,7 @@ zen.yandex.by,zen.yandex.kz,zen.yandex.ru,zen.yandex.ua,zen.yandex.uz###yabro-st
 ||sunvin.vin
 ||supjav.com
 ||superheroparticularitaly.com
+||supportmetrics.apple.com
 ||supremejav.com
 ||suvip.fun
 ||suzihaza.com
@@ -3222,10 +3256,12 @@ zen.yandex.by,zen.yandex.kz,zen.yandex.ru,zen.yandex.ua,zen.yandex.uz###yabro-st
 ||upanh.ssc.vn^$domain=cvt.vn
 ||upfile.vn/view/default/image/index-*.gif|
 ||upgulpinon.com
+||upload.luckyorange.net
 ||upload69.net/images/*.gif|
 ||uprimp.com
 ||ups.xplosion.de
 ||upskittyan.com
+||urimnugocfr.com
 ||ursegreatm.fun
 ||us.y.atwola.com
 ||us.y.ycpi.atwola.com
@@ -3484,6 +3520,7 @@ zen.yandex.by,zen.yandex.kz,zen.yandex.ru,zen.yandex.ua,zen.yandex.uz###yabro-st
 ||wapbold.com
 ||warevn.net
 ||watching.vn/assets/images/banner/*.jpg
+||wbilvnmool.com
 ||wdrheruxnuvok.com
 ||webdien.com/d/ad/*
 ||webnena.com
@@ -3499,6 +3536,7 @@ zen.yandex.by,zen.yandex.kz,zen.yandex.ru,zen.yandex.ua,zen.yandex.uz###yabro-st
 ||westernunionvd.com
 ||westernunionvl.xyz
 ||wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
+||whartfidalgo.life
 ||whatosgoingon.biz
 ||whazugho.com
 ||widgets.outbrain.com/OutbrainRater.js
@@ -3681,6 +3719,7 @@ zen.yandex.by,zen.yandex.kz,zen.yandex.ru,zen.yandex.ua,zen.yandex.uz###yabro-st
 ||yandex.ru/mapuid/$csp=script-src
 ||yandex.ru/poll/video/$subdocument,domain=yastatic.net
 ||yandex.ru^*blamper$csp=script-src 'self'
+||yandexadexchange.net
 ||yandexo.ru/rek/
 ||yashilong.info^$third-party
 ||yastatic.net/*/rsya-tag-users/
