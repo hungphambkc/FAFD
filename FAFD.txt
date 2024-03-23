@@ -1504,6 +1504,7 @@ zen.yandex.by,zen.yandex.kz,zen.yandex.ru,zen.yandex.ua,zen.yandex.uz###yabro-st
 ||gloaphoo.net
 ||gm.mmstat.com
 ||gmodules.com/gadgets/proxy?*$domain=101vn.com|kenh1.info|keonhacai.net|tivi4k.net
+||gmxvmvptfm.com
 ||go-88.app
 ||go.blogtruyen.vn^$popup
 ||go.xlviirdr.com
