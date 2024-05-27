@@ -4,6 +4,47 @@
 ! Author: Hung Pham
 ! Updated: 27 May 24
 ! ========================== Youtube ===========================
+||ads.youtube.com
+||fcmatch.youtube.com/pixel
+||fcmatch.youtube.com^
+||googlesyndication.com^$domain=youtube.com
+||m.youtube.com/get_midroll_$domain=youtube.com
+||www.youtube.com/get_midroll_$domain=youtube.com
+||youtube-nocookie.com/api/stats/atr?
+||youtube-nocookie.com/api/stats/delayplay?
+||youtube-nocookie.com/api/stats/qoe?
+||youtube-nocookie.com/gen_204?
+||youtube-nocookie.com/ptracking?
+||youtube-nocookie.com/robots.txt?
+||youtube-nocookie.com/youtubei/v1/log_event?
+||youtube.com/_get_ads?
+||youtube.com/api/stats/ads
+||youtube.com/api/stats/ads?
+||youtube.com/api/stats/atr?
+||youtube.com/api/stats/delayplay?
+||youtube.com/api/stats/qoe?
+||youtube.com/csi_204?
+||youtube.com/embed$domain=bryanadams.com,important
+||youtube.com/embed/?enablejsapi=1&origin=*3dnews.ru&widgetid=1
+||youtube.com/gen_204
+||youtube.com/get_video?
+||youtube.com/get_video_info?*adunit$~third-party
+||youtube.com/pcs/activeview?
+||youtube.com/pcs/activeview?xai=
+||youtube.com/player_204?
+||youtube.com/ptracking?
+||youtube.com/set_awesome?
+||youtube.com/subscribe_embed?$third-party
+||youtube.com/subscribe_widget$third-party
+||youtube.com/v/*autoplay$third-party,domain=7chan.org|boards.4chan.org
+||youtube.com/youtubei/v1/log_event?
+||youtube.googleapis.com/youtubei/v1/log_event?
+||youtubekids.com/api/stats/ads?
+||youtubekids.com/api/stats/qoe?
+||youtubekids.com/ptracking?
+||youtubekids.com/youtubei/v1/log_event?
+~studio.youtube.com,youtube-nocookie.com,youtube.com##.ytp-pause-overlay
+||youtubei.youtube.com^
 ||youtube.com/ad_data_
 ||youtube.com/ads/$image
 ||youtube.com/annotations_invideo?*
@@ -16,6 +57,12 @@
 ||youtube.com/get_video_info?$~third-party,badfilter
 ||youtube.com/pagead/
 ||youtube.com/yts/jsbin/www-pagead-id-
+||youtube.com/playlist?list=$xhr,1p,replace=/"adPlacements.*?([A-Z]"\}|"\}{2\,4})\}\]\,//
+||youtube.com/playlist?list=$xhr,1p,replace=/"adSlots.*?\}\]\}\}\]\,//
+||youtube.com/watch?v=$xhr,1p,replace=/"adPlacements.*?([A-Z]"\}|"\}{2\,4})\}\]\,//
+||youtube.com/watch?v=$xhr,1p,replace=/"adSlots.*?\}\]\}\}\]\,//
+||youtube.com/youtubei/v1/player?$xhr,1p,replace=/"adPlacements.*?([A-Z]"\}|"\}{2\,4})\}\]\,//
+||youtube.com/youtubei/v1/player?$xhr,1p,replace=/"adSlots.*?\}\]\}\}\]\,//
 ||m.youtube.com/*/ad.js$script
 ||googlevideo.com/videoplayback?*&ctier=L&$xmlhttprequest,domain=www.youtube.com|m.youtube.com|music.youtube.com
 youtube.com,youtube-nocookie.com##+js(json-prune, [].playerResponse.adPlacements [].playerResponse.playerAds playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
@@ -113,8 +160,56 @@ youtube.com##+js(set-constant, ytInitialPlayerResponse.playerAds, undefined)
 youtube.com##+js(set-constant, ytInitialPlayerResponse.streamingData.serverAbrStreamingUrl, undefined)
 youtube.com##+js(set-constant, ytInitialPlayerResponse.playerConfig.ssapConfig, undefined)
 youtube.com##+js(trusted-replace-fetch-response, '/\"adSlots.*?\}\]\}\}\],/', , player?)
+youtube.com##+js(trusted-replace-fetch-response, /\"adSlots.*?\}\]\}\}\]\,/, , player?)
 youtube.com##+js(trusted-replace-fetch-response, '/"adPlacements.*?([A-Z]"\}|"\}{2,4})\}\],/', , player?)
+youtube.com##+js(trusted-replace-fetch-response, /"adPlacements.*?([A-Z]"\}|"\}{2\,4})\}\]\,/, , player?)
 youtube.com##+js(trusted-replace-xhr-response, /"adPlacements.*?("adSlots"|"adBreakHeartbeatParams")/gms, $1, youtubei/v1/player)
 youtube.com##+js(trusted-replace-xhr-response, '/"adPlacements.*?([A-Z]"\}|"\}{2,4})\}\],/', , /playlist\?list=|player\?|watch\?v=|youtubei\/v1\/player/)
+youtube.com##+js(trusted-replace-xhr-response, /"adPlacements.*?([A-Z]"\}|"\}{2\,4})\}\]\,/, , /playlist\?list=|player\?|watch\?v=|youtubei\/v1\/player/)
 youtube.com##+js(trusted-replace-node-text, script, /^(\(function serverContract\(\))/s, '/*start*/(function(){const wrapper=(target,thisArg,args)=>{let result=Reflect.apply(target,thisArg,args);try{const decoded=atob(result);if(decoded.includes("ssapPrerollEnabled")){const modifiedContent=decoded.replace(/\n.\n.playerConfig\.ssapConfig\.ssapPrerollEnabled.{2}(?:tru|fals)e/,"");const encodeToBase64=btoa(modifiedContent);return encodeToBase64;}}catch(e){}return result;};const handler={apply:wrapper};window.Array.prototype.join=new Proxy(window.Array.prototype.join,handler);document.currentScript.textContent=document.currentScript.textContent.replace(/\/\*start\*\/(.*)\/\*end\*\//g,"");})();/*end*/$1')
-
+tv.youtube.com##+js(trusted-replace-xhr-response, '"adPlacements"', '"no_ads"', /playlist\?list=|player\?|watch\?v=|youtubei\/v1\/player/)
+*_ad_$media,domain=youtube.com,3p
+m.youtube.com,music.youtube.com,tv.youtube.com,www.youtube.com,youtubekids.com,youtube-nocookie.com##+js(json-prune-fetch-response, reelWatchSequenceResponse.entries.[-].command.reelWatchEndpoint.adClientParams.isAd entries.[-].command.reelWatchEndpoint.adClientParams.isAd, , propsToMatch, url:/reel_watch_sequence?)
+m.youtube.com,music.youtube.com,tv.youtube.com,www.youtube.com,youtubekids.com,youtube-nocookie.com##+js(json-prune-fetch-response, overlay, overlay.shortsAdsRenderer, propsToMatch, url:/reel_item_watch?)
+[$path=/m]consent.youtube.com#%#//scriptlet('trusted-click-element', 'form[action="https://consent.youtube.com/save"][jsaction] button[jsname="b3VHJd"]')
+ads.google.com,youtube.com#@#.video-ads
+m.youtube.com##a[onclick*='"ping_url":"http://www.google.com/aclk?']
+m.youtube.com##lazy-list > ad-slot-renderer
+m.youtube.com##ytm-button-renderer.icon-share_arrow
+m.youtube.com##ytm-companion-slot[data-content-type] > ytm-companion-ad-renderer
+m.youtube.com##ytm-rich-item-renderer > ad-slot-renderer
+m.youtube.com##ytm-watch-metadata-app-promo-renderer
+m.youtube.com#%#//scriptlet('set-cookie-reload', 'visitor', '1')
+m.youtube.com#%#//scriptlet('trusted-click-element', 'ytm-consent-bump-v2-renderer .dialog-scrollable-content > .one-col-dialog-buttons > ytm-button-renderer.eom-reject > button.yt-spec-button-shape-next', '', '2000')
+m.youtube.com#@#a[onclick*="\"ping_url\":\"http://www.google.com/aclk?"]
+youtube-nocookie.com,youtube.com##.ytp-ce-playlist
+youtube.com###secondary-links
+youtube.com###shorts-inner-container > .ytd-shorts:has(> .ytd-reel-video-renderer > ytd-ad-slot-renderer)
+youtube.com###yt-feedback
+youtube.com###yt-hitchhiker-feedback
+youtube.com###yt-lang-alert-container
+youtube.com##.yt-mealbar-promo-renderer
+youtube.com##.yt-third-party-share-target-section-renderer > yt-share-target-renderer:not(:first-of-type)
+youtube.com##.ytd-merch-shelf-renderer
+youtube.com##.ytd-primetime-promo-renderer
+youtube.com##.ytd-statement-banner-renderer
+youtube.com##.YtdShortsSuggestedActionStaticHostContainer
+youtube.com##.YtmPaidContentOverlayHost
+youtube.com##.ytp-suggested-action > button.ytp-suggested-action-badge
+youtube.com##a[href^="http://www.blogger.com/blog-this.g?"]
+youtube.com##a[href^="https://twitter.com/intent/tweet?"]
+youtube.com##body yt-third-party-share-target-section-renderer > .yt-third-party-share-target-section-renderer ~ yt-icon-button#scroll-button-forward
+youtube.com##button[title="Facebook"]
+youtube.com##button[title="WhatsApp"]
+youtube.com##div[class^="ytd-consent"]
+youtube.com##tp-yt-iron-dropdown[class="style-scope ytd-popup-container"][horizontal-align="right"]
+youtube.com##yt-mealbar-promo-renderer
+youtube.com##ytd-brand-video-singleton-renderer
+youtube.com##ytd-popup-container ytd-mealbar-promo-renderer
+youtube.com##ytd-rich-item-renderer:has(> #content > ytd-ad-slot-renderer)
+youtube.com##ytd-statement-banner-renderer
+youtube.com#%#//scriptlet('trusted-click-element', 'ytd-consent-bump-v2-lightbox .eom-buttons > .ytd-consent-bump-v2-lightbox > .ytd-consent-bump-v2-lightbox button.yt-spec-button-shape-next')
+youtube.com#?#.ytd-metadata-row-container-renderer:has(> div.style-scope > ytd-rich-metadata-renderer > a[href="https://www.youtubekids.com/"])
+youtube.com#@#.share-bar
+youtube.com#@#.show-share
+youtube.com#@#body > ytd-app > #content.ytd-app.style-scope > tp-yt-app-drawer#guide.ytd-app.style-scope[align="start"][role="navigation"][style^="transition-duration:"][position] + ytd-mini-guide-renderer.ytd-app.style
