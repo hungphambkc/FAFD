@@ -4,6 +4,10 @@
 ! Author: Hung Pham
 ! Updated: 27 May 24
 ! ========================== Youtube ===========================
+/pagead/*
+/generate_204
+youtube.com##.ytp-ad-image, .ytp-ad-action-interstitial-image
+||googlevideo.com/videoplayback?*&ctier=l&$xhr,from=m.youtube.com|music.youtube.com|www.youtube.com
 ||ads.youtube.com
 ||fcmatch.youtube.com/pixel
 ||fcmatch.youtube.com^
@@ -170,7 +174,6 @@ youtube.com##+js(trusted-replace-fetch-response, /"adPlacements.*?([A-Z]"\}|"\}{
 youtube.com##+js(trusted-replace-xhr-response, /"adPlacements.*?("adSlots"|"adBreakHeartbeatParams")/gms, $1, youtubei/v1/player)
 youtube.com##+js(trusted-replace-xhr-response, '/"adPlacements.*?([A-Z]"\}|"\}{2,4})\}\],/', , /playlist\?list=|player\?|watch\?v=|youtubei\/v1\/player/)
 youtube.com##+js(trusted-replace-xhr-response, /"adPlacements.*?([A-Z]"\}|"\}{2\,4})\}\]\,/, , /playlist\?list=|player\?|watch\?v=|youtubei\/v1\/player/)
-youtube.com##+js(trusted-replace-node-text, script, /^(\(function serverContract\(\))/s, '/*start*/(function(){const wrapper=(target,thisArg,args)=>{let result=Reflect.apply(target,thisArg,args);try{const decoded=atob(result);if(decoded.includes("ssapPrerollEnabled")){const modifiedContent=decoded.replace(/\n.\n.playerConfig\.ssapConfig\.ssapPrerollEnabled.{2}(?:tru|fals)e/,"");const encodeToBase64=btoa(modifiedContent);return encodeToBase64;}}catch(e){}return result;};const handler={apply:wrapper};window.Array.prototype.join=new Proxy(window.Array.prototype.join,handler);document.currentScript.textContent=document.currentScript.textContent.replace(/\/\*start\*\/(.*)\/\*end\*\//g,"");})();/*end*/$1')
 tv.youtube.com##+js(trusted-replace-xhr-response, '"adPlacements"', '"no_ads"', /playlist\?list=|player\?|watch\?v=|youtubei\/v1\/player/)
 *_ad_$media,domain=youtube.com,3p
 m.youtube.com,music.youtube.com,tv.youtube.com,www.youtube.com,youtubekids.com,youtube-nocookie.com##+js(json-prune-fetch-response, reelWatchSequenceResponse.entries.[-].command.reelWatchEndpoint.adClientParams.isAd entries.[-].command.reelWatchEndpoint.adClientParams.isAd, , propsToMatch, url:/reel_watch_sequence?)
@@ -217,3 +220,9 @@ youtube.com#?#.ytd-metadata-row-container-renderer:has(> div.style-scope > ytd-r
 youtube.com#@#.share-bar
 youtube.com#@#.show-share
 youtube.com#@#body > ytd-app > #content.ytd-app.style-scope > tp-yt-app-drawer#guide.ytd-app.style-scope[align="start"][role="navigation"][style^="transition-duration:"][position] + ytd-mini-guide-renderer.ytd-app.style
+youtube.com##+js(trusted-replace-node-text, script, /^(\(function serverContract\(\))/s, '/*start*/(function(){const wrapper=(target,thisArg,args)=>{let result=Reflect.apply(target,thisArg,args);try{const decoded=atob(result);if(decoded.includes("ssapPrerollEnabled")){const modifiedContent=decoded.replace(/\n.\n.playerConfig\.ssapConfig\.ssapPrerollEnabled.{2}(?:tru|fals)e/,"");const encodeToBase64=btoa(modifiedContent);return encodeToBase64;}}catch(e){}return result;};const handler={apply:wrapper};window.Array.prototype.join=new Proxy(window.Array.prototype.join,handler);document.currentScript.textContent=document.currentScript.textContent.replace(/\/\*start\*\/(.*)\/\*end\*\//g,"");})();/*end*/$1')
+youtube.com##+js(json-prune, playerResponse.adPlacements playerResponse.playerAds playerResponse.adSlots adPlacements playerAds adSlots legacyImportant)
+m.youtube.com,music.youtube.com,www.youtube.com##+js(set, ytInitialPlayerResponse.playerConfig.ssapConfig, undefined)
+m.youtube.com,music.youtube.com,www.youtube.com##+js(set, ytInitialPlayerResponse.streamingData.serverAbrStreamingUrl, undefined)
+m.youtube.com,music.youtube.com,www.youtube.com##+js(json-prune, playerResponse.playerConfig.ssapConfig playerResponse.streamingData.serverAbrStreamingUrl playerConfig.ssapConfig streamingData.serverAbrStreamingUrl)
+m.youtube.com,music.youtube.com,www.youtube.com##+js(trusted-rpnt, script, /^(\(function serverContract\(\))/s, /*start*/(function(){const wrapper=(target\,thisArg\,args)=>{let result=Reflect.apply(target\,thisArg\,args);try{const decoded=atob(result);if(decoded.includes("ssapPrerollEnabled")){const modifiedContent=decoded.replace(/\n.\n.playerConfig\.ssapConfig\.ssapPrerollEnabled.{2}(?:tru|fals)e/\,"");const encodeToBase64=btoa(modifiedContent);return encodeToBase64;}}catch(e){}return result;};const handler={apply:wrapper};window.Array.prototype.join=new Proxy(window.Array.prototype.join\,handler);document.currentScript.textContent=document.currentScript.textContent.replace(/\/\*start\*\/(.*)\/\*end\*\//g\,"");})();/*end*/$1)
