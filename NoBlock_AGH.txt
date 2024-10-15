@@ -1,5 +1,6 @@
 @@||123c.vn^
 @@||oracle.com^
+@@||oraclecloud.com^
 @@||s.net.vn^
 @@||tawk.to^
 @@||sbz.vn^
