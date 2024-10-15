@@ -12,6 +12,7 @@
 @@||zedcdn.me^
 @@||zascdn.me^
 @@||zdn.vn^
+@@||zalo.me^
 @@||zaloapp.com^
 @@||zadn.vn^
 @@||bmcdn.me^
