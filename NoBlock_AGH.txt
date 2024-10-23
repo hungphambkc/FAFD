@@ -10,6 +10,7 @@
 @@||bmcdn.me
 @@||caresoft.vn
 @@||crashlytics.com
+@@||duckdns.org
 @@||google-analytics.com
 @@||googletagmanager.com
 @@||googletagservices.com
