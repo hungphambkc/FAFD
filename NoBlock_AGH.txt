@@ -11,6 +11,7 @@
 @@||caresoft.vn
 @@||crashlytics.com
 @@||duckdns.org
+@@||google.com
 @@||google-analytics.com
 @@||googletagmanager.com
 @@||googletagservices.com
