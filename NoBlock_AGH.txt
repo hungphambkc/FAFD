@@ -7,6 +7,7 @@
 @@||123c.vn
 @@||accesstrade.vn
 @@||app.sbz.workers.dev
+@@||appsflyersdk.com
 @@||bmcdn.me
 @@||caresoft.vn
 @@||crashlytics.com

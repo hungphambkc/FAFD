@@ -1,5 +1,5 @@
 ! Title: Block Aguard Home
-! Version: 2024.10.01.01
+! Version: 2024.12.01.01
 ! Homepage: github.com/hungphambkc/FAFD
 ! Source: chongluadao.vn/thong-ke, Kaspersky
 ! Author: Hung Pham
@@ -235,6 +235,7 @@
 ||instrumenttactics.com
 ||itweepinbelltor.com
 ||iwin88.download
+||jeroud.com
 ||jinripkk.com
 ||jouteetu.net
 ||k9okvn.com
@@ -249,6 +250,7 @@
 ||lochfochpochgate.com
 ||lode88.com
 ||lulu88.co
+||lutoorgourgi.com
 ||man68.top
 ||mcw55vn.com
 ||messengeridentifiers.com
@@ -271,6 +273,7 @@
 ||rik.vip
 ||rikvip8.win
 ||rikvipp.site
+||ritsubrince.shop
 ||rw88.com
 ||rw88111.com
 ||rw88113.com
