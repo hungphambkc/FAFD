@@ -3,7 +3,7 @@ name: Auto Pull Request
 on:
   push:
     branches:
-      - update # Nhánh phụ của bạn
+      - ["update"] # Nhánh phụ của bạn
 
 jobs:
   create-pull-request:
