@@ -2,7 +2,9 @@ name: Auto Pull Request
 
 on:
   push:
-    branches: ["update"] # Nhánh phụ của bạn
+    branches: 
+      - update # Nhánh phụ của bạn
+  workflow_dispatch:
 
 jobs:
   create-pull-request:
