@@ -1,0 +1,33 @@
+name: Auto Pull Request
+
+on:
+  push:
+    branches:
+      - update # Tên nhánh phụ của bạn
+
+jobs:
+  create-pull-request:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16' # Hoặc phiên bản Node.js bạn cần
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: update # Nhánh phụ của bạn
+          base: main # Nhánh mục tiêu
+          title: 'Auto Pull Request from update to main'
+          body: |
+            This pull request was automatically created by a GitHub Action.
+            Review the changes and merge them as needed.
+          labels: |
+            auto-generated
+          reviewers: |
+            hungphambkc # Thay bằng danh sách reviewer GitHub của bạn
