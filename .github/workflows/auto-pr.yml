@@ -3,7 +3,7 @@ name: Auto Pull Request
 on:
   push:
     branches:
-      - update # Tên nhánh phụ của bạn
+      - update # Nhánh phụ của bạn
 
 jobs:
   create-pull-request:
@@ -20,8 +20,8 @@ jobs:
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v5
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          branch: update # Nhánh phụ của bạn
+          token: ${{ secrets.MY_GITHUB_TOKEN }} # Sử dụng token từ Secrets
+          branch: update # Nhánh phụ
           base: main # Nhánh mục tiêu
           title: 'Auto Pull Request from update to main'
           body: |
@@ -30,4 +30,4 @@ jobs:
           labels: |
             auto-generated
           reviewers: |
-            hungphambkc # Thay bằng danh sách reviewer GitHub của bạn
+            hungpham # Thay bằng reviewer của bạn
