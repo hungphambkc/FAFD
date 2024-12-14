@@ -30,4 +30,4 @@ jobs:
           labels: |
             auto-generated
           reviewers: |
-            hungpham # Thay bằng reviewer của bạn
+            hungphambkc # Thay bằng reviewer của bạn
