@@ -18,8 +18,11 @@
 @@||googletagservices.com
 @@||ln.run
 @@||lr-ingest.com
+@@||omtrdc.net
 @@||oracle.com
 @@||oraclecloud.com
+@@||oracleinfinity.io
+@@||pagead2.googlesyndication.com
 @@||s.net.vn
 @@||sbz.vn
 @@||scorecardresearch.com
