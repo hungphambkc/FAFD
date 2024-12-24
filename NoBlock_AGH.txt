@@ -6,6 +6,8 @@
 ! ========================== List ===========================
 @@||123c.vn
 @@||accesstrade.vn
+@@||adjust.com
+@@||adjust.io
 @@||app.sbz.workers.dev
 @@||appsflyersdk.com
 @@||bmcdn.me
