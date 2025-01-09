@@ -18,6 +18,7 @@
 @@||google-analytics.com
 @@||googletagmanager.com
 @@||googletagservices.com
+@@||hoanoola.net
 @@||ln.run
 @@||lr-ingest.com
 @@||omtrdc.net
