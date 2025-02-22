@@ -1,5 +1,5 @@
 ! Title: Block Aguard Home
-! Version: 2025.02.12.01
+! Version: 2025.02.12.02
 ! Homepage: github.com/hungphambkc/FAFD
 ! Source: chongluadao.vn/thong-ke, Kaspersky
 ! Author: Hung Pham
