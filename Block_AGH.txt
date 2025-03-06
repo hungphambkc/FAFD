@@ -1,5 +1,5 @@
 ! Title: Block Aguard Home
-! Version: 2025.02.12.02
+! Version: 2025.03.12.01
 ! Homepage: github.com/hungphambkc/FAFD
 ! Source: chongluadao.vn/thong-ke, Kaspersky
 ! Author: Hung Pham
@@ -61,6 +61,7 @@
 ||789b.asia
 ||789bet.io
 ||789d.club
+||8live.biz
 ||820mm.live
 ||864feb57ruary.com
 ||876g568.cc
@@ -102,6 +103,7 @@
 ||a2tw6yoodsag.com
 ||abu14.cc
 ||abu999.com
+||absurdbatchconfess.com
 ||achbnmk.com
 ||ad-score.com
 ||adready.vip
@@ -192,6 +194,7 @@
 ||choihit.biz
 ||chuangxinyuan1.com
 ||clobberprocurertightwad.com
+||correctdilutetrophy.com
 ||cuoc8live.club
 ||d3hduwzidj9ppc.cloudfront.net
 ||da88.com
@@ -206,6 +209,7 @@
 ||dismissedsmoothlydo.com
 ||diagramjawlineunhappy.com
 ||doctor24hs.com
+||du88.com
 ||duatop88.win
 ||dutydynamo.co
 ||ee67825.com
@@ -297,6 +301,7 @@
 ||rw88444.com
 ||s5560.com
 ||sellmail.shop
+||sheecmimty.net
 ||sieub52.vip
 ||sky88.com
 ||sonclub1.online
