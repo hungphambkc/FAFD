@@ -1,7 +1,7 @@
 ! Title: Block Aguard Home
-! Version: 2025.03.12.01
+! Version: 2025.05.12.01
 ! Homepage: github.com/hungphambkc/FAFD
-! Source: chongluadao.vn/thong-ke, Kaspersky
+! Source: chongluadao.vn/database, Kaspersky
 ! Author: Hung Pham
 ! ========================== List ===========================
 ||039casino1.com
@@ -165,6 +165,7 @@
 ||bet789.vin
 ||betmax.world
 ||bgtoae.top
+||bhhk.org
 ||bibenn.store
 ||bidswitch.net
 ||bidvertiser.com
@@ -217,6 +218,7 @@
 ||eventlucky88.lol
 ||examplesclasp.com
 ||fa88.tv
+||fa88q.net
 ||fabet.in
 ||fauglapaiphu.net
 ||felilike.online
@@ -302,6 +304,7 @@
 ||s5560.com
 ||sellmail.shop
 ||sheecmimty.net
+||sieub52.bet
 ||sieub52.vip
 ||sky88.com
 ||sonclub1.online
