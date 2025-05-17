@@ -1,0 +1,17 @@
+! Title: Block Regex Aguard Home
+! Version: 2025.05.12.01
+! Homepage: github.com/hungphambkc/FAFD
+! Source: chongluadao.vn/database, Kaspersky
+! Author: Hung Pham
+! ========================== List ===========================
+/(^|\.)jav[a-z0-9-]*\.[a-z]+$/
+/(^|\.)gai18[a-z0-9-]*\.[a-z]+$/
+/(^|\.)xvideos[a-z0-9-]*\.[a-z]+$/
+/(^|\.)xnxx[a-z0-9-]*\.[a-z]+$/
+/(^|\.)phe18[a-z0-9-]*\.[a-z]+$/
+/(^|\.)xxx[a-z0-9-]*\.[a-z]+$/
+/(^|\.)xxphe[a-z0-9-]*\.[a-z]+$/
+/(^|\.)adtima[a-z0-9-]*\.[a-z]+$/
+/(^|\.)quangcao[a-z0-9-]*\.[a-z]+$/
+/(^|\.)sex[a-z0-9-]*\.[a-z]+$/
+/(^|\.)porn[a-z0-9-]*\.[a-z]+$/
