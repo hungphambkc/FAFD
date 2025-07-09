@@ -4,29 +4,4 @@
 ! Source: chongluadao.vn/database, Kaspersky
 ! Author: Hung Pham
 ! ========================== List ===========================
-/(^|\.)jav[a-z0-9-]*\.[a-z]+$/
-/(^|\.)141jav[a-z0-9-]*\.[a-z]+$/
-/(^|\.)gai18[a-z0-9-]*\.[a-z]+$/
-/(^|\.)xvideos[a-z0-9-]*\.[a-z]+$/
-/(^|\.)xnxx[a-z0-9-]*\.[a-z]+$/
-/(^|\.)phe18[a-z0-9-]*\.[a-z]+$/
-/(^|\.)xxx[a-z0-9-]*\.[a-z]+$/
-/(^|\.)xxphe[a-z0-9-]*\.[a-z]+$/
-/(^|\.)adtima[a-z0-9-]*\.[a-z]+$/
-/(^|\.)quangcao[a-z0-9-]*\.[a-z]+$/
-/(^|\.)sex[a-z0-9-]*\.[a-z]+$/
-/(^|\.)porn[a-z0-9-]*\.[a-z]+$/
-/(^|\.)du88[a-z0-9-]*\.[a-z]+$/
-/(^|\.)vlxx[a-z0-9-]*\.[a-z]+$/
-/(^|\.)jable[a-z0-9-]*\.[a-z]+$/
-/(^|\.)subjav[a-z0-9-]*\.[a-z]+$/
-/(^|\.)vlxvn[a-z0-9-]*\.[a-z]+$/
-/(^|\.)ggjav[a-z0-9-]*\.[a-z]+$/
-/(^|\.)themjav[a-z0-9-]*\.[a-z]+$/
-/(^|\.)vjav[a-z0-9-]*\.[a-z]+$/
-/(^|\.)spankbang[a-z0-9-]*\.[a-z]+$/
-/(^|\.)rumahjav[a-z0-9-]*\.[a-z]+$/
-/(^|\.)18jav[a-z0-9-]*\.[a-z]+$/
-/(^|\.)njav[a-z0-9-]*\.[a-z]+$/
-/(^|\.)nangcuc[a-z0-9-]*\.[a-z]+$/
-/(^|\.)ads[a-z0-9-]*\.[a-z]+$/
+/(^|\.)[a-z0-9-]*(jav|sex|porn|xxx|xnxx|xvideos|vlxx|spankbang|phe18|jable|gai18|vlxvn|adtima|quangcao|ads|nangcuc|lenlut|vailon|heovl|topgai)[a-z0-9-]*\.[a-z]+$/
