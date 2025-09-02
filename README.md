@@ -13,7 +13,7 @@
 ## Step 2: Copy link raw Github and paste to uBlock Origin Extension.
   <html>
     <p style="text-align:center;">  
-    <a href="https://shylenienhost.ga/ads-filter/FAFD.txt">Link 1 </a>| 
+    <a href="https://hungphambkc.is-a.dev/FAFD/FAFD.txt">Link 1 </a>| 
     <a href="https://hungphambkc.github.io/FAFD/FAFD.txt">Link 2 </a>
     <img src="src/GUD_1.png">
     <img src="src/GUD_2.png">
