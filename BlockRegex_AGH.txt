@@ -4,4 +4,5 @@
 ! Source: chongluadao.vn/database, Kaspersky
 ! Author: Hung Pham
 ! ========================== List ===========================
-/(^|\.)[a-z0-9-]*(jav|sex|porn|xxx|xnxx|xvideos|vlxx|spankbang|phe18|jable|fa88|gai18|vlxvn|adtima|quangcao|ads|nangcuc|lenlut|vailon|heovl|topga|thempho|phimheo|casino|da88|du88|pub88|v99|bet|win79|vip79|rikvip|8live|9club|9live|vailon|rw88|b52|hitclub|bqnqrr|kinglive|mb66|ta88|five88|567live|lode88|thapcam|phevkl|au88|yo88|k9vn|gaixinh|i9|xo88)[a-z0-9-]*\.[a-z]+$/
+/(^|\.)[a-z0-9-]*(jav|sex|porn|xxx|xnxx|xvideos|vlxx|spankbang|phe18|jable|gai18|vlxvn|nangcuc|lenlut|vailon|heovl|topga|thempho|phimheo|gaixinh|phevkl)[a-z0-9-]*\.[a-z]+$/
+/(^|\.)[a-z0-9-]*(casino|da88|du88|pub88|v99|bet|win79|vip79|rikvip|8live|9club|9live|rw88|b52|hitclub|bqnqrr|kinglive|mb66|ta88|five88|567live|lode88|thapcam|au88|yo88|k9vn|i9|xo88|fa88|adtima|quangcao|ads)[a-z0-9-]*\.[a-z]+$/
