@@ -1,5 +1,5 @@
 ! Title: NoBlock Aguard Home
-! Version: 2025.05.12.01
+! Version: 2025.09.12.01
 ! Homepage: github.com/hungphambkc/FAFD
 ! Source: chongluadao.vn/database, Kaspersky
 ! Author: Hung Pham
@@ -47,3 +47,6 @@
 @@||zdn.vn
 @@||zedcdn.me
 @@||zingcdn.me
+@@||huyhung.name.vn
+@@||iblockads.net
+@@||ninjavan.co
