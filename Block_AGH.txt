@@ -4,6 +4,18 @@
 ! Source: chongluadao.vn/database, Kaspersky
 ! Author: Hung Pham
 ! ========================== List ===========================
+||p*-tiktok-ads-*.tiktokcdn.com
+||tiktok-ads.tiktokcdn.com
+||log.byteoversea.com
+||ads-sg.byteoversea.com
+||ads.tiktok.com
+||analytics.tiktok.com
+||business-api.tiktokglobalshop.com
+||log.tiktokv.com
+||log.tiktokcdn.com
+||mssdk.byteoversea.com
+||mon.tiktokv.com
+||tracking.tiktokglobalshop.com
 ||039cdndafa.com
 ||039jiasuoss.com
 ||1asb.com
@@ -145,6 +157,7 @@
 ||choigametip.co
 ||choihit.biz
 ||chuangxinyuan1.com
+||cleckvenin.com
 ||clobberprocurertightwad.com
 ||correctdilutetrophy.com
 ||d3hduwzidj9ppc.cloudfront.net
@@ -195,6 +208,7 @@
 ||kingfuncode.com
 ||lcyghezcuwwy.com
 ||lochfochpochgate.com
+||loupmismaze.com
 ||lulu88.co
 ||lutoorgourgi.com
 ||man68.top
@@ -208,11 +222,10 @@
 ||one88dangky.pro
 ||onebox63.center
 ||onzpibmryoh.com
-
 ||pasokav.com
 ||pfmmzmdba.com
 ||psegeevalrat.net
-
+||pultosteduardo.com
 ||qatgwawm.net
 ||qhu60kitu.info
 ||r0ckeet.com
@@ -282,3 +295,7 @@
 ||5170064c2d.com
 ||ruddy-pass.com
 ||mnaspm.com
+||attirecideryeah.com
+||usheebainaut.com
+||skiersiridium.click
+||seeweejaspis.qpon
