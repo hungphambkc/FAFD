@@ -5,9 +5,6 @@
 ! Author: Hung Pham
 ! ========================== List ===========================
 @@||123c.vn
-@@||accesstrade.vn
-@@||adjust.com
-@@||adjust.io
 @@||app.sbz.workers.dev
 @@||appsflyersdk.com
 @@||bmcdn.me
@@ -23,30 +20,12 @@
 @@||ln.run
 @@||lr-ingest.com
 @@||omtrdc.net
-@@||oracle.com
-@@||oraclecloud.com
-@@||oracleinfinity.io
 @@||pagead2.googlesyndication.com
 @@||s.net.vn
-@@||sbz.vn
-@@||scorecardresearch.com
 @@||sickw.com
-@@||studocu.com
-@@||subiz-cdn.com
-@@||subiz.com.vn
-@@||subiz.net
 @@||tawk.to
 @@||visualwebsiteoptimizer.com
-@@||vngcloud.vn
 @@||vwo.com
-@@||zadn.vn
-@@||zalo.me
-@@||zaloapp.com
-@@||zapps.me
-@@||zascdn.me
-@@||zdn.vn
-@@||zedcdn.me
-@@||zingcdn.me
 @@||huyhung.name.vn
 @@||iblockads.net
 @@||ninjavan.co
@@ -54,3 +33,4 @@
 @@||jwpltx.com
 @@||jwpcdn.com
 @@||jwpsrv.com
+@@/(^|\.)[a-z0-9-]*(threads|zadn|zalo|zapps|zascdn|zdn|zedcdn|zing|vng|subiz|studocu|oracle|sbz|scorecardresearch|adjust|accesstrade|apple|huyhung)[a-z0-9-]*(\.|$)/
