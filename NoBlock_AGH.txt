@@ -5,6 +5,7 @@
 ! Author: Hung Pham
 ! ========================== List ===========================
 @@||123c.vn
+@@||apple.com
 @@||accesstrade.vn
 @@||adjust.com
 @@||adjust.io
@@ -54,3 +55,5 @@
 @@||jwpltx.com
 @@||jwpcdn.com
 @@||jwpsrv.com
+@@||threads.com
+@@||threads.net
