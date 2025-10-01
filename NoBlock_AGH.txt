@@ -26,11 +26,10 @@
 @@||tawk.to
 @@||visualwebsiteoptimizer.com
 @@||vwo.com
-@@||huyhung.name.vn
 @@||iblockads.net
 @@||ninjavan.co
 @@||cloudbeta.win
 @@||jwpltx.com
 @@||jwpcdn.com
 @@||jwpsrv.com
-@@/(^|\.)[a-z0-9-]*(threads|zadn|zalo|zapps|zascdn|zdn|zedcdn|zing|vng|subiz|studocu|oracle|sbz|scorecardresearch|adjust|accesstrade|apple|huyhung)[a-z0-9-]*(\.|$)/
+@@/(^|\.)[a-z0-9-]*(github|threads|zadn|zalo|zapps|zascdn|zdn|zedcdn|zing|vng|subiz|studocu|oracle|sbz|scorecardresearch|adjust|accesstrade|apple|huyhung)[a-z0-9-]*(\.|$)/
