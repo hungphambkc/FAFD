@@ -1,5 +1,5 @@
 ! Title: NoBlock Aguard Home
-! Version: 2025.09.12.01
+! Version: 2025.10.12.01
 ! Homepage: github.com/hungphambkc/FAFD
 ! Source: chongluadao.vn/database, Kaspersky
 ! Author: Hung Pham
@@ -11,7 +11,6 @@
 @@||bom.so
 @@||caresoft.vn
 @@||crashlytics.com
-@@||duckdns.org
 @@||go-mpulse.net
 @@||google-analytics.com
 @@||googletagmanager.com
@@ -20,16 +19,12 @@
 @@||ln.run
 @@||lr-ingest.com
 @@||omtrdc.net
-@@||pagead2.googlesyndication.com
 @@||s.net.vn
 @@||sickw.com
-@@||tawk.to
-@@||visualwebsiteoptimizer.com
 @@||vwo.com
-@@||iblockads.net
 @@||ninjavan.co
 @@||cloudbeta.win
 @@||jwpltx.com
 @@||jwpcdn.com
 @@||jwpsrv.com
-@@/(^|\.)[a-z0-9-]*(github|threads|zadn|zalo|zapps|zascdn|zdn|zedcdn|zing|vng|subiz|studocu|oracle|sbz|scorecardresearch|adjust|accesstrade|apple|huyhung)[a-z0-9-]*(\.|$)/
+@@/(^|\.)[a-z0-9-]*(tawk|visualwebsiteoptimizer|duckdns|pagead2|iblockads|akamai|github|threads|zadn|zalo|zapps|zascdn|zdn|zedcdn|zing|vng|subiz|studocu|oracle|sbz|scorecardresearch|adjust|accesstrade|apple|huyhung)[a-z0-9-]*(\.|$)/
