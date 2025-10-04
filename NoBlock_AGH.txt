@@ -1,5 +1,5 @@
 ! Title: NoBlock Aguard Home
-! Version: 2025.10.12.01
+! Version: 04.2025.10
 ! Homepage: github.com/hungphambkc/FAFD
 ! Source: chongluadao.vn/database, Kaspersky
 ! Author: Hung Pham

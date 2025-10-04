@@ -1,11 +1,11 @@
 ! Title: Block Aguard Home
-! Version: 2025.07.12.01
+! Version: 04.2025.10
 ! Homepage: github.com/hungphambkc/FAFD
 ! Source: chongluadao.vn/database, Kaspersky
 ! Author: Hung Pham
 ! ========================== List ===========================
-/(^|\.)[a-z0-9-]*(jav|sex|porn|xxx|xnxx|xvideos|vlxx|spankbang|phe18|jable|gai18|vlxvn|nangcuc|lenlut|vailon|heovl|topga|thempho|phimheo|gaixinh|phevkl)[a-z0-9-]*(\.|$)/
-/(^|\.)[a-z0-9-]*(casino|da88|du88|pub88|jun88|v99|bet|win79|vip79|rikvip|8live|9club|9live|rw88|b52|hitclub|bqnqrr|kinglive|mb66|ta88|five88|567live|lode88|thapcam|au88|yo88|k9vn|i9|xo88|fa88|adtima|quangcao|ads)[a-z0-9-]*(\.|$)/
+/(^|\.)[a-z0-9-]*(jav|sex|porn|xxx|xnxx|xvideos|vlxx|spankbang|phe18|jable|gai18|vlxvn|nangcuc|myav|lenlut|vailon|heovl|topga|thempho|phimheo|gaixinh|phevkl|missav)[a-z0-9-]*(\.|$)/
+/(^|\.)[a-z0-9-]*(casino|da88|du88|pub88|jun88|iwin88|v99|sumclub|bet|win79|vip79|rikvip|8live|9club|9live|rw88|b52|hitclub|bqnqrr|kinglive|mb66|ta88|five88|567live|lode88|thapcam|au88|yo88|k9vn|i9|xo88|fa88|adtima|quangcao|ads)[a-z0-9-]*(\.|$)/
 
 ||p*-tiktok-ads-*.tiktokcdn.com
 ||tiktok-ads.tiktokcdn.com
@@ -142,7 +142,6 @@
 ||biguz.net
 ||bimbolive.com
 ||binzdapoet.shop
-||bitcasino.io
 ||bitmedia.io
 ||bitsmex.net
 ||bj88vnd.online
@@ -200,7 +199,6 @@
 ||hpyrdr.com
 ||instrumenttactics.com
 ||itweepinbelltor.com
-||iwin88.download
 ||jeroud.com
 ||jinripkk.com
 ||jouteetu.net
@@ -243,8 +241,6 @@
 ||sonclub1.online
 ||starisa.net
 ||stone27.cc
-||stripchatgirls.com
-||sumclub3.online
 ||szuxwuktaz.com
 ||taigamengay.in
 ||taigamengay.pw
