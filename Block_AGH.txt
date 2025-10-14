@@ -4,13 +4,11 @@
 ! Source: chongluadao.vn/database, Kaspersky
 ! Author: Hung Pham
 ! ========================== List ===========================
-/(^|\.)[a-z0-9-]*(jav|sex|porn|xxx|xnxx|xvideos|vlxx|spankbang|phe18|jable|gai18|vlxvn|nangcuc|myav|lenlut|vailon|heovl|topga|thempho|phimheo|gaixinh|phevkl|missav|xhamster|mmtv|idcw|oklax)[a-z0-9-]*(\.|$)/
-/(^|\.)[a-z0-9-]*(casino|da88|du88|pub88|jun88|iwin88|vin88|sky88|v99|sumclub|bet|win79|vip79|rikvip|8live|9club|9live|rw88|b52|hitclub|bqnqrr|kinglive|mb66|ta88|five88|567live|bimbolive|sonclub|lode88|thapcam|au88|yo88|k9vn|i9|xo88|fa88|68club|adtima|quangcao|ads)[a-z0-9-]*(\.|$)/
+/(^|\.)[a-z0-9-]*(jav|sex|porn|xxx|xnxx|xvideos|vlxx|spankbang|phe18|jable|gai18|vlxvn|nangcuc|myav|lenlut|vailon|heovl|topgai|thempho|phimheo|gaixinh|phevkl|missav|xhamster|mmtv|idcw|oklax)[a-z0-9-]*(\.|$)/
+/(^|\.)[a-z0-9-]*(casino|one88|vdu38|duatop88|da88|du88|pub88|jun88|iwin88|vin88|sky88|v99|sumclub|bet|win79|vip79|rikvip|8live|9club|9live|rw88|b52|hitclub|bqnqrr|kinglive|mb66|ta88|five88|567live|bimbolive|sonclub|lode88|thapcam|au88|yo88|k9vn|i9|xo88|fa88|68club)[a-z0-9-]*(\.|$)/
+/(^|\.)[a-z0-9-]*(adtima|quangcao|ads|ads-platform|tiktok-ads|ads-sg|log|tracking)[a-z0-9-]*(\.|$)/
 
 ||p*-tiktok-ads-*.tiktokcdn.com
-||tiktok-ads.tiktokcdn.com
-||log.byteoversea.com
-||ads-sg.byteoversea.com
 ||ads.tiktok.com
 ||analytics.tiktok.com
 ||business-api.tiktokglobalshop.com
@@ -18,7 +16,6 @@
 ||log.tiktokcdn.com
 ||mssdk.byteoversea.com
 ||mon.tiktokv.com
-||tracking.tiktokglobalshop.com
 ||039cdndafa.com
 ||039jiasuoss.com
 ||1asb.com
@@ -165,8 +162,6 @@
 ||dismissedsmoothlydo.com
 ||diagramjawlineunhappy.com
 ||doctor24hs.com
-||du88.com
-||duatop88.win
 ||dutydynamo.co
 ||ee67825.com
 ||endowmentoverhangutmost.com
@@ -177,7 +172,6 @@
 ||fhyldh039vip.com
 ||foodaijoli.com
 ||fractionfridgejudiciary.com
-||gametop88.me
 ||gamevui68.live
 ||gem.win
 ||gemicvn.pro
@@ -217,7 +211,6 @@
 ||nnfix.online
 ||nolapel.ru
 ||okxdownloadpc.com
-||one88dangky.pro
 ||onebox63.center
 ||onzpibmryoh.com
 ||pasokav.com
@@ -243,14 +236,12 @@
 ||tasco-vn.com
 ||thethaowin.fun
 ||tip.club
-||top88.vip
 ||topzo.city
 ||traktortds.com
 ||trum.club
 ||tubemogul.com
 ||ulhvsoob.com
 ||unactkiosk.com
-||vdu38.com
 ||vergopjt.com
 ||vic2.club
 ||wanhaihangyuncv.com
