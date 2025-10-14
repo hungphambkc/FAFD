@@ -9,11 +9,8 @@
 /(^|\.)[a-z0-9-]*(adtima|quangcao|ads|ads-platform|tiktok-ads|ads-sg|log|tracking)[a-z0-9-]*(\.|$)/
 
 ||p*-tiktok-ads-*.tiktokcdn.com
-||ads.tiktok.com
 ||analytics.tiktok.com
 ||business-api.tiktokglobalshop.com
-||log.tiktokv.com
-||log.tiktokcdn.com
 ||mssdk.byteoversea.com
 ||mon.tiktokv.com
 ||039cdndafa.com
