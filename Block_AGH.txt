@@ -5,8 +5,8 @@
 ! Author: Hung Pham
 ! ========================== List ===========================
 /(^|\.)[a-z0-9-]*(jav|sex|porn|xxx|xnxx|xvideos|vlxx|spankbang|phe18|jable|gai18|vlxvn|nangcuc|myav|lenlut|vailon|heovl|topgai|thempho|phimheo|gaixinh|phevkl|missav|xhamster|mmtv|idcw|oklax)[a-z0-9-]*(\.|$)/
-/(^|\.)[a-z0-9-]*(casino|789club|one88|lu88|vdu38|duatop88|da88|du88|pub88|jun88|iwin88|vin88|sky88|v99|sumclub|bet|win79|vip79|rikvip|8live|9club|9live|rw88|b52|hitclub|bqnqrr|kinglive|mb66|ta88|five88|567live|bimbolive|sonclub|lode88|thapcam|au88|yo88|k9vn|i9|xo88|fa88|68club)[a-z0-9-]*(\.|$)/
-/(^|\.)[a-z0-9-]*(adtima|adtima-media|ads-platform|quangcao|ads|ads-platform|tiktok-ads|ads-sg|tracking)[a-z0-9-]*(\.|$)/
+/(^|\.)[a-z0-9-]*(casino|789club|bong99|one88|lu88|vdu38|duatop88|da88|du88|pub88|jun88|iwin88|vin88|sky88|v99|sumclub|bet|win79|vip79|rikvip|8live|9club|9live|rw88|b52|hitclub|bqnqrr|kinglive|mb66|ta88|five88|567live|bimbolive|sonclub|lode88|thapcam|au88|yo88|k9vn|i9|xo88|fa88|68club)[a-z0-9-]*(\.|$)/
+/(^|\.)[a-z0-9-]*(adtima|adtima-media|quangcao|ads|ads-platform|tiktok-ads|ads-sg|tracking)[a-z0-9-]*(\.|$)/
 
 ||p*-tiktok-ads-*.tiktokcdn.com
 ||analytics.tiktok.com
@@ -140,7 +140,6 @@
 ||blehcourt.com
 ||blurbreimbursetrombone.com
 ||bmw6128.com
-||bong99.cc
 ||broadensilkslush.com
 ||brutishlylifevoicing.com
 ||c14722268888.com
