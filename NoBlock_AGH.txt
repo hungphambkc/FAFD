@@ -6,16 +6,13 @@
 ! ========================== List ===========================
 @@||123c.vn
 @@||app.sbz.workers.dev
-@@||appsflyersdk.com
 @@||bom.so
-@@||caresoft.vn
 @@||crashlytics.com
 @@||go-mpulse.net
 @@||hoanoola.net
 @@||ln.run
 @@||lr-ingest.com
-@@||omtrdc.net
 @@||s.net.vn
 @@||sickw.com
 @@||cloudbeta.win
-@@/(^|\.)[a-z0-9-]*(bmcdn|vwo|canvato|google-analytics|googletagmanager|googletagservices|jwpcdn|jwpltx|jwpsrv|ninjavan|tawk|visualwebsiteoptimizer|duckdns|pagead2|iblockads|akamai|github|threads|zadn|zalo|zapps|zascdn|zdn|zedcdn|zing|vng|subiz|studocu|oracle|sbz|scorecardresearch|adjust|accesstrade|apple|huyhung|openwrt)[a-z0-9-]*(\.|$)/
+@@/(^|\.)[a-z0-9-]*(appsflyersdk|caresoft|bmcdn|vwo|canvato|google-analytics|googletagmanager|googletagservices|jwpcdn|jwpltx|jwpsrv|ninjavan|tawk|visualwebsiteoptimizer|duckdns|pagead2|iblockads|akamai|github|threads|zing|vng|subiz|studocu|oracle|sbz|scorecardresearch|adjust|accesstrade|apple|huyhung|openwrt|omtrdc)[a-z0-9-]*(\.|$)/
